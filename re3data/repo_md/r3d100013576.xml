@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013576</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Digital Archive of the Archaeological Map of the Czech Republic</r3d:repositoryName>
+                    <r3d:additionalName language="eng">AMCR Digital Archive</r3d:additionalName>
+                    <r3d:additionalName language="ces">Digitální archiv AMČR</r3d:additionalName>
+                    <r3d:additionalName language="ces">Digitální archiv Archeologické mapy České republiky</r3d:additionalName>
+                <r3d:repositoryURL>https://digiarchiv.aiscr.cz/</r3d:repositoryURL>
+                <r3d:description language="eng">The Archaeological Map of the Czech Republic (AMCR) is an information system for the collection, management and presentation of data on archaeological research in the territory of the Czech Republic and for the knowledge of the past of Bohemia, Moravia and Silesia. The data included describe tens of thousands of archaeological investigations and their concrete findings. They include information about research leaders, when the research was conducted, its location, what findings and from what period the research found. A special type of record is data on archaeological sites, detected by both surface and remote sensing. Most records are linked to digital document storage and bibliographic catalogue.</r3d:description>
+                    <r3d:repositoryContact>amcr@arup.cas.cz</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2017</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>ces</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">101 Ancient Cultures</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">102 History</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                <r3d:missionStatementURL>https://digitalhumanities.cz/en/db/archaeological-map-of-the-czech-republic/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>LTP</r3d:keyword>
+                    <r3d:keyword>archaeology</r3d:keyword>
+                    <r3d:keyword>digital archives</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Archaeological Information System of the Czech Republic</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">AIS CR</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="ces">Archeologický informační systém České republiky</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CZE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.aiscr.cz/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2016</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>info@amapa.cz</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Czech Academy of Sciences, Institute of Archaeology, Brno</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Institute of Archaeology CAS, Brno</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CZE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://arub.avcr.cz/index.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>amcr@arub.cz</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Czech Academy of Sciences, Institute of Archaeology, Prague</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Institute of Archaeology CAS, Prague</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CZE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.arup.cas.cz/en/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>amcr@arup.cas.cz</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>License and data re-use</r3d:policyName>
+                <r3d:policyURL>https://www.aiscr.cz/en/#about</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/licenses/by-nc/4.0/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>institutional membership</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-nc/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://digiarchiv.aiscr.cz/home</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>CC-BY-NC 4.0</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://creativecommons.org/licenses/by-nc/4.0/</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                        <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://api.aiscr.cz/dapro/oai</r3d:api>
+                            <r3d:pidSystem>other</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.aiscr.cz/en/#about</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>The Digital Archive is part of the Archaeological Information System of the Czech Republic (AIS CR) https://www.aiscr.cz/en/</r3d:remarks>
+        <r3d:entryDate>2021-05-20</r3d:entryDate>
+        <r3d:lastUpdate>2021-06-02</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

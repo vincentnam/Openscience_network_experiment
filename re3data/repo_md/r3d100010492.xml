@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010492</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">LiDA</r3d:repositoryName>
+                    <r3d:additionalName language="lit">Lietuvos HSM duomenų archyvas</r3d:additionalName>
+                <r3d:repositoryURL>https://lida.dataverse.lt</r3d:repositoryURL>
+                <r3d:description language="eng">Lithuanian Data Archive for Social Sciences and Humanities (LiDA) is a virtual digital infrastructure for data acquisition, long-term preservation and dissemination. It provides access to more than 700 datasets. All the international and national data resources are documented in both Lithuanian and English. LiDA curates most of the data collected conducting the most important international social surveys in Lithuania – the European Social Survey, European Values Studies, European Election Studies and the International Social Research Program.</r3d:description>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2021-11-03">700 data sets</r3d:size>
+        <r3d:startDate>2006</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>lit</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">104 Linguistics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11102 Empirical Social Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11103 Communication Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11104 Political Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">112 Economics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11206 Economic and Social History</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">113 Jurisprudence</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11305 Criminology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://data.ktu.edu/en-lida/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>political processes</r3d:keyword>
+                    <r3d:keyword>political structures</r3d:keyword>
+                    <r3d:keyword>social conditions</r3d:keyword>
+                    <r3d:keyword>survey data</r3d:keyword>
+                    <r3d:keyword>value orientations</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Kaunas University of Technology, Centre for Data Analysis and Archiving</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="lit">Kauno technologijos universiteto Duomenų analizės ir archyvavimo centras</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>LTU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://ktu.edu/en/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2006</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>data@ktu.lt</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Republic of Lithuania Ministry of Education and Science</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="lit">Švietimo ir mokslo ministerija</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>LTU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.smm.lt/web/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0137z3b32</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2006</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2021</r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Vilnius University, Institute for Social Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="lit">Vilniaus universitetas</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>LTU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.vu.lt/en</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2006</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2021</r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms of use for the LiDA Dataverse repository data</r3d:policyName>
+                <r3d:policyURL>https://data.ktu.edu/en-lida/#terms-of-use</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-sa/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>Dataverse</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://lida.dataverse.lt/api/datasets/export?exporter=OAI_ORE&amp;persistentId=hdl%3A21.12137/FZKGYG</r3d:api>
+                            <r3d:pidSystem>hdl</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://dataverse.org/best-practices/data-citation</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>ORCID</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">OAI-ORE - Open Archives Initiative Object Reuse and Exchange</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/oai-ore-open-archives-initiative-object-reuse-and-exchange</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>not all the datasets are available, as in 2019-2021 a migration project from the old infrastructure is being implemented</r3d:remarks>
+        <r3d:entryDate>2013-08-21</r3d:entryDate>
+        <r3d:lastUpdate>2021-11-03</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

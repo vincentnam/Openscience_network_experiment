@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010801</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">National Science Digital Library</r3d:repositoryName>
+                    <r3d:additionalName language="eng">NSDL</r3d:additionalName>
+                <r3d:repositoryURL>https://nsdl.oercommons.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>RRID:SCR_008215</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-21294</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>biodbcore-001196</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The National Science Digital Library provides high quality online educational resources for teaching and learning, with current emphasis on the sciences, technology, engineering, and mathematics (STEM) disciplines—both formal and informal, institutional and individual, in local, state, national, and international educational settings. The NSDL collection contains structured descriptive information (metadata) about web-based educational resources held on other sites by their providers. These providers have contribute this metadata to NSDL for organized search and open access to educational resources via this website and its services.</r3d:description>
+                    <r3d:repositoryContact>https://nsdl.oercommons.org/feedback</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://nsdl.oercommons.org/nsdl-contacts-page</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2018-11-23">43.051 datasets</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">102 History</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">109 Education Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">113 Jurisprudence</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31301 Atmospheric Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">317 Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">33 Mathematics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">409 Computer Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</r3d:subject>
+                <r3d:missionStatementURL>https://nsdl.oercommons.org/nsdl-overview</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>space science</r3d:keyword>
+                    <r3d:keyword>technology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Institute for the Study of Knowledge Management in Education</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ISKME</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://iskme.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2013</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://iskme.org/about-us/contact-us</r3d:institutionContact>
+                                    <r3d:institutionContact>info@iskme.org</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nsf.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nsf.gov/help/contact.jsp</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">OER Commons</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Open Educational Resources</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.oercommons.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2013</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>info@oercommons.org</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University Corporation for Atmospheric Research, National Science Digital Library</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">UCAR</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www2.ucar.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2013</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www2.ucar.edu/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>OER Commons Conditions of Use</r3d:policyName>
+                <r3d:policyURL>http://wiki.oercommons.org/index.php/OER_Licensing_and_Conditions_of_Use</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>OER Licensing and Conditions of Use</r3d:policyName>
+                <r3d:policyURL>http://wiki.oercommons.org/index.php/OER_Licensing_and_Conditions_of_Use</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://creativecommons.org/licenses/by-nc-sa/3.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://wiki.oercommons.org/index.php/Submitting_Materials_to_OER_Commons</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://wiki.oercommons.org/index.php/Submitting_Materials_to_OER_Commons</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Submitting Materials to OER Commons</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>http://wiki.oercommons.org/index.php/Submitting_Materials_to_OER_Commons</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://wiki.ucar.edu/display/nsdldocs/nsdl_dc</r3d:api>
+                            <r3d:pidSystem>hdl</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2014-07-15</r3d:entryDate>
+        <r3d:lastUpdate>2021-09-08</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

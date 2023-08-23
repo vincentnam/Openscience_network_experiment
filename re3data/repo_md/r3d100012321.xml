@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012321</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Carbohydrate-Active enZYmes Database</r3d:repositoryName>
+                    <r3d:additionalName language="eng">CAZy</r3d:additionalName>
+                <r3d:repositoryURL>http://www.cazy.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.ntyq70</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_01677</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_012909</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>nif-0000-02642</r3d:repositoryIdentifier>
+                <r3d:description language="eng">CAZy is a specialist database dedicated to the display and analysis of genomic, structural and biochemical information on Carbohydrate-Active Enzymes (CAZymes).  CAZy data are accessible either by browsing sequence-based families or by browsing the content of genomes in carbohydrate-active enzymes. New genomes are added regularly shortly after they appear in the daily releases of GenBank. New families are created based on published evidence for the activity of at least one member of the family and all families are regularly updated, both in content and in description.</r3d:description>
+                    <r3d:repositoryContact>cazy@afmb.univ-mrs.fr</r3d:repositoryContact>
+                    <r3d:repositoryContact>http://www.afmb.univ-mrs.fr/Bernard-Henrissat?lang=fr</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1998</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20101 Biochemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>http://www.afmb.univ-mrs.fr/cazy-bioinformatic-platform</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>CAZymes</r3d:keyword>
+                    <r3d:keyword>carbohydrate</r3d:keyword>
+                    <r3d:keyword>carbohydrate binding module</r3d:keyword>
+                    <r3d:keyword>carbohydrate esterase</r3d:keyword>
+                    <r3d:keyword>catalytic binding</r3d:keyword>
+                    <r3d:keyword>enzyme</r3d:keyword>
+                    <r3d:keyword>glycosidic bond</r3d:keyword>
+                    <r3d:keyword>glycosidic hydrolase</r3d:keyword>
+                    <r3d:keyword>glycosyl transferase</r3d:keyword>
+                    <r3d:keyword>polysaccharide lyase</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="fra">Université d&#039;Aix-Marseille, Laboratoire Architecture et Fonction des Macromolécules Biologiques</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">AFMB</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.afmb.univ-mrs.fr/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.afmb.univ-mrs.fr/Bernard-Henrissat?lang=fr</r3d:institutionContact>
+                                    <r3d:institutionContact>http://www.afmb.univ-mrs.fr/adressfr</r3d:institutionContact>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.cazy.org/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.afmb.univ-mrs.fr/mentions-legalen</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>MySQL</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                        <r3d:citationGuidelineURL>http://www.cazy.org/Citing-CAZy.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2017-02-14</r3d:entryDate>
+        <r3d:lastUpdate>2019-01-25</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013001</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">York Region Open Data</r3d:repositoryName>
+                <r3d:repositoryURL>https://insights-york.opendata.arcgis.com/</r3d:repositoryURL>
+                <r3d:description language="eng">Access to the York Region open data catalogue. Explore, combine, and download open data from York Region.</r3d:description>
+                    <r3d:repositoryContact>open.data@york.ca</r3d:repositoryContact>
+                            <r3d:type>other</r3d:type>
+                <r3d:size updated="2019-06-03">188 datasets</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://www.york.ca/wps/portal/yorkhome/yorkregion/yr/statisticsanddata/opendata/opendata/!ut/p/a1/tZFdT8IwGIV_CxdcLn3Xbqy7rFPZRhgmaNx2Q8q-GLIPRiXir7egMRKDiKm9at-cPjnnPShGIYprvi0LLsqm5qv9Ox7MPDb0XHcE_sSgDjCYMB9bFOjIkoJICuDEYXDu_yOKUZzUohULFO26WdLUIqtFH3ZN9yQfG1GK58Ng0VTZ-7jLCumuDxshbUpBsuF1mnLB-9C0WX182_PbpExRlANOMUmwZlMDa8aAzLU5pqClYGdpkhPL1jnyfxEYd2NnXEgsFwutrPMGhd-soPDTwJcbisrleh0zGXmf80Wg8F8yH7Yqc2BsDFzdAR_cCQXv1rozr6mrg2OeEYzwh-CHZiNZvXVyVVMdTS_c_RmgpRiIsWqgqRqoOrL311J8DxydSeCQ3BBg2HPoFfFpEIBqh0QxkKlumamOzC5vua0eKkrMVUGF7S3Ndvt6n1fVLAg0PqdAjgYR6_XeAI8hMF8!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/#.XPTozPXgqUk</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>multidisciplinary</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">York Region</r3d:institutionName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.york.ca</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Accessibility</r3d:policyName>
+                <r3d:policyURL>https://www.york.ca/wps/portal/yorkhome/yorkregion/yr/accessibility/!ut/p/a1/rZFLU8IwFIV_jctObh4lYRmr0hYBZ9CRdsOE0kKUPiiREX-9Ad2wQESTXe6cfDnnHpSiCUortdULZXRdqdX-nnamkexFYdiHeMREABJGMiZcgOhzK0isAE4cCefeP6MUpVllGrNEya6dZnVl8spcwa5uX-1lY7R5OwyWdZl_jdt8Yd1dgcqyfLPRM73SZrfnNJmeoyTvkm6BC-ZlmBYe44x4inHqzflMFX6HYcy6KP5FMNIOgsHCYpVZeroqajQ5_tJq9Mt6nUobYe_73aDJvzIctmF9EcI6IQ4ghnAkILrjD_6NCDEE_hlBn3wLfmgksZXxk9HHGI0v3OUZIHcMJMQ10HcNdB05-mspcQQBlhbYo7cUJIkCcU1jMRyCa4fUMVC6blm6jiwvb7kpn0pB_dX2vhhHnpoJoH6z_XgsynI6HB4PPgGORfLu/dl5/d5/L2dBISEvZ0FBIS9nQSEh/#.XPTpEfXgqUk</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Open Data</r3d:policyName>
+                <r3d:policyURL>https://www.york.ca/wps/portal/yorkhome/yorkregion/yr/statisticsanddata/opendata/opendata/!ut/p/a1/tZFdT8IwGIV_CxdcLn3Xbqy7rFPZRhgmaNx2Q8q-GLIPRiXir7egMRKDiKm9at-cPjnnPShGIYprvi0LLsqm5qv9Ox7MPDb0XHcE_sSgDjCYMB9bFOjIkoJICuDEYXDu_yOKUZzUohULFO26WdLUIqtFH3ZN9yQfG1GK58Ng0VTZ-7jLCumuDxshbUpBsuF1mnLB-9C0WX182_PbpExRlANOMUmwZlMDa8aAzLU5pqClYGdpkhPL1jnyfxEYd2NnXEgsFwutrPMGhd-soPDTwJcbisrleh0zGXmf80Wg8F8yH7Yqc2BsDFzdAR_cCQXv1rozr6mrg2OeEYzwh-CHZiNZvXVyVVMdTS_c_RmgpRiIsWqgqRqoOrL311J8DxydSeCQ3BBg2HPoFfFpEIBqh0QxkKlumamOzC5vua0eKkrMVUGF7S3Ndvt6n1fVLAg0PqdAjgYR6_XeAI8hMF8!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/#.XPTozPXgqUk</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://www.york.ca/wps/portal/yorkhome/yorkregion/yr/privacyanddisclaimer/websitetermsofuse/disclaimerstermsofuseandcopyrights/!ut/p/a1/rVFdb4IwFP01PpJeqEB5rLgJGHGbW1ReTK0VG-UjUDXu16_OJWbZnLrQt3t67sk596AETVCSs51MmZJFzjbHOXFmIe2FQdCHaNgmPlAY0shyCZC-qwlTTYALj8K1_TFKUMJzVaoVmh6qGS9yJXLVgkNRrfVQK6m2n8CqyMQJrkSq3bWgrOSO8QPLFwtZ8w2TmahasBfzWiqhRJXVxXJb66Xzd32G9RovykMl05Wqjy5KLhdoipnLTY-7BnEwNtqOiQ1GXM_wsGDOXHBn7nEU3XAWqxr4g1TLMrUyZL4s0OQ3w2jywzCa3GB43EGJibt79ny6ofZjWW0nMH2IIBgSCB_dJ7tLAhN8-wqhb30R_uhxqot2L0YemWh05w2vCLoNC1pW04J204JNRw7_W0oUgm9SLdjDDxioFfqkgyMSx9C0Q9ywIG26Zdp0ZHp_y2X2lhFsb1JirF8IYLvcvb8us2wWxwabfwMGH1Ur5i0!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/#.XPToXfXgqUk</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>OGLC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://ago-item-storage.s3.us-east-1.amazonaws.com/78cc02388af248c0b7a30eda6adfade0/Open_Data_Licence.pdf?X-Amz-Security-Token=AgoJb3JpZ2luX2VjENP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIFy9CfXKqIpUvE79qw3ZUme8W%2F6LQ8n4eFXZ7PDVe9GSAiEA0EtEx%2BmQgzkiydAeKqkJ%2FdYoxVHRCLiMbKZd3R%2Bfz1Yq2gMIfBAAGgw2MDQ3NTgxMDI2NjUiDMxEEQ3kv9HBvba1dCq3Azep1sAUZRkbbbomTstgMejMfVj%2FMSo6ilvZBmzFR%2FcYSLTEj3jMVDO4uN4bhwqlXGkjmeJ6dXohHGu0fw41PO3nUm2%2FMhx%2FYwDJMDey4FSENTGEejbPXjedAJKtTXoz%2FubDnv3SSEgRM1ZUvfIFYZ4L071%2BHO%2BiOthdVSiDtestS4gG2m0Ybs6sPjNt9VpkF1nHBXg8X3b1FAXkv7NHDbfRW24Aw%2BAHlzpiTadnXCXqPjxy8OLm16si00tnuqIkU6dwRzriUnqoXNLV8YhOtx%2BXrsyFkDkW4q5uiGIxE9r2s%2FnI2fKLBhFeEwxq%2FjjzW8662sPU4rdbeoCxAG6tJMOSpw49UBE2hJxILPuhdPpAYIym1UokVxpQSjBDgV1RHLSGVY7npMfuccnZkY7I5HVMxM2so8Mnwbh6JiAbYMGpJy%2BV2B8A7sXt9WYUIy8pIIuE2Eud8BeNALCnNOw1JoYKDv8rYgZWxAQRNNA8b4Y0hlTTEIuNYqx6nK7GWfXpzXGXpjmqxOqjOZ0JWuOOuUeBvK%2FC41HBNNFeTHFr6Kh6yXeTWo8ZUdt6rrkCbyHjPD6W1xUlze8w87zP5AU6tAHTn%2FOwD6sPpnQl1WlnABIEpDqhWVgPuognx1qhl%2Fl6ucFEJlda7LRybJsu13MNm77LC%2Be5l8W2n%2Bj7HY0HEQaJkmxDbeAsO1uj6v%2F3ZIPl1FB5Z3lhFpNo%2F%2FXHuqUb63LOr3MZ%2B0peU9ZL69Vcm9rfRxASs3ffOvwpINQZo4GeZN2z4GIk%2FeYvIk9Lvefb7AwqNDEkXrwSwWJDKTvkdYpG2SZFZb2HcokFonA6fr0UjcGFAi4%3D&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Date=20190321T194808Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=300&amp;X-Amz-Credential=ASIAYZTTEKKE7EQMHQJG%2F20190321%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Signature=985c9f9be09b13f046042dcd778712833a4f09c94edbdd53000e19e05b47f0f6</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="REST">https://services1.arcgis.com/GzvOwaQBbX7KLiuG/ArcGIS/rest/services</r3d:api>
+                        <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2019-03-21</r3d:entryDate>
+        <r3d:lastUpdate>2019-06-05</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010925</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">BeeBase</r3d:repositoryName>
+                    <r3d:additionalName language="eng">The honey bee model organism database</r3d:additionalName>
+                <r3d:repositoryURL>http://hymenopteragenome.org/beebase/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>OMICS_10641</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_008966</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_152034</r3d:repositoryIdentifier>
+                <r3d:description language="eng">BeeBase provides gene sequences and genomes of Bombus terrestris, B. impatiens, Apis mellifera and three of its pathogens. BeeBase data is discoverable and analyzed via genome browsers, blast search, and apollo annotation tool.</r3d:description>
+                    <r3d:repositoryContact>hymenopterabase@gmail.com</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2011</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>bee culture</r3d:keyword>
+                    <r3d:keyword>bee pollen</r3d:keyword>
+                    <r3d:keyword>bee products</r3d:keyword>
+                    <r3d:keyword>beehives</r3d:keyword>
+                    <r3d:keyword>bees</r3d:keyword>
+                    <r3d:keyword>entomology</r3d:keyword>
+                    <r3d:keyword>genomics</r3d:keyword>
+                    <r3d:keyword>honey</r3d:keyword>
+                    <r3d:keyword>insects</r3d:keyword>
+                    <r3d:keyword>pollination</r3d:keyword>
+                    <r3d:keyword>pollination by bees</r3d:keyword>
+                    <r3d:keyword>pollinators</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Barkman Honey LLC</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Golden Heritage Foods LLC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>commercial</r3d:institutionType>
+                <r3d:institutionURL>http://www.barkmanhoney.com/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>honey@nhb.org</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Sioux Honey Association</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">SHA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>commercial</r3d:institutionType>
+                <r3d:institutionURL>https://siouxhoney.com/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>jbush@skar.com</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Texas A &amp; M AgriLife Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">TAES</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Texas Agricultural Experiment Station</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://agriliferesearch.tamu.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://agriliferesearch.tamu.edu/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">United States Department of Agriculture, Agricultural Research Service</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">USDA ARS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ars.usda.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ars.usda.gov/contact-us/?modeCode=00-00-00-00</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">United States Department of Agriculture, National Research Initiative</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">USDA NRI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>sponsoring</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.usda.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.usda.gov/wps/portal/usda/usdahome?navid=CONTACT_US</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Missouri, Elsik Laboratory,</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Elsik Laboratory</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://genomes.missouri.edu/elsiklab/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>ce75@georgetown.edu</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data Usage Policy</r3d:policyName>
+                <r3d:policyURL>http://hymenopteragenome.org/?q=data_usage_policy</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://hymenopteragenome.org/?q=data_usage_policy</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://hymenopteragenome.org/?q=how_to_cite</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Beebase is part of Hymenoptera Genome Database.</r3d:remarks>
+        <r3d:entryDate>2014-08-26</r3d:entryDate>
+        <r3d:lastUpdate>2019-05-15</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>
