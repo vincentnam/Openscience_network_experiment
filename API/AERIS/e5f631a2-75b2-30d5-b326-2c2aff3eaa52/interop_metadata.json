@@ -1,0 +1,270 @@
+{
+  "resourceTitle": {
+    "en": "1B-CPR",
+    "fr": "1B-CPR"
+  },
+  "resourceAbstract": {
+    "en": "CPR Radar Backscatter Profiles - Level 1B",
+    "fr": "CPR Radar Backscatter Profiles - Level 1B"
+  },
+  "id": "e5f631a2-75b2-30d5-b326-2c2aff3eaa52",
+  "lastModification": {
+    "value": "2018-11-15T10:28:25"
+  },
+  "aerisDataCenter": "ICARE",
+  "dataCenter": "",
+  "temporalExtents": null,
+  "spatialExtents": [
+    {
+      "area": {
+        "type": "RECTANGLE_AREA",
+        "northLatitude": 90.0,
+        "southLatitude": -90.0,
+        "eastLongitude": 180.0,
+        "westLongitude": -180.0
+      },
+      "name": "",
+      "description": "",
+      "additionalData": null,
+      "comment": "",
+      "projection": "EPSG 4326",
+      "spatialRepresentation": null,
+      "orbit": null
+    }
+  ],
+  "publications": null,
+  "links": [
+    {
+      "type": "HTTP_DOWNLOAD_LINK",
+      "url": "http://www.icare.univ-lille1.fr/archive/?dir=CLOUDSAT/1B-CPR",
+      "name": "",
+      "description": {
+        "en": "HTTP download through AERIS/ICARE data pool interface",
+        "fr": "Téléchargement HTTP sur le site web AERIS/ICARE"
+      }
+    },
+    {
+      "type": "FTP_DOWNLOAD_LINK",
+      "url": "ftp://ftp.icare.univ-lille1.fr/SPACEBORNE/CLOUDSAT/1B-CPR",
+      "name": "",
+      "description": {
+        "en": "FTP download from AERIS/ICARE",
+        "fr": "Téléchargement FTP depuis le site AERIS/ICARE"
+      }
+    }
+  ],
+  "identifiers": null,
+  "status": "Public",
+  "visibility": null,
+  "distributionInformation": {
+    "dataPolicyName": "",
+    "dataPolicyVersion": "",
+    "dataPolicyUrl": "",
+    "dataPolicyReminder": false,
+    "embargoStartDate": "",
+    "embargoDuration": 0,
+    "embargoRoles": null,
+    "dataAccessRoles": null,
+    "roles": null,
+    "registrationNeeded": true,
+    "authenticationNeeded": false,
+    "description": {
+      "en": null,
+      "fr": null
+    },
+    "licenceName": "",
+    "licenceVersion": "",
+    "licencePolicyUrl": "",
+    "accessConstraints": null,
+    "useConstraints": null
+  },
+  "language": "en",
+  "contacts": [
+    {
+      "firstName": "",
+      "lastName": "",
+      "name": "CloudSat DPC Helpdesk",
+      "nameType": "",
+      "email": "cloudsat@colostate.edu",
+      "organisation": "Cooperative Institute for Research in the Atmosphere (CIRA), Colorado State University",
+      "organisations": null,
+      "comment": {
+        "en": "Production, archive, and distribution of CloudSat products",
+        "fr": "Production, archive, and distribution of CloudSat products"
+      },
+      "address": null,
+      "roles": [
+        "pointofcontact",
+        "originator",
+        "processor",
+        "owner",
+        "distributor",
+        "custodian"
+      ],
+      "orcId": "",
+      "ror": "",
+      "webSiteUrl": "",
+      "temporalExtents": null
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "name": "AERIS/ICARE Helpdesk",
+      "nameType": "",
+      "email": "contact@icare.univ-lille1.fr",
+      "organisation": "AERIS/ICARE Data and Services Center",
+      "organisations": null,
+      "comment": {
+        "en": "Mirror archive",
+        "fr": "Mirror archive"
+      },
+      "address": null,
+      "roles": [
+        "pointofcontact",
+        "custodian",
+        "distributor"
+      ],
+      "orcId": "",
+      "ror": "",
+      "webSiteUrl": "",
+      "temporalExtents": null
+    }
+  ],
+  "quicklooks": null,
+  "keywords": null,
+  "modifications": null,
+  "genealogy": null,
+  "editInformations": {
+    "histories": [
+      {
+        "name": "Abehserra Maxime ",
+        "date": "2021-03-01T22:18:31.524",
+        "origin": "catalogue-aeris",
+        "editFields": [
+          "clientTemplateName"
+        ]
+      },
+      {
+        "name": "Abehserra Maxime ",
+        "date": "2021-03-01T22:18:54.318",
+        "origin": "catalogue-aeris",
+        "editFields": [
+          "clientTemplateName"
+        ]
+      },
+      {
+        "name": "Abehserra Maxime ",
+        "date": "2021-03-01T22:20:22.904",
+        "origin": "catalogue-aeris",
+        "editFields": [
+          "clientTemplateName"
+        ]
+      },
+      {
+        "name": "Abehserra Maxime ",
+        "date": "2021-03-01T22:20:56.254",
+        "origin": "catalogue-aeris",
+        "editFields": [
+          "clientTemplateName"
+        ]
+      },
+      {
+        "name": "Abehserra Maxime ",
+        "date": "2021-03-01T22:31:17.309",
+        "origin": "catalogue-aeris",
+        "editFields": [
+          "clientTemplateName"
+        ]
+      },
+      {
+        "name": "Abehserra Maxime ",
+        "date": "2021-03-01T22:40:19.745",
+        "origin": "catalogue-aeris",
+        "editFields": [
+          "clientTemplateName"
+        ]
+      },
+      {
+        "name": "Abehserra Maxime ",
+        "date": "2021-03-01T22:59:22.589",
+        "origin": "catalogue-aeris",
+        "editFields": [
+          "clientTemplateName"
+        ]
+      },
+      {
+        "name": "Abehserra Maxime ",
+        "date": "2021-03-01T22:59:47.792",
+        "origin": "catalogue-aeris",
+        "editFields": [
+          "clientTemplateName"
+        ]
+      }
+    ]
+  },
+  "datasetChangelogs": null,
+  "resourceType": "Dataset",
+  "formats": [
+    {
+      "name": "HDF4",
+      "version": "",
+      "description": null,
+      "readingInformation": null,
+      "temporalInterval": null
+    }
+  ],
+  "dataLevel": "L1",
+  "processLevel": null,
+  "site": null,
+  "sites": [],
+  "programName": "",
+  "collectionName": "",
+  "clientTemplateName": "",
+  "interoperabilityInformation": {
+    "filterDescription": null
+  },
+  "plateforms": null,
+  "parameters": null,
+  "instruments": null,
+  "platforms": null,
+  "platformSet": [
+    {
+      "thesaurusCode": "https://vocab.aeris-data.fr/platform/9a3f5012-9528-e57a-1523-1a3b399a1de3",
+      "name": "",
+      "description": null,
+      "label": "Earth Observation Satellites.NASA Earth System Science Pathfinder.CloudSat"
+    }
+  ],
+  "instrumentSet": [
+    {
+      "thesaurusCode": "https://vocab.aeris-data.fr/instrument/192cac5e-11ce-5fda-ec0f-d4b7931c5cc1",
+      "description": null,
+      "name": "",
+      "manufacturer": "",
+      "model": "",
+      "serialNumber": "",
+      "calibration": "",
+      "resolution": null,
+      "label": "Altimeters.Radar Altimeters.CloudSat-CPR"
+    }
+  ],
+  "projectSet": [
+    {
+      "thesaurusCode": "SPATIAL.CLOUDSAT",
+      "label": "Space missions.CloudSat",
+      "shortName": "CLOUDSAT"
+    }
+  ],
+  "parameterSet": null,
+  "projects": null,
+  "datasetSpecification": null,
+  "documentRating": 0,
+  "note": 20,
+  "metadataLevel": "Collection",
+  "identifier": "e5f631a2-75b2-30d5-b326-2c2aff3eaa52",
+  "type": "COLLECTION",
+  "technicalInformation": {
+    "catalogueName": "aeris",
+    "catalogueMode": "prod"
+  }
+}

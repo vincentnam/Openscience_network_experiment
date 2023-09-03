@@ -1,0 +1,16 @@
+# Defaults values for example document, based on type : 
+- date
+- name
+- string
+- integer
+- URL
+- region
+- country
+- city
+- mail
+- id (local id, ORCid, DOI, etc..)
+- list[type]
+- request
+- URL 
+- URI
+- phone number

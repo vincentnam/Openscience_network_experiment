@@ -1,0 +1,202 @@
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#resourceTitle> _:B4063730dX2D8f89X2D4050X2Db196X2D1234348dce1b .
+_:B4063730dX2D8f89X2D4050X2Db196X2D1234348dce1b <https://localhost/#en> "ACSM - MBour station - Level 1" .
+_:B4063730dX2D8f89X2D4050X2Db196X2D1234348dce1b <https://localhost/#fr> "ACSM - MBour station - Level 1" .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#resourceAbstract> _:B8668147eX2D541fX2D47b3X2D9b26X2Da6302ffbc31f .
+_:B8668147eX2D541fX2D47b3X2D9b26X2Da6302ffbc31f <https://localhost/#en> "Time series of L1 Aerodyne ACSM_140-157 Aerosol Chemical Speciation Monitor of the M'Bour (SEN) station. Available acquisitions start from 2015-03-12 12:38:44 to 2016-01-26 00:14:01" .
+_:B8668147eX2D541fX2D47b3X2D9b26X2Da6302ffbc31f <https://localhost/#fr> "Time series of L1 Aerodyne ACSM_140-157 Aerosol Chemical Speciation Monitor of the M'Bour (SEN) station. Available acquisitions start from 2015-03-12 12:38:44 to 2016-01-26 00:14:01" .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#id> "09362736-533f-57a1-a893-1e9e99afba33" .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#lastModification> _:B624b442aX2D532dX2D42d6X2D996cX2D817e548f74dd .
+_:B624b442aX2D532dX2D42d6X2D996cX2D817e548f74dd <https://localhost/#value> "2018-11-07T08:02:47Z" .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#aerisDataCenter> "ICARE" .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#dataCenter> "" .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#temporalExtents> _:B7729e8edX2Df7e8X2D4e0dX2Db403X2Dbc68fec8b2c7 .
+_:B7729e8edX2Df7e8X2D4e0dX2Db403X2Dbc68fec8b2c7 <https://localhost/#beginDate> "No date" .
+_:B7729e8edX2Df7e8X2D4e0dX2Db403X2Dbc68fec8b2c7 <https://localhost/#endDate> "" .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#spatialExtents> _:B972a5828X2D9bd4X2D41d1X2Da75dX2D5bbf75e0dc6a .
+_:B972a5828X2D9bd4X2D41d1X2Da75dX2D5bbf75e0dc6a <https://localhost/#area> _:B10053d2cX2DcbdaX2D43ffX2D8b2bX2D17fc3458b84b .
+_:B10053d2cX2DcbdaX2D43ffX2D8b2bX2D17fc3458b84b <https://localhost/#type> "POINT_AREA" .
+_:B10053d2cX2DcbdaX2D43ffX2D8b2bX2D17fc3458b84b <https://localhost/#latitude> "14.394"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:B10053d2cX2DcbdaX2D43ffX2D8b2bX2D17fc3458b84b <https://localhost/#longitude> "-16.958"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:B10053d2cX2DcbdaX2D43ffX2D8b2bX2D17fc3458b84b <https://localhost/#altitude> "7.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:B972a5828X2D9bd4X2D41d1X2Da75dX2D5bbf75e0dc6a <https://localhost/#name> "M'Bour (SEN)" .
+_:B972a5828X2D9bd4X2D41d1X2Da75dX2D5bbf75e0dc6a <https://localhost/#description> "" .
+_:B972a5828X2D9bd4X2D41d1X2Da75dX2D5bbf75e0dc6a <https://localhost/#comment> "" .
+_:B972a5828X2D9bd4X2D41d1X2Da75dX2D5bbf75e0dc6a <https://localhost/#projection> "EPSG 4326" .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#links> _:B3df27450X2D0ef4X2D451cX2Da7eaX2D1f26104368e6 .
+_:B3df27450X2D0ef4X2D451cX2Da7eaX2D1f26104368e6 <https://localhost/#type> "HTTP_DOWNLOAD_LINK" .
+_:B3df27450X2D0ef4X2D451cX2Da7eaX2D1f26104368e6 <https://localhost/#url> "http://www.icare.univ-lille1.fr/archive?dir=GROUND-BASED/MBour/ACSM/ACSM_L1" .
+_:B3df27450X2D0ef4X2D451cX2Da7eaX2D1f26104368e6 <https://localhost/#name> "" .
+_:B3df27450X2D0ef4X2D451cX2Da7eaX2D1f26104368e6 <https://localhost/#description> _:B80d6544bX2D72d8X2D442eX2DbdabX2Da96d26c63c68 .
+_:B80d6544bX2D72d8X2D442eX2DbdabX2Da96d26c63c68 <https://localhost/#en> "HTTP download access" .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#links> _:B83af1badX2D3f3dX2D405cX2D880cX2Dc48e6d475ff5 .
+_:B83af1badX2D3f3dX2D405cX2D880cX2Dc48e6d475ff5 <https://localhost/#type> "FTP_DOWNLOAD_LINK" .
+_:B83af1badX2D3f3dX2D405cX2D880cX2Dc48e6d475ff5 <https://localhost/#url> "ftp://ftp.icare.univ-lille1.fr/GROUND-BASED/MBour/ACSM/ACSM_L1" .
+_:B83af1badX2D3f3dX2D405cX2D880cX2Dc48e6d475ff5 <https://localhost/#name> "" .
+_:B83af1badX2D3f3dX2D405cX2D880cX2Dc48e6d475ff5 <https://localhost/#description> _:B20190060X2D78dfX2D4e7dX2Da5e9X2D15d194676fee .
+_:B20190060X2D78dfX2D4e7dX2Da5e9X2D15d194676fee <https://localhost/#en> "FTP download access" .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#status> "Public" .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#distributionInformation> _:B45884cebX2D9c71X2D45dcX2Dac7bX2D10ba3e6faa7e .
+_:B45884cebX2D9c71X2D45dcX2Dac7bX2D10ba3e6faa7e <https://localhost/#dataPolicyName> "ACTRIS-FR" .
+_:B45884cebX2D9c71X2D45dcX2Dac7bX2D10ba3e6faa7e <https://localhost/#dataPolicyVersion> "" .
+_:B45884cebX2D9c71X2D45dcX2Dac7bX2D10ba3e6faa7e <https://localhost/#dataPolicyUrl> "" .
+_:B45884cebX2D9c71X2D45dcX2Dac7bX2D10ba3e6faa7e <https://localhost/#dataPolicyReminder> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B45884cebX2D9c71X2D45dcX2Dac7bX2D10ba3e6faa7e <https://localhost/#embargoStartDate> "" .
+_:B45884cebX2D9c71X2D45dcX2Dac7bX2D10ba3e6faa7e <https://localhost/#embargoDuration> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B45884cebX2D9c71X2D45dcX2Dac7bX2D10ba3e6faa7e <https://localhost/#registrationNeeded> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B45884cebX2D9c71X2D45dcX2Dac7bX2D10ba3e6faa7e <https://localhost/#authenticationNeeded> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B45884cebX2D9c71X2D45dcX2Dac7bX2D10ba3e6faa7e <https://localhost/#licenceName> "" .
+_:B45884cebX2D9c71X2D45dcX2Dac7bX2D10ba3e6faa7e <https://localhost/#licenceVersion> "" .
+_:B45884cebX2D9c71X2D45dcX2Dac7bX2D10ba3e6faa7e <https://localhost/#licencePolicyUrl> "" .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#language> "en" .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#contacts> _:B0c942b24X2Dd370X2D4391X2Db942X2D2a055579a8f9 .
+_:B0c942b24X2Dd370X2D4391X2Db942X2D2a055579a8f9 <https://localhost/#firstName> "" .
+_:B0c942b24X2Dd370X2D4391X2Db942X2D2a055579a8f9 <https://localhost/#lastName> "" .
+_:B0c942b24X2Dd370X2D4391X2Db942X2D2a055579a8f9 <https://localhost/#name> "Nicolas PASCAL" .
+_:B0c942b24X2Dd370X2D4391X2Db942X2D2a055579a8f9 <https://localhost/#nameType> "" .
+_:B0c942b24X2Dd370X2D4391X2Db942X2D2a055579a8f9 <https://localhost/#email> "nicolas.pascal@icare.univ-lille1.fr" .
+_:B0c942b24X2Dd370X2D4391X2Db942X2D2a055579a8f9 <https://localhost/#organisation> "CDS AERIS/ICARE" .
+_:B0c942b24X2Dd370X2D4391X2Db942X2D2a055579a8f9 <https://localhost/#comment> _:Bbd92c725X2D909cX2D4aebX2Da3d0X2D1cf74af39ab0 .
+_:Bbd92c725X2D909cX2D4aebX2Da3d0X2D1cf74af39ab0 <https://localhost/#DEFAULT_VALUE_KEY> "Data and Metadata management at the Data and Services Center" .
+_:B0c942b24X2Dd370X2D4391X2Db942X2D2a055579a8f9 <https://localhost/#roles> "pointofcontact" .
+_:B0c942b24X2Dd370X2D4391X2Db942X2D2a055579a8f9 <https://localhost/#roles> "metadatapointofcontact" .
+_:B0c942b24X2Dd370X2D4391X2Db942X2D2a055579a8f9 <https://localhost/#roles> "resourceprovider" .
+_:B0c942b24X2Dd370X2D4391X2Db942X2D2a055579a8f9 <https://localhost/#orcId> "" .
+_:B0c942b24X2Dd370X2D4391X2Db942X2D2a055579a8f9 <https://localhost/#ror> "" .
+_:B0c942b24X2Dd370X2D4391X2Db942X2D2a055579a8f9 <https://localhost/#webSiteUrl> "" .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#contacts> _:B63bbdcf2X2Dc58fX2D44bbX2D8fa0X2D16c3626a1892 .
+_:B63bbdcf2X2Dc58fX2D44bbX2D8fa0X2D16c3626a1892 <https://localhost/#firstName> "" .
+_:B63bbdcf2X2Dc58fX2D44bbX2D8fa0X2D16c3626a1892 <https://localhost/#lastName> "" .
+_:B63bbdcf2X2Dc58fX2D44bbX2D8fa0X2D16c3626a1892 <https://localhost/#name> "AERIS/ICARE Helpdesk" .
+_:B63bbdcf2X2Dc58fX2D44bbX2D8fa0X2D16c3626a1892 <https://localhost/#nameType> "" .
+_:B63bbdcf2X2Dc58fX2D44bbX2D8fa0X2D16c3626a1892 <https://localhost/#email> "contact@icare.univ-lille1.fr" .
+_:B63bbdcf2X2Dc58fX2D44bbX2D8fa0X2D16c3626a1892 <https://localhost/#organisation> "CDS AERIS/ICARE" .
+_:B63bbdcf2X2Dc58fX2D44bbX2D8fa0X2D16c3626a1892 <https://localhost/#comment> _:B0175ac28X2D134bX2D4366X2D8d2bX2Da00ad4983c2c .
+_:B0175ac28X2D134bX2D4366X2D8d2bX2Da00ad4983c2c <https://localhost/#DEFAULT_VALUE_KEY> "Helpdesk of the Data and Services Center" .
+_:B63bbdcf2X2Dc58fX2D44bbX2D8fa0X2D16c3626a1892 <https://localhost/#roles> "metadatapointofcontact" .
+_:B63bbdcf2X2Dc58fX2D44bbX2D8fa0X2D16c3626a1892 <https://localhost/#orcId> "" .
+_:B63bbdcf2X2Dc58fX2D44bbX2D8fa0X2D16c3626a1892 <https://localhost/#ror> "" .
+_:B63bbdcf2X2Dc58fX2D44bbX2D8fa0X2D16c3626a1892 <https://localhost/#webSiteUrl> "" .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#contacts> _:Bb3285fb9X2D8cbbX2D4d38X2D8c59X2Defff1d610035 .
+_:Bb3285fb9X2D8cbbX2D4d38X2D8c59X2Defff1d610035 <https://localhost/#firstName> "" .
+_:Bb3285fb9X2D8cbbX2D4d38X2D8c59X2Defff1d610035 <https://localhost/#lastName> "" .
+_:Bb3285fb9X2D8cbbX2D4d38X2D8c59X2Defff1d610035 <https://localhost/#name> "Veronique Riffault" .
+_:Bb3285fb9X2D8cbbX2D4d38X2D8c59X2Defff1d610035 <https://localhost/#nameType> "" .
+_:Bb3285fb9X2D8cbbX2D4d38X2D8c59X2Defff1d610035 <https://localhost/#email> "veronique.riffault@mines-douai.fr" .
+_:Bb3285fb9X2D8cbbX2D4d38X2D8c59X2Defff1d610035 <https://localhost/#organisation> "MD-Mines Douai" .
+_:Bb3285fb9X2D8cbbX2D4d38X2D8c59X2Defff1d610035 <https://localhost/#comment> _:B04c34d91X2D40a0X2D45cdX2Daad4X2D3578b05a6fc4 .
+_:B04c34d91X2D40a0X2D45cdX2Daad4X2D3578b05a6fc4 <https://localhost/#DEFAULT_VALUE_KEY> "Principal Investigator of the Instrument" .
+_:Bb3285fb9X2D8cbbX2D4d38X2D8c59X2Defff1d610035 <https://localhost/#roles> "pointofcontact" .
+_:Bb3285fb9X2D8cbbX2D4d38X2D8c59X2Defff1d610035 <https://localhost/#roles> "principalinvestigator" .
+_:Bb3285fb9X2D8cbbX2D4d38X2D8c59X2Defff1d610035 <https://localhost/#orcId> "" .
+_:Bb3285fb9X2D8cbbX2D4d38X2D8c59X2Defff1d610035 <https://localhost/#ror> "" .
+_:Bb3285fb9X2D8cbbX2D4d38X2D8c59X2Defff1d610035 <https://localhost/#webSiteUrl> "" .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#contacts> _:B7a1e6000X2D4337X2D44f5X2D8a5cX2D269da48eae27 .
+_:B7a1e6000X2D4337X2D44f5X2D8a5cX2D269da48eae27 <https://localhost/#firstName> "" .
+_:B7a1e6000X2D4337X2D44f5X2D8a5cX2D269da48eae27 <https://localhost/#lastName> "" .
+_:B7a1e6000X2D4337X2D44f5X2D8a5cX2D269da48eae27 <https://localhost/#name> "Philippe Goloub" .
+_:B7a1e6000X2D4337X2D44f5X2D8a5cX2D269da48eae27 <https://localhost/#nameType> "" .
+_:B7a1e6000X2D4337X2D44f5X2D8a5cX2D269da48eae27 <https://localhost/#email> "philippe.goloub@univ-lille1.fr" .
+_:B7a1e6000X2D4337X2D44f5X2D8a5cX2D269da48eae27 <https://localhost/#organisation> "LOA-PHOTONS-Laboratoire d'Optique Atmosphérique - Equipe Photons" .
+_:B7a1e6000X2D4337X2D44f5X2D8a5cX2D269da48eae27 <https://localhost/#comment> _:Bbc87ec88X2D9b2eX2D4cb7X2D92d7X2D6574d5a4d459 .
+_:Bbc87ec88X2D9b2eX2D4cb7X2D92d7X2D6574d5a4d459 <https://localhost/#DEFAULT_VALUE_KEY> "Principal Investigator of the Station" .
+_:B7a1e6000X2D4337X2D44f5X2D8a5cX2D269da48eae27 <https://localhost/#roles> "pointofcontact" .
+_:B7a1e6000X2D4337X2D44f5X2D8a5cX2D269da48eae27 <https://localhost/#orcId> "" .
+_:B7a1e6000X2D4337X2D44f5X2D8a5cX2D269da48eae27 <https://localhost/#ror> "" .
+_:B7a1e6000X2D4337X2D44f5X2D8a5cX2D269da48eae27 <https://localhost/#webSiteUrl> "" .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#contacts> _:B545b8e93X2Dd5adX2D4e0eX2Db8edX2Dd6f08d079e9f .
+_:B545b8e93X2Dd5adX2D4e0eX2Db8edX2Dd6f08d079e9f <https://localhost/#firstName> "" .
+_:B545b8e93X2Dd5adX2D4e0eX2Db8edX2Dd6f08d079e9f <https://localhost/#lastName> "" .
+_:B545b8e93X2Dd5adX2D4e0eX2Db8edX2Dd6f08d079e9f <https://localhost/#name> "Veronique Riffault" .
+_:B545b8e93X2Dd5adX2D4e0eX2Db8edX2Dd6f08d079e9f <https://localhost/#nameType> "" .
+_:B545b8e93X2Dd5adX2D4e0eX2Db8edX2Dd6f08d079e9f <https://localhost/#email> "veronique.riffault@mines-douai.fr" .
+_:B545b8e93X2Dd5adX2D4e0eX2Db8edX2Dd6f08d079e9f <https://localhost/#organisation> "MD-Mines Douai" .
+_:B545b8e93X2Dd5adX2D4e0eX2Db8edX2Dd6f08d079e9f <https://localhost/#comment> _:Bc82ce954X2Da2f7X2D41aeX2Dae81X2D62e660f837fc .
+_:Bc82ce954X2Da2f7X2D41aeX2Dae81X2D62e660f837fc <https://localhost/#DEFAULT_VALUE_KEY> "Station Technical Contact" .
+_:B545b8e93X2Dd5adX2D4e0eX2Db8edX2Dd6f08d079e9f <https://localhost/#roles> "pointofcontact" .
+_:B545b8e93X2Dd5adX2D4e0eX2Db8edX2Dd6f08d079e9f <https://localhost/#orcId> "" .
+_:B545b8e93X2Dd5adX2D4e0eX2Db8edX2Dd6f08d079e9f <https://localhost/#ror> "" .
+_:B545b8e93X2Dd5adX2D4e0eX2Db8edX2Dd6f08d079e9f <https://localhost/#webSiteUrl> "" .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#editInformations> _:Be787c1f7X2D37afX2D4fbeX2Dbd59X2D769c2f132b09 .
+_:Be787c1f7X2D37afX2D4fbeX2Dbd59X2D769c2f132b09 <https://localhost/#histories> _:B8f9d2530X2D22dfX2D46b1X2Db7b9X2D005d1a2e877c .
+_:B8f9d2530X2D22dfX2D46b1X2Db7b9X2D005d1a2e877c <https://localhost/#name> "Abehserra Maxime " .
+_:B8f9d2530X2D22dfX2D46b1X2Db7b9X2D005d1a2e877c <https://localhost/#date> "2021-03-01T22:22:34.529" .
+_:B8f9d2530X2D22dfX2D46b1X2Db7b9X2D005d1a2e877c <https://localhost/#origin> "catalogue-aeris" .
+_:B8f9d2530X2D22dfX2D46b1X2Db7b9X2D005d1a2e877c <https://localhost/#editFields> "clientTemplateName" .
+_:Be787c1f7X2D37afX2D4fbeX2Dbd59X2D769c2f132b09 <https://localhost/#histories> _:Bf888a577X2D63e9X2D42a1X2Db61dX2D69a28dc70a55 .
+_:Bf888a577X2D63e9X2D42a1X2Db61dX2D69a28dc70a55 <https://localhost/#name> "Abehserra Maxime " .
+_:Bf888a577X2D63e9X2D42a1X2Db61dX2D69a28dc70a55 <https://localhost/#date> "2021-03-01T22:23:07.392" .
+_:Bf888a577X2D63e9X2D42a1X2Db61dX2D69a28dc70a55 <https://localhost/#origin> "catalogue-aeris" .
+_:Bf888a577X2D63e9X2D42a1X2Db61dX2D69a28dc70a55 <https://localhost/#editFields> "clientTemplateName" .
+_:Be787c1f7X2D37afX2D4fbeX2Dbd59X2D769c2f132b09 <https://localhost/#histories> _:Bce81f314X2Df04eX2D45e8X2D8494X2Dc7b2c36e5071 .
+_:Bce81f314X2Df04eX2D45e8X2D8494X2Dc7b2c36e5071 <https://localhost/#name> "Abehserra Maxime " .
+_:Bce81f314X2Df04eX2D45e8X2D8494X2Dc7b2c36e5071 <https://localhost/#date> "2021-03-01T22:28:14.582" .
+_:Bce81f314X2Df04eX2D45e8X2D8494X2Dc7b2c36e5071 <https://localhost/#origin> "catalogue-aeris" .
+_:Bce81f314X2Df04eX2D45e8X2D8494X2Dc7b2c36e5071 <https://localhost/#editFields> "clientTemplateName" .
+_:Be787c1f7X2D37afX2D4fbeX2Dbd59X2D769c2f132b09 <https://localhost/#histories> _:Bd5eb94f7X2D60b2X2D41e8X2D9450X2D39881ad09213 .
+_:Bd5eb94f7X2D60b2X2D41e8X2D9450X2D39881ad09213 <https://localhost/#name> "Abehserra Maxime " .
+_:Bd5eb94f7X2D60b2X2D41e8X2D9450X2D39881ad09213 <https://localhost/#date> "2021-03-01T22:28:48.866" .
+_:Bd5eb94f7X2D60b2X2D41e8X2D9450X2D39881ad09213 <https://localhost/#origin> "catalogue-aeris" .
+_:Bd5eb94f7X2D60b2X2D41e8X2D9450X2D39881ad09213 <https://localhost/#editFields> "clientTemplateName" .
+_:Be787c1f7X2D37afX2D4fbeX2Dbd59X2D769c2f132b09 <https://localhost/#histories> _:B8f176e6dX2DaedaX2D4c35X2D9cfeX2D440fccbaf6ac .
+_:B8f176e6dX2DaedaX2D4c35X2D9cfeX2D440fccbaf6ac <https://localhost/#name> "Abehserra Maxime " .
+_:B8f176e6dX2DaedaX2D4c35X2D9cfeX2D440fccbaf6ac <https://localhost/#date> "2021-03-01T22:36:17.218" .
+_:B8f176e6dX2DaedaX2D4c35X2D9cfeX2D440fccbaf6ac <https://localhost/#origin> "catalogue-aeris" .
+_:B8f176e6dX2DaedaX2D4c35X2D9cfeX2D440fccbaf6ac <https://localhost/#editFields> "clientTemplateName" .
+_:Be787c1f7X2D37afX2D4fbeX2Dbd59X2D769c2f132b09 <https://localhost/#histories> _:B1e4c5d8aX2D2db8X2D4ae4X2Db9c2X2D4f64f9cbd02d .
+_:B1e4c5d8aX2D2db8X2D4ae4X2Db9c2X2D4f64f9cbd02d <https://localhost/#name> "Abehserra Maxime " .
+_:B1e4c5d8aX2D2db8X2D4ae4X2Db9c2X2D4f64f9cbd02d <https://localhost/#date> "2021-03-01T22:40:31.296" .
+_:B1e4c5d8aX2D2db8X2D4ae4X2Db9c2X2D4f64f9cbd02d <https://localhost/#origin> "catalogue-aeris" .
+_:B1e4c5d8aX2D2db8X2D4ae4X2Db9c2X2D4f64f9cbd02d <https://localhost/#editFields> "clientTemplateName" .
+_:Be787c1f7X2D37afX2D4fbeX2Dbd59X2D769c2f132b09 <https://localhost/#histories> _:Bfc25c196X2D2500X2D4965X2Da7dcX2D05c814f2374c .
+_:Bfc25c196X2D2500X2D4965X2Da7dcX2D05c814f2374c <https://localhost/#name> "Abehserra Maxime " .
+_:Bfc25c196X2D2500X2D4965X2Da7dcX2D05c814f2374c <https://localhost/#date> "2021-03-01T22:55:41.119" .
+_:Bfc25c196X2D2500X2D4965X2Da7dcX2D05c814f2374c <https://localhost/#origin> "catalogue-aeris" .
+_:Bfc25c196X2D2500X2D4965X2Da7dcX2D05c814f2374c <https://localhost/#editFields> "clientTemplateName" .
+_:Be787c1f7X2D37afX2D4fbeX2Dbd59X2D769c2f132b09 <https://localhost/#histories> _:B8f10aba5X2D9f46X2D488cX2D8bdaX2D459ea713e73c .
+_:B8f10aba5X2D9f46X2D488cX2D8bdaX2D459ea713e73c <https://localhost/#name> "Abehserra Maxime " .
+_:B8f10aba5X2D9f46X2D488cX2D8bdaX2D459ea713e73c <https://localhost/#date> "2021-03-01T22:58:09.991" .
+_:B8f10aba5X2D9f46X2D488cX2D8bdaX2D459ea713e73c <https://localhost/#origin> "catalogue-aeris" .
+_:B8f10aba5X2D9f46X2D488cX2D8bdaX2D459ea713e73c <https://localhost/#editFields> "clientTemplateName" .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#resourceType> "Dataset" .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#formats> _:Bd62f231eX2D617dX2D4aeeX2Db955X2D3365ef344e77 .
+_:Bd62f231eX2D617dX2D4aeeX2Db955X2D3365ef344e77 <https://localhost/#name> "CSV" .
+_:Bd62f231eX2D617dX2D4aeeX2Db955X2D3365ef344e77 <https://localhost/#version> "" .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#dataLevel> "L1" .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#programName> "" .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#collectionName> "" .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#clientTemplateName> "md-template-actris" .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#interoperabilityInformation> _:B7a4b8289X2Dfa02X2D4cd3X2D9f6cX2Dab2f6c7a0475 .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#platformSet> _:B00d38343X2D51e3X2D4accX2Da951X2D34cf41211dd3 .
+_:B00d38343X2D51e3X2D4accX2Da951X2D34cf41211dd3 <https://localhost/#thesaurusCode> "https://vocab.aeris-data.fr/platform/b5a3f7ca-1d90-8497-331b-25d2b414b383" .
+_:B00d38343X2D51e3X2D4accX2Da951X2D34cf41211dd3 <https://localhost/#name> "M'Bour (SEN)" .
+_:B00d38343X2D51e3X2D4accX2Da951X2D34cf41211dd3 <https://localhost/#description> _:B2e4c09ebX2D2db3X2D40bcX2D9f91X2Dcad17a000bba .
+_:B00d38343X2D51e3X2D4accX2Da951X2D34cf41211dd3 <https://localhost/#label> "In Situ Land-based Platforms.Ground Stations.null" .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#instrumentSet> _:B606766a7X2Db412X2D4ca5X2Da09aX2D3e01ff68c582 .
+_:B606766a7X2Db412X2D4ca5X2Da09aX2D3e01ff68c582 <https://localhost/#thesaurusCode> "" .
+_:B606766a7X2Db412X2D4ca5X2Da09aX2D3e01ff68c582 <https://localhost/#name> "SAGE_ACSM" .
+_:B606766a7X2Db412X2D4ca5X2Da09aX2D3e01ff68c582 <https://localhost/#manufacturer> "Aerodyne" .
+_:B606766a7X2Db412X2D4ca5X2Da09aX2D3e01ff68c582 <https://localhost/#model> "ACSM_140-157" .
+_:B606766a7X2Db412X2D4ca5X2Da09aX2D3e01ff68c582 <https://localhost/#serialNumber> "" .
+_:B606766a7X2Db412X2D4ca5X2Da09aX2D3e01ff68c582 <https://localhost/#calibration> "" .
+_:B606766a7X2Db412X2D4ca5X2Da09aX2D3e01ff68c582 <https://localhost/#label> "" .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#projectSet> _:Bad073fd7X2D9a56X2D4d8bX2Db31dX2D98169677ff08 .
+_:Bad073fd7X2D9a56X2D4d8bX2Db31dX2D98169677ff08 <https://localhost/#thesaurusCode> "GROUND_DATA.ACTRIS-FR" .
+_:Bad073fd7X2D9a56X2D4d8bX2Db31dX2D98169677ff08 <https://localhost/#label> "Ground data.ACTRIS-FR" .
+_:Bad073fd7X2D9a56X2D4d8bX2Db31dX2D98169677ff08 <https://localhost/#shortName> "ACTRIS-FR" .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#parameterSet> _:Ba04992a9X2D8ecaX2D4a65X2Db61eX2D4a7a3de5cc97 .
+_:Ba04992a9X2D8ecaX2D4a65X2Db61eX2D4a7a3de5cc97 <https://localhost/#thesaurusCode> "https://vocab.aeris-data.fr/parameter/152d1f4b-660a-025b-db26-9316a86e7bb2" .
+_:Ba04992a9X2D8ecaX2D4a65X2Db61eX2D4a7a3de5cc97 <https://localhost/#shortName> "Aerosols" .
+_:Ba04992a9X2D8ecaX2D4a65X2Db61eX2D4a7a3de5cc97 <https://localhost/#longName> "" .
+_:Ba04992a9X2D8ecaX2D4a65X2Db61eX2D4a7a3de5cc97 <https://localhost/#uom> "" .
+_:Ba04992a9X2D8ecaX2D4a65X2Db61eX2D4a7a3de5cc97 <https://localhost/#comment> _:B91810857X2D50e3X2D4fb2X2Db71eX2D3bc6b97d8ec0 .
+_:Ba04992a9X2D8ecaX2D4a65X2Db61eX2D4a7a3de5cc97 <https://localhost/#type> "" .
+_:Ba04992a9X2D8ecaX2D4a65X2Db61eX2D4a7a3de5cc97 <https://localhost/#cfStandardName> "" .
+_:Ba04992a9X2D8ecaX2D4a65X2Db61eX2D4a7a3de5cc97 <https://localhost/#label> "Aerosols.Chemical composition.null.null" .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#documentRating> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#note> "20"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#metadataLevel> "Collection" .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#identifier> "09362736-533f-57a1-a893-1e9e99afba33" .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#type> "DATASET" .
+_:B624050c7X2D2c4aX2D46f8X2Da216X2Def4adcdc7122 <https://localhost/#technicalInformation> _:B2c5edfdcX2D5eedX2D495dX2D9562X2D495215553249 .
+_:B2c5edfdcX2D5eedX2D495dX2D9562X2D495215553249 <https://localhost/#catalogueName> "aeris" .
+_:B2c5edfdcX2D5eedX2D495dX2D9562X2D495215553249 <https://localhost/#catalogueMode> "prod" .

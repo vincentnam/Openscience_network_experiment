@@ -1,7 +1,93 @@
 services:
-  web:
-    build: .
+  odatis:
+    build:
+      context: .
+      dockerfile: ./Dockerfile_ODATIS
+#    ports:
+#      - "5000:5000"
+    networks:
+      frontend:
+        ipv4_address: 193.168.1.10
+    environment:
+      - PLATFORM-ID=1
+    volumes:
+      - ./:/code
+    links:
+      - "database_json"
+  aeris:
+    build:
+      context: .
+      dockerfile: ./Dockerfile_AERIS
+#    ports:
+#      - "5000:5000"
+
+    networks:
+      frontend:
+        ipv4_address: 193.168.1.11
+    environment:
+      - PLATFORM-ID=2
+    volumes:
+      - ./:/code
+      - ./api_ODATIS.py:/code/api_AERIS.py
+    links:
+      - "database_json"
+  fhir:
+    build:
+      context: .
+      dockerfile: ./Dockerfile_FHIR
+    networks:
+      frontend:
+        ipv4_address: 193.168.1.12
+    environment:
+      - PLATFORM-ID=3
+
+
+    volumes:
+      - ./:/code
+      - ./api_ODATIS.py:/code/api_FHIR.py
+    links:
+      - "database_sql"
+
+  aeris2:
+    build:
+      context: .
+      dockerfile: ./Dockerfile_AERIS
+    #    ports:
+    #      - "5000:5000"
+
+    networks:
+      frontend:
+        ipv4_address: 193.168.1.13
+    environment:
+      - PLATFORM-ID=4
+    volumes:
+      - ./:/code
+      - ./api_ODATIS.py:/code/api_FHIR.py
+    links:
+      - "database_json"
+  database_json:
+    image: mongo:latest
     ports:
-      - "8000:5000"
-  redis:
-    image: "redis:alpine"
+      - "27017:27017"
+
+    networks:
+      frontend:
+        ipv4_address: 193.168.1.20
+
+  database_sql:
+    image: mysql:latest
+    ports:
+      - "3306:3306"
+    environment:
+      - MYSQL_ALLOW_EMPTY_PASSWORD=True
+
+    networks:
+      frontend:
+        ipv4_address: 193.168.1.21
+    volumes:
+      - "./FHIR/examples/Location-hl7east.sql:/docker-entrypoint-initdb.d/1.sql"
+networks:
+  frontend:
+    ipam:
+      config:
+        - subnet: 193.168.1.0/24
