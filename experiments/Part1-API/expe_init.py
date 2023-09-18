@@ -2,7 +2,7 @@ import pickle
 import json
 import os
 from pymongo import MongoClient
-
+# Run BEFORE the docker compose is up
 registry = json.loads(open("registry.json","r").read())
 
 with open("registry_ODATIS.dict", "wb") as fp:
@@ -50,6 +50,10 @@ with open("operator_list_sql.dict", "wb") as fp:
 
 with open("operator_list_xml.dict", "wb") as fp:
     pickle.dump(operator_list_xml,fp)
+
+
+
+# Run AFTER the docker compose is up
 mongoclient = MongoClient("localhost:27017")
 for folder in os.listdir("AERIS"):
     file = json.load(open("AERIS/"+folder+"/"+os.listdir("AERIS/"+folder)[0]))

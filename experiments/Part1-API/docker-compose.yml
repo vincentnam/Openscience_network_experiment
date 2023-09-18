@@ -2,7 +2,7 @@ services:
   odatis:
     build:
       context: .
-      dockerfile: ./Dockerfile_ODATIS
+      dockerfile: ./Dockerfile
 #    ports:
 #      - "5000:5000"
     networks:
@@ -17,7 +17,7 @@ services:
   aeris:
     build:
       context: .
-      dockerfile: ./Dockerfile_AERIS
+      dockerfile: ./Dockerfile
 #    ports:
 #      - "5000:5000"
 
@@ -28,13 +28,12 @@ services:
       - PLATFORM-ID=2
     volumes:
       - ./:/code
-      - ./api_ODATIS.py:/code/api_AERIS.py
     links:
       - "database_json"
   fhir:
     build:
       context: .
-      dockerfile: ./Dockerfile_FHIR
+      dockerfile: ./Dockerfile
     networks:
       frontend:
         ipv4_address: 193.168.1.12
@@ -44,14 +43,13 @@ services:
 
     volumes:
       - ./:/code
-      - ./api_ODATIS.py:/code/api_FHIR.py
     links:
       - "database_sql"
 
   aeris2:
     build:
       context: .
-      dockerfile: ./Dockerfile_AERIS
+      dockerfile: ./Dockerfile
     #    ports:
     #      - "5000:5000"
 
@@ -62,7 +60,6 @@ services:
       - PLATFORM-ID=4
     volumes:
       - ./:/code
-      - ./api_ODATIS.py:/code/api_FHIR.py
     links:
       - "database_json"
   database_json:
