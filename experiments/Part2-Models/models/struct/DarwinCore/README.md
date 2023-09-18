@@ -1,0 +1,1 @@
+see https://www.gbif.org/fr/developer/summary 

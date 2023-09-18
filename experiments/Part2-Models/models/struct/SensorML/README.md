@@ -1,0 +1,1 @@
+see : https://schemas.opengis.net/sensorML/2.1/examples/sensor_model.xml
