@@ -4,7 +4,7 @@ import math
 import os
 import pickle
 import sys
-
+import operator
 import flask
 import pymongo
 import requests as req
@@ -24,8 +24,6 @@ app.config["REGISTRY-VERSION"] = "1"
 if app.config["PLATFORM-ID"] == "1":
     app.config["registry"] = pickle.loads(open("registry_ODATIS.dict", "rb").read())
 
-# print(app.config["PLATFORM-ID"],file=sys.stderr)
-# print(type(app.config["PLATFORM-ID"]),file=sys.stderr)
 if app.config["PLATFORM-ID"] == "2" or app.config["PLATFORM-ID"] == "4":
     app.config["registry"] = pickle.loads(open("registry_AERIS.dict", "rb").read())
 
@@ -38,7 +36,6 @@ if app.config["PLATFORM-ID"] == "3":
 #     return
 @app.route("/platform_id", methods=['PUT'])
 def modify_platform_id():
-    print(request.headers)
     app.config["PLATFORM-ID"] = request.headers["platform-id"]
     rep = flask.Response(status=204)
     rep.set_data(app.config["PLATFORM-ID"])
@@ -47,23 +44,19 @@ def modify_platform_id():
 
 @app.route('/registry', methods=['POST'])
 def overwrite_registry():
-    # print(app.config["REGISTRY-VERSION"],file=sys.stderr)
     if request.headers["registry-version"] == app.config["REGISTRY-VERSION"]:
         return flask.Response(status=208)
     else:
         app.config["REGISTRY-VERSION"] = request.headers["registry-version"]
     data = request.get_json(force=True)
-    # print(data,file=sys.stderr)
     with open("registry.dict", "wb") as fp:
         pickle.dump((data), fp)
         app.config["registry"] = data
 
     aux_header = dict(request.headers)
-    # print(aux_header,file=sys.stderr)
 
     aux_header["Platform-Visited"] = aux_header["Platforms-Visited"] + "," + app.config["PLATFORM-ID"]
     for platform_id in app.config["registry"]["platforms"][app.config["PLATFORM-ID"]]["links"]:
-        # print(match,model,platform_list,file=sys.stderr)
         if platform_id not in request.headers["platforms-visited"] and platform_id != request.headers["platform-id"]:
             req.post(app.config["registry"]["platforms"][platform_id]["URL"][0] + "/registry", headers=aux_header,
                      data=json.dumps(data), timeout=5)
@@ -79,14 +72,12 @@ def get_registry():
 # A voir plus tard si nécessaire
 def operator_list_def(operator_var):
     if app.config["PLATFORM-ID"] == "1":
+
         with open("operator_list_xml.dict", "rb") as fp:
-            return eval(pickle.load(fp)[operator_var])
-    # print(app.config["PLATFORM-ID"],file=sys.stderr)
-    # print(type(app.config["PLATFORM-ID"]),file=sys.stderr)
+            test = pickle.load(fp)[operator_var]
+            return (eval(test))
     if app.config["PLATFORM-ID"] == "2" or app.config["PLATFORM-ID"] == "4":
-        # print("TA GROSSE DARONNE LA TEUP")
         with open("operator_list_mongo.dict", "rb") as fp:
-            # print(pickle.load(fp),file=sys.stderr)
             return pickle.load(fp)[operator_var]
     if app.config["PLATFORM-ID"] == "3":
         with open("operator_list_sql.dict", "rb") as fp:
@@ -120,7 +111,6 @@ def get_metadata(key, model, operator, operand, dicttoxml=None):
                 if aux[0] in i.tag:
 
                     if len(key.split(".")) == 3:
-                        print(i.text, file=sys.stderr)
                         if operator(i.text, operand):
                             return True
                         else:
@@ -128,36 +118,35 @@ def get_metadata(key, model, operator, operand, dicttoxml=None):
 
                     bool = walk_tree(".".join(aux), i, operator, operand)
             if bool:
-                return root
+                return [root]
             else:
                 return []
 
         try:
-            return [str(ET.tostring(walk_tree(aux_key, root, operator_list_def(operator), operand)).decode("utf-8"))]
-        except:
+
+
+            return (walk_tree(aux_key, root, operator_list_def(operator), operand))
+        except Exception as e:
             return []
     # AERIS
     if app.config["PLATFORM-ID"] == "2" or app.config["PLATFORM-ID"] == "4":
         if app.config["registry"]["models"][model]["keys"][key] == "integer":
-            print(operator, file=sys.stderr)
-            print({key: {operator_list_def(operator): float(operand)}}, {"_id": False}, file=sys.stderr)
-            return json_util.dumps(list(pymongo.MongoClient("database_json:27017").AERIS.metadata.find(
+            return (list(pymongo.MongoClient("database_json:27017").AERIS.metadata.find(
                 {key: {operator_list_def(operator): float(operand)}}, {"_id": False})))
         else:
-            return json_util.dumps(list(pymongo.MongoClient("database_json:27017").AERIS.metadata.find(
+            return (list(pymongo.MongoClient("database_json:27017").AERIS.metadata.find(
                 {key: {operator_list_def(operator): operand}}, {"_id": False})))
 
     # # FHIR
     if app.config["PLATFORM-ID"] == "3":
-        from MySQLdb import _mysql
+        import MySQLdb
         aux_key = key.replace(".", "_")
-        db = _mysql.connect("database_sql", database="FHIR")
-        query = db.query(
-            "SELECT * FROM Location_hl7east WHERE " + aux_key + operator_list_def(operator) + operand + " ;")
-        if query is None:
-            return []
-        else:
-            return query
+
+        db = MySQLdb.connect("database_sql", database="FHIR")
+        db_cursor = db.cursor()
+        db_cursor.execute("SELECT * FROM Location_hl7east WHERE " + aux_key + operator_list_def(operator) + operand + " ;")
+        ret = db_cursor.fetchall()
+        return ret
 
 
 @app.route('/request', methods=['GET'])
@@ -171,7 +160,6 @@ def request_metadata():
     "value": value for the request
     :return:
     '''
-    # print(request.headers)
     if "initiator" not in request.headers:
         return ("initiator header variable not defined (platform id that initiate the request), "
                 "needed for request routage")
@@ -194,13 +182,15 @@ def request_metadata():
         return "platform-id header variable not defined; needed for routing"
 
     ret = {}
-    if request.headers["request-id"] in app.config["REQUEST-ID-LIST"]:
+    if (request.headers["request-id"] in app.config["REQUEST-ID-LIST"]
+            and request.headers["initiator"] != request.headers["platform-id"]):
         return flask.Response(status=208)
     else:
         app.config["REQUEST-ID-LIST"].append(request.headers["request-id"])
     ret[app.config["PLATFORM-ID"]] = len(get_metadata(key=request.headers["key"], model=request.headers["model"],
                                                       operator=request.headers["operator"],
                                                       operand=request.headers["operand"]))
+    # ret[app.config["PLATFORM-ID"]] = 0
     matchs = []
     for match_id in app.config["registry"]["matchs"]:
         if app.config["registry"]["matchs"][match_id]["keyA"] == request.headers["key"]:
@@ -216,8 +206,9 @@ def request_metadata():
     for match, model, platform_list in matchs:
         for platform_id in platform_list:
             if platform_id in app.config["registry"]["platforms"][app.config.get("PLATFORM-ID")]["links"]:
-                if platform_id not in request.headers["platforms-visited"] and platform_id != request.headers[
-                    "platform-id"]:
+                if (platform_id not in request.headers["platforms-visited"]
+                        and platform_id != request.headers["platform-id"]):
+
                     rep = req.get(app.config["registry"]["platforms"][platform_id]["URL"][0] + "/request",
                                   headers={"platforms-visited":
                                                request.headers["platforms-visited"] + ","
@@ -231,9 +222,11 @@ def request_metadata():
                                            "initiator": request.headers["initiator"],
                                            "request-id": request.headers["request-id"]}
                                   , timeout=5)
+
                     if rep.status_code == 200:
-                        ret[platform_id] = len(ast.literal_eval(rep.content.decode("utf-8")))
+                       ret = {**ret, **ast.literal_eval(rep.content.decode("utf-8"))}
     return flask.jsonify(ret)
+
 
 
 def get_node_nearest_from_distribution():
@@ -369,26 +362,6 @@ def update_registry(registry_add):
         pickle.dump(app.config["registry"], fp)
 
 
-# def modify_registry_content(key, value, op):
-#     if op == "add":
-#         aux = "registry"
-#         for sub_key in key.split("."):
-#             aux += '[' + sub_key + ']'
-#         aux += ".append(" + value + ")"
-#         eval(aux)
-#     if op == "remove":
-#         aux = "registry"
-#         for sub_key in key.split("."):
-#             aux += '[' + sub_key + ']'
-#         aux = "del(" + aux + ")"
-#         eval(aux)
-#     if op == "modify":
-#         aux = "registry"
-#         for sub_key in key.split("."):
-#             aux += '[' + sub_key + ']'
-#         aux += "=" + value
-#         eval(aux)
-
 
 
 def save_registry():
@@ -402,7 +375,7 @@ def save_registry():
                                 "Platform-Id": app.config["PLATFORM-ID"]},
                        data=json.dumps(app.config["registry"]), timeout=5)
         if rep.status_code == 400:
-            print(rep.text)
+            print(rep.text,file=sys.stderr)
 
 
 if __name__ == '__main__':

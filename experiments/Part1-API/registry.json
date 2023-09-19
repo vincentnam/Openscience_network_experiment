@@ -1018,15 +1018,6 @@
       "platform_review": [],
       "score": ""
     },
-    "12": {
-      "keyA": "temporalExtents.endDate",
-      "keyB": "position.latitude",
-      "modelA": "2",
-      "modelB": "3",
-      "type": "manual",
-      "platform_review": [],
-      "score": ""
-    },
     "13": {
       "keyA": "temporalExtents.endDate",
       "keyB": "period.end",
@@ -1049,6 +1040,15 @@
       "keyA": "MD_Metadata.identificationInfo.MD_DataIdentification.extent.EX_Extent.geographicElement.EX_GeographicBoundingBox.southBoundLatitude.Decimal.@value",
       "keyB": "position.latitude",
       "modelA": "1",
+      "modelB": "3",
+      "type": "manual",
+      "platform_review": [],
+      "score": ""
+    },
+    "16": {
+      "keyA": "spatialExtents.area.southLatitude",
+      "keyB": "position.latitude",
+      "modelA": "2",
       "modelB": "3",
       "type": "manual",
       "platform_review": [],

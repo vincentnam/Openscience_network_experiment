@@ -79,3 +79,10 @@ curl -X GET 193.168.1.10:5000/request -H 'model:1' -H 'key:MD_Metadata.identific
 
 
 ### New platform is requested ! Well done !
+
+
+# Be careful, don't forget to change "initiator" AND "platform-visited" unless the platform will be ignored
+#curl -X GET 193.168.1.13:5000/request -H 'model:2' -H 'key:spatialExtents.area.southLatitude' -H "initiator:4" -H "platform-id:client" -H "jump:1" -H "platforms-visited:'4'" -H "operator:lower or equal" -H "operand:90" -H "request-id:$(date)"
+
+echo "Querying platform 3 and return informations from each platforms"
+curl -X GET 193.168.1.12:5000/request -H 'model:3' -H 'key:position.latitude' -H "initiator:3" -H "platform-id:client" -H "jump:1" -H "platforms-visited:'3'" -H "operator:lower or equal" -H "operand:90" -H "request-id:$(date)"

@@ -14,6 +14,10 @@ services:
       - ./:/code
     links:
       - "database_json"
+
+
+
+
   aeris:
     build:
       context: .
@@ -30,6 +34,12 @@ services:
       - ./:/code
     links:
       - "database_json"
+
+
+
+
+
+
   fhir:
     build:
       context: .
@@ -45,6 +55,10 @@ services:
       - ./:/code
     links:
       - "database_sql"
+
+
+
+
 
   aeris2:
     build:
@@ -62,6 +76,11 @@ services:
       - ./:/code
     links:
       - "database_json"
+
+
+
+
+
   database_json:
     image: mongo:latest
     ports:
