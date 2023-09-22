@@ -235,7 +235,7 @@ def get_node_nearest_from_distribution():
     :param node:
     :return:
     '''
-
+    import copy
     gamma = 2.5
     node_degree = 2
     value_divkb = sys.float_info.max
@@ -258,8 +258,17 @@ def get_node_nearest_from_distribution():
                 part_two = 0
             else:
                 part_two = pn_one * math.log(pn_one / (degree + 1) ** gamma)
+            #     If the already connected node is the node to connect the most suited, take the second most suited
             if part_one + part_two < value_divkb:
-                node_degree = degree
+                aux = copy.deepcopy(app.config["registry"]["network"]["degrees_distribution"][degree - 2])
+                for node in app.config["registry"]["network"]["degrees_distribution"][node_degree - 2][app.config["PLATFORM-ID"]]:
+                    try:
+                        aux.remove(node)
+                    except:
+                        pass
+                if len(aux) > 0:
+                    node_degree = degree
+
     list_of_platform_to_connect_to = list(app.config["registry"]["network"]["degrees_distribution"][node_degree - 2])
     list_of_platform_to_connect_to.remove(app.config["PLATFORM-ID"])
     return list_of_platform_to_connect_to
