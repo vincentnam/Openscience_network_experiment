@@ -1,0 +1,953 @@
+,count,values
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.act.code.type,1,['CE']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.inversionInd,1,"['false', 'true']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.code.code,2,"['10183-2', '274025005', '310634005', '48765-2', 'CONC']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.effectiveTime.period.unit,2,['h']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.performer.assignedEntity.telecom.nullFlavor,1,['UNK']
+ClinicalDocument.component.structuredBody.component.section.entry.act.participant.participantRole.addr.postalCode.@value,1,['02368']
+ClinicalDocument.componentOf.encompassingEncounter.effectiveTime.high.value,2,"['20050329', '20120813']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.performer.assignedEntity.addr.state.@value,1,['OR']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.rateQuantity.value,1,['110']
+ClinicalDocument.component.structuredBody.component.section.code.codeSystem,2,['2.16.840.1.113883.6.1']
+ClinicalDocument.component.structuredBody.component.section.code.codeSystemName,2,['LOINC']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.participant.participantRole.addr.streetAddressLine.@value,1,['17 Daws Rd.']
+ClinicalDocument.informant.relatedEntity.classCode,2,['PRS']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.code.codeSystem,2,['2.16.840.1.113883.6.96']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.effectiveTime.low.value,2,"['20020101', '20120806']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.performer.assignedEntity.assignedPerson.name.prefix.@value,1,['Dr.']
+ClinicalDocument.recordTarget.patientRole.patient.maritalStatusCode.code,2,['M']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.code.displayName,2,"['CBC WO DIFFERENTIAL', 'Vital signs']"
+ClinicalDocument.component.structuredBody.component.section.entry.observation.priorityCode.codeSystem,1,['2.16.840.1.113883.5.7']
+ClinicalDocument.componentOf.encompassingEncounter.encounterParticipant.assignedEntity.id.root,1,['2.16.840.1.113883.4.6']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.performer.assignedEntity.id.extension,1,['1234']
+ClinicalDocument.component.structuredBody.component.section.entry.act.participant.typeCode,1,['LOC']
+ClinicalDocument.id.extension,2,"['999021', 'Test CCDA']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.observation.templateId.root,2,"['2.16.840.1.113883.10.20.22.4.19', '2.16.840.1.113883.10.20.22.4.53']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.templateId.root,2,"['2.16.840.1.113883.10.20.22.4.4', '2.16.840.1.113883.10.20.22.4.7']"
+ClinicalDocument.recordTarget.patientRole.patient.languageCommunication.modeCode.codeSystem,2,['2.16.840.1.113883.5.60']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.id.root,2,"['2.16.840.1.113883.19', '37f76c51-6411-4e1d-8a37-957fd49d2cef', '45efb604-7049-4a2e-ad33-d38556c9636c', '9a6d1bac-17d3-4195-89a4-1121bc809b4a', '9b56c25d-9104-45ee-9fa4-e0f3afaa01c1', 'ab1791b0-5c71-11db-b0de-0800200c9a66']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.performer.assignedEntity.addr.city.@value,1,['Portland']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.observation.effectiveTime.low.value,1,['20110113']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.product.manufacturedProduct.manufacturedMaterial.code.displayName,1,['Albuterol 0.09 MG/ACTUAT inhalant solution']
+ClinicalDocument.recordTarget.patientRole.providerOrganization.id.root,2,"['1.1.1.1.1.1.1.1.4', '2.16.840.1.113883.19']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.repeatNumber.value,1,['1']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.performer.assignedEntity.assignedPerson.name.given.@value,2,"['Henry', 'Robert']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.participant.participantRole.classCode,1,['SDLOC']
+ClinicalDocument.component.structuredBody.component.section.entry.act.participant.participantRole.addr.state.@value,1,['MA']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.performer.assignedEntity.assignedPerson.name.family.@value,1,['Seven']
+ClinicalDocument.component.structuredBody.component.section.text.table.width,2,['100%']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.administrationUnitCode.codeSystem,1,['2.16.840.1.113883.3.26.1.1']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.performer.assignedEntity.addr.postalCode.@value,2,"['02368', '97266']"
+ClinicalDocument.documentationOf.serviceEvent.code.displayName,1,['Pnuemonia']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.effectiveTime.operator,2,['A']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.code.code,1,"['99222', '99241']"
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.act.entryRelationship.observation.classCode,1,['OBS']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.performer.assignedEntity.representedOrganization.telecom.value,1,['(555)555-555-1234']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.subject.relatedSubject.subject.birthTime.value,1,['1912']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.participant.participantRole.code.codeSystem,1,['2.16.840.1.113883.6.259']
+ClinicalDocument.component.structuredBody.component.section.entry.act.priorityCode.code,1,['CR']
+ClinicalDocument.confidentialityCode.code,2,['N']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.effectiveTime.period.value,2,"['12', '6']"
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.id.root,2,"['7d5a02b0-67a4-11db-bd13-0800200c9a66', 'c6f88320-67ad-11db-bd13-0800200c9a66']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.doseQuantity.nullFlavor,1,['UNK']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.participant.participantRole.classCode,1,['SDLOC']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.entryRelationship.observation.value.codeSystem,2,['2.16.840.1.113883.6.96']
+ClinicalDocument.component.structuredBody.component.section.text.table.tbody.tr.td.content.ID,2,"['DM', 'DM1', 'Encounter1', 'FillIns', 'FillIns_DM', 'Med1', 'Proc1', 'Proc2', 'fs1', 'fs2', 'immun1', 'immun2', 'immun3', 'immun4', 'reaction1', 'reaction2', 'reaction3', 'result1', 'result2', 'result3', 'severity1', 'severity2', 'severity3', 'soc1', 'soc2', 'soc3', 'vit1', 'vit2', 'vit3', 'vit4', 'vit5', 'vit6']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.effectiveTime.operator,1,['A']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.entryRelationship.observation.value.codeSystem,1,['2.16.840.1.113883.6.96']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.observation.code.codeSystemName,1,['SNOMED CT']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.act.code.codeSystem,1,"['2.16.840.1.113883.6.1', '2.16.840.1.113883.6.96']"
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.participant.participantRole.code.code,1,['1160-1']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.effectiveTime.high.value,1,['20120813']
+ClinicalDocument.custodian.assignedCustodian.representedCustodianOrganization.addr.postalCode.@value,2,"['02368', '97266']"
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.participant.participantRole.playingEntity.classCode,1,['PLC']
+ClinicalDocument.legalAuthenticator.assignedEntity.assignedPerson.name.given.@value,2,['Henry']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.moodCode,1,"['EVN', 'INT']"
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.effectiveTime.center.value,1,['20120820']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.participant.participantRole.scopingEntity.id.root,1,['eb936010-7b17-11db-9fe1-0800200c9b65']
+ClinicalDocument.code.code,2,"['11488-4', '34133-9']"
+ClinicalDocument.recordTarget.patientRole.patient.maritalStatusCode.displayName,2,['Married']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.id.root,1,['cdbd33f0-6cde-11db-9fe1-0800200c9a66']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.code.codeSystemName,1,['SNOMED CT']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.maxDoseQuantity.numerator.nullFlavor,1,['UNK']
+ClinicalDocument.recordTarget.patientRole.patient.name.use,2,['L']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.entryRelationship.act.moodCode,2,['INT']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.performer.assignedEntity.addr.state.@value,1,['MA']
+ClinicalDocument.component.structuredBody.component.section.code.displayName,2,"[' HOSPITAL DISCHARGE MEDICATIONS ', 'ASSESSMENT', 'GENERAL STATUS', 'HISTORY OF MEDICATION USE', 'HISTORY OF PAST ILLNESS', 'HISTORY OF PRESENT ILLNESS', 'HISTORY OF PROCEDURES', 'HOSPITAL DISCHARGE INSTRUCTIONS', 'History of encounters', 'History of immunizations', 'PHYSICAL FINDINGS', 'PROBLEM LIST', 'PROCEDURES', 'REASON FOR REFERRAL', 'REASON FOR VISIT + CHIEF COMPLAINT', 'RESULTS', 'REVIEW OF SYSTEMS', 'Social History', 'Treatment plan', 'VITAL SIGNS']"
+ClinicalDocument.inFulfillmentOf.order.id.root,1,['2.16.840.1.113883.19']
+ClinicalDocument.recordTarget.patientRole.patient.guardian.guardianPerson.name.given.@value,2,['Ralph']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.consumable.manufacturedProduct.manufacturedMaterial.code.codeSystem,1,['2.16.840.1.113883.6.88']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.participant.participantRole.playingEntity.code.displayName,2,"['ALLERGENIC EXTRACT, PENICILLIN', 'ASPIRIN', 'Aspirin', 'Codeine', 'Penicillin G benzathine']"
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.classCode,2,['PROC']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.participant.participantRole.telecom.nullFlavor,1,['UNK']
+ClinicalDocument.participant.associatedEntity.classCode,2,"['NOK', 'PRS']"
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.act.text.@value,1,['Follow up with Dr George Potomac for Asthma']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.observation.statusCode.code,1,['completed']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.routeCode.code,1,['C38216']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.classCode,1,['SPLY']
+ClinicalDocument.recordTarget.patientRole.providerOrganization.telecom.use,2,['WP']
+ClinicalDocument.recordTarget.patientRole.providerOrganization.addr.city.@value,2,"['Burlington', 'Portland']"
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.observation.classCode,1,['OBS']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.id.extension,1,['123456789']
+ClinicalDocument.recordTarget.patientRole.patient.administrativeGenderCode.codeSystem,2,['2.16.840.1.113883.5.1']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.product.manufacturedProduct.manufacturedMaterial.code.codeSystem,1,['2.16.840.1.113883.6.88']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.participant.participantRole.classCode,2,['MANU']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.moodCode,2,"['EVN', 'RQO']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.maxDoseQuantity.nullFlavor,1,['UNK']
+ClinicalDocument.documentationOf.serviceEvent.effectiveTime.high.value,1,['20120813']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.routeCode.codeSystemName,2,"['NCI Thesaurus', 'National Cancer Institute (NCI) Thesaurus', 'RouteOfAdministration']"
+ClinicalDocument.code.displayName,2,"['Consultation Note', 'Summarization of Episode Note']"
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.entryRelationship.observation.classCode,1,['OBS']
+ClinicalDocument.author.assignedAuthor.addr.postalCode.@value,2,"['02368', '97266']"
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.observation.value.type,1,['CD']
+ClinicalDocument.component.structuredBody.component.section.entry.act.participant.participantRole.code.displayName,1,['General Acute Care Hospital']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.performer.assignedEntity.telecom.value,1,['(555)555-555-1234']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.observation.code.codeSystemName,1,['SNOMED CT']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.rateQuantity.value,2,['90']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.consumable.manufacturedProduct.manufacturedMaterial.code.displayName,2,"['Albuterol 0.09 MG/ACTUAT inhalant solution', 'Influenza virus vaccine', 'Pneumococcal polysaccharide vaccine', 'Tetanus and diphtheria toxoids - preservative free']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.consumable.manufacturedProduct.classCode,1,['MANU']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.participant.participantRole.playingEntity.classCode,1,['PLC']
+ClinicalDocument.componentOf.encompassingEncounter.code.code,2,"['233604007', '99213']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.entryRelationship.act.code.displayName,2,['instruction']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.id.root,2,['1.2.3.4.56789.1']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.author.assignedAuthor.assignedPerson.name.prefix.@value,2,['Dr.']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.templateId.root,2,"['2.16.840.1.113883.10.20.22.4.40', '2.16.840.1.113883.10.20.22.4.49']"
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.referenceRange.observationRange.value.low.value,2,"['150', '4.3']"
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.performer.assignedEntity.representedOrganization.name.@value,2,"['Community Health and Hospitals', 'Good Health Clinic']"
+ClinicalDocument.component.structuredBody.component.section.text.content.ID,1,"['immunSect', 'problems']"
+ClinicalDocument.componentOf.encompassingEncounter.responsibleParty.assignedEntity.assignedPerson.name.family.@value,1,['Seven']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.value.originalText.reference.value,2,"['#reaction1', '#reaction2', '#reaction3']"
+ClinicalDocument.participant.associatedEntity.associatedPerson.name.given.@value,2,"['Abigail', 'Frank', 'Ralph']"
+ClinicalDocument.informant.relatedEntity.code.code,2,['SPS']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.effectiveTime.low.nullFlavor,1,['UNK']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.performer.assignedEntity.addr.streetAddressLine.@value,1,['1002 Healthcare Dr']
+ClinicalDocument.componentOf.encompassingEncounter.location.healthCareFacility.id.root,1,['2.16.840.1.113883.4.6']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.code.codeSystemName,1,['CPT']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.entryRelationship.act.code.codeSystem,2,['2.16.840.1.113883.6.96']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.participant.participantRole.id.root,1,['eb936010-7b17-11db-9fe1-0800200c9a68']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.precondition.criterion.value.displayName,2,['Wheezing']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.entryRelationship.act.templateId.root,1,['2.16.840.1.113883.10.20.22.4.20']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.value.type,2,"['CD', 'ST']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.effectiveTime.low.value,1,['20120813']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.act.entryRelationship.observation.statusCode.code,1,['completed']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.administrationUnitCode.codeSystemName,2,['NCI Thesaurus']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.performer.assignedEntity.representedOrganization.telecom.nullFlavor,1,['UNK']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.act.templateId.root,1,"['2.16.840.1.113883.10.20.22.4.20', '2.16.840.1.113883.10.20.22.4.80']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.author.assignedAuthor.id.root,1,['2a620155-9d11-439e-92b3-5d9815fe4de8']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.referenceRange.observationRange.value.high.value,2,"['10.8', '350']"
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.participant.participantRole.classCode,1,['SDLOC']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.performer.assignedEntity.representedOrganization.addr.nullFlavor,1,['UNK']
+ClinicalDocument.recordTarget.patientRole.patient.guardian.addr.postalCode.@value,2,"['02368', '97006']"
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.subject.relatedSubject.code.code,1,['FTH']
+ClinicalDocument.documentationOf.serviceEvent.performer.functionCode.displayName,1,['Primary Care Provider']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.moodCode,2,['EVN']
+ClinicalDocument.recordTarget.patientRole.addr.country.@value,2,['US']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.targetSiteCode.displayName,1,['Lower Respiratory Tract Structure']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.entryRelationship.observation.code.code,2,"['11323-3', '33999-4', '397659008', '409586006', '445518008', 'SEV']"
+ClinicalDocument.recordTarget.patientRole.patient.languageCommunication.preferenceInd.value,2,['true']
+ClinicalDocument.documentationOf.serviceEvent.performer.assignedEntity.assignedPerson.name.family.@value,1,['Seven']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.participant.participantRole.playingEntity.code.codeSystemName,2,['RxNorm']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.performer.assignedEntity.representedOrganization.addr.nullFlavor,2,['UNK']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.priorityCode.displayName,1,['Callback results']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.participant.participantRole.playingEntity.name.@value,1,['Community Health and Hospitals']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.id.root,2,"['2a620155-9d11-439e-92b3-5d9815ff4de8', '9a6d1bac-17d3-4195-89a4-1121bc809b4d']"
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.methodCode.nullFlavor,2,['UNK']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.classCode,2,['SBADM']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.performer.assignedEntity.representedOrganization.telecom.use,1,['WP']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.consumable.manufacturedProduct.manufacturedMaterial.code.codeSystem,2,"['2.16.840.1.113883.6.59', '2.16.840.1.113883.6.88']"
+ClinicalDocument.documentationOf.serviceEvent.performer.assignedEntity.addr.postalCode.@value,1,['97266']
+ClinicalDocument.documentationOf.serviceEvent.performer.assignedEntity.telecom.use,1,"['HP', 'WP']"
+ClinicalDocument.inFulfillmentOf.order.classCode,1,['ACT']
+ClinicalDocument.participant.associatedEntity.addr.streetAddressLine.@value,2,"['1357 Amber Drive', '17 Daws Rd.']"
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.subject.relatedSubject.code.translation.codeSystem,1,['2.16.840.1.113883.6.96']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.performer.assignedEntity.id.extension,1,['2981823']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.effectiveTime.high.nullFlavor,1,['UNK']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.repeatNumber.value,2,['1']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.performer.assignedEntity.id.root,1,['2.16.840.1.113883.19.5']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.participant.participantRole.templateId.root,1,['2.16.840.1.113883.10.20.22.4.24']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.product.manufacturedProduct.manufacturedMaterial.code.translation.codeSystem,1,['2.16.840.1.113883.6.88']
+ClinicalDocument.component.structuredBody.component.section.entry.act.participant.participantRole.addr.city.@value,1,['Blue Bell']
+ClinicalDocument.authenticator.signatureCode.code,2,['S']
+ClinicalDocument.documentationOf.serviceEvent.performer.assignedEntity.representedOrganization.addr.city.@value,1,['Portland']
+ClinicalDocument.recordTarget.patientRole.patient.guardian.code.displayName,2,['Grandfather']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.value.code,1,"['22298006', '46635009']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.routeCode.codeSystemName,1,['NCI Thesaurus']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.entryRelationship.act.statusCode.code,2,['completed']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.participant.participantRole.addr.streetAddressLine.@value,1,['1002 Healthcare Dr']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.entryRelationship.act.code.code,2,['409073007']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.performer.assignedEntity.addr.postalCode.@value,1,['97266']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.precondition.criterion.code.code,1,['ASSERTION']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.act.statusCode.code,1,"['active', 'completed']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.author.assignedAuthor.assignedPerson.name.prefix.@value,1,['Dr.']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.targetSiteCode.codeSystem,1,['2.16.840.1.113883.6.96']
+ClinicalDocument.legalAuthenticator.assignedEntity.addr.city.@value,2,"['Burlington', 'Portland']"
+ClinicalDocument.participant.associatedEntity.associatedPerson.name.family.@value,2,"['Jones', 'Ruth']"
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.templateId.root,2,"['2.16.840.1.113883.10.20.22.4.14', '2.16.840.1.113883.10.20.22.4.41']"
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.participant.participantRole.addr.state.@value,1,['OR']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.effectiveTime.high.nullFlavor,1,['UNK']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.author.assignedAuthor.telecom.nullFlavor,2,['UNK']
+ClinicalDocument.documentationOf.serviceEvent.performer.assignedEntity.assignedPerson.name.given.@value,1,['Henry']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.effectiveTime.value,2,"['19981215', '199911', '20120401', '20120510']"
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.performer.assignedEntity.addr.city.@value,2,"['Blue Bell', 'Portland']"
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.participant.participantRole.templateId.root,1,['2.16.840.1.113883.10.20.22.4.32']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.consumable.manufacturedProduct.manufacturedMaterial.code.translation.codeSystemName,1,['RxNorm']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.referenceRange.observationRange.value.low.unit,2,['10+3/ul']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.author.time.nullFlavor,2,['UNK']
+ClinicalDocument.recordTarget.patientRole.patient.guardian.addr.country.@value,2,['US']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.entryRelationship.observation.moodCode,2,['EVN']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.consumable.manufacturedProduct.manufacturedMaterial.code.translation.code,2,"['09', '109', '111', '573621']"
+ClinicalDocument.componentOf.encompassingEncounter.code.displayName,2,"['Evaluation and Management', 'Pnuemonia']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.observation.classCode,1,['OBS']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.observation.code.code,2,"['404684003', 'PATOBJ']"
+ClinicalDocument.recordTarget.patientRole.patient.guardian.code.codeSystemName,2,['HL7 Role code']
+ClinicalDocument.legalAuthenticator.assignedEntity.assignedPerson.name.family.@value,2,['Seven']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.observation.code.codeSystemName,2,"['HL7 ActNoImmunizationReason', 'SNOMED CT']"
+ClinicalDocument.informationRecipient.intendedRecipient.informationRecipient.name.given.@value,2,['Henry']
+ClinicalDocument.documentationOf.serviceEvent.performer.assignedEntity.representedOrganization.addr.state.@value,1,['OR']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.participant.typeCode,1,['CSM']
+ClinicalDocument.dataEnterer.assignedEntity.addr.state.@value,2,"['MA', 'OR']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.doseQuantity.unit,1,"['mcg', 'mg/actuat']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.performer.assignedEntity.representedOrganization.telecom.nullFlavor,2,['UNK']
+ClinicalDocument.custodian.assignedCustodian.representedCustodianOrganization.id.root,2,"['2.16.840.1.113883.19.5', '2.16.840.1.113883.4.6']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.statusCode.code,1,['completed']
+ClinicalDocument.component.structuredBody.component.section.entry.act.performer.assignedEntity.addr.postalCode.@value,1,['02368']
+ClinicalDocument.dataEnterer.assignedEntity.assignedPerson.name.given.@value,2,"['Henry', 'Mary']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.consumable.manufacturedProduct.manufacturedMaterial.code.codeSystemName,2,['CVX']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.precondition.criterion.code.codeSystem,2,['2.16.840.1.113883.5.4']
+ClinicalDocument.authenticator.assignedEntity.id.root,2,"['2.16.840.1.113883.19', '2.16.840.1.113883.4.6']"
+ClinicalDocument.inFulfillmentOf.order.moodCode,1,['RQO']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.precondition.templateId.root,1,['2.16.840.1.113883.10.20.22.4.25']
+ClinicalDocument.recordTarget.patientRole.patient.raceCode.displayName,2,['White']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.code.code,2,"['168731009', '274025005', '310634005']"
+ClinicalDocument.documentationOf.serviceEvent.code.codeSystemName,1,['SNOMED-CT']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.effectiveTime.value,1,['20110203']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.text.reference.value,1,"['#fs1', '#fs2']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.value.codeSystem,2,['2.16.840.1.113883.6.96']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.performer.assignedEntity.assignedPerson.name.family.@value,2,"['Michaels', 'Seven']"
+ClinicalDocument.recordTarget.patientRole.patient.languageCommunication.languageCode.code,2,"['eng', 'fr-CN']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.act.classCode,2,['ACT']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.participant.participantRole.code.code,1,['GACH']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.performer.assignedEntity.representedOrganization.addr.streetAddressLine.@value,1,['17 Daws Rd.']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.participant.participantRole.code.code,1,['412307009']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.precondition.criterion.code.codeSystem,1,['2.16.840.1.113883.5.4']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.entryRelationship.act.code.codeSystem,1,['2.16.840.1.113883.6.96']
+ClinicalDocument.confidentialityCode.codeSystem,2,['2.16.840.1.113883.5.25']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.participant.participantRole.code.codeSystem,1,['2.16.840.1.113883.6.96']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.doseQuantity.unit,1,['mg/actuat']
+ClinicalDocument.recordTarget.patientRole.patient.guardian.code.code,2,"['GPARNT', 'GRFTH']"
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.specimen.typeCode,1,['SPC']
+ClinicalDocument.legalAuthenticator.assignedEntity.addr.streetAddressLine.@value,2,"['1002 Healthcare Drive ', '21 North Ave.']"
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.subject.relatedSubject.code.displayName,1,['Father']
+ClinicalDocument.legalAuthenticator.assignedEntity.telecom.value,2,"['tel:(555)555-1003', 'tel:555-555-1002']"
+ClinicalDocument.recordTarget.patientRole.id.extension,2,"['1', '111-00-1234', '123-101-5230', '12345']"
+ClinicalDocument.componentOf.encompassingEncounter.encounterParticipant.assignedEntity.assignedPerson.name.given.@value,1,['Henry']
+ClinicalDocument.recordTarget.patientRole.patient.name.family.@value,2,"['Everyman', 'Jones']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.precondition.criterion.value.codeSystem,1,['2.16.840.1.113883.6.96']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.observation.templateId.root,1,['2.16.840.1.113883.10.20.22.4.19']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.participant.participantRole.telecom.nullFlavor,1,['UNK']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.entryRelationship.observation.id.root,1,['6898fae0-5c8a-11db-b0de-0800200c9a66']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.observation.moodCode,1,['EVN']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.participant.participantRole.addr.city.@value,1,['Portland']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.text.reference.value,2,"['#Med1', '#immun1', '#immun2', '#immun3', '#immun4']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.code.displayName,2,"['Allergies, adverse reactions, alerts', 'Colonic polypectomy', 'Colonoscopy', 'Concern', 'Discharge medication']"
+ClinicalDocument.recordTarget.patientRole.patient.guardian.telecom.use,2,['HP']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.consumable.manufacturedProduct.manufacturedMaterial.code.displayName,1,['120 ACTUAT Fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.participant.participantRole.playingEntity.code.codeSystem,1,['2.16.840.1.113883.6.88']
+ClinicalDocument.recordTarget.patientRole.providerOrganization.addr.postalCode.@value,2,"['02368', '97266']"
+ClinicalDocument.recordTarget.patientRole.telecom.value,2,"['tel:(781)555-1212', 'tel:(816)276-6909']"
+ClinicalDocument.custodian.assignedCustodian.representedCustodianOrganization.id.extension,1,['99999999']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.entryRelationship.observation.moodCode,1,['EVN']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.effectiveTime.period.value,1,['24']
+ClinicalDocument.authenticator.assignedEntity.addr.city.@value,2,"['Burlington', 'Portland']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.performer.assignedEntity.id.root,1,['2.16.840.1.113883.19.5.9999.456']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.entryRelationship.act.code.type,1,['CE']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.id.nullFlavor,1,['NI']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.participant.participantRole.addr.postalCode.@value,1,['97266']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.effectiveTime.value,2,"['20020101', '20120806']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.consumable.manufacturedProduct.id.root,1,['2a620155-9d11-439e-92b3-5d9815ff4ee8']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.effectiveTime.low.value,2,"['20110301', '20120806']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.maxDoseQuantity.numerator.nullFlavor,1,['UNK']
+ClinicalDocument.recordTarget.patientRole.addr.postalCode.@value,2,"['02368', '97006']"
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.observation.statusCode.code,1,['completed']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.author.assignedAuthor.id.root,1,"['2a620154-9d11-439e-92b3-5d9815ff4de8', '2a620155-9d11-439e-92b3-5d9815ff4de8', '2a620155-9d11-439e-92b3-5d9816ff4de8']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.observation.classCode,2,"['COND', 'OBS']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.performer.assignedEntity.representedOrganization.id.root,1,['2.16.840.1.113883.19.5']
+ClinicalDocument.informant.relatedEntity.code.displayName,2,['SPOUSE']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.value.displayName,1,"['Amnesia', 'Current Everyday Smoker', 'Dependence on Cane', 'Former smoker', 'Memory Impairment']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.moodCode,2,"['EVN', 'INT', 'RQO']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.administrationUnitCode.displayName,1,['INHALANT']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.effectiveTime.type,1,['IVL_TS']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.observation.code.codeSystem,1,['2.16.840.1.113883.6.96']
+ClinicalDocument.informant.relatedEntity.relatedPerson.name.family.@value,2,"['Everyman', 'Jones']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.effectiveTime.high.value,1,['20120813']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.product.manufacturedProduct.manufacturedMaterial.code.code,1,['896001']
+ClinicalDocument.component.structuredBody.component.section.text.table.tbody.tr.td.@value,2,"['0.09 MG/ACTUAT inhalant solution, 2 puffs once', '0.1', '1 pack per day', '123 (L)', '13.2', '18.0', '187.0', '1947 - 1972', '1973 - ', '1997', '1998', '2 puffs QID PRN wheezing', '20050501 to 20110227', '2008', '2011-03-01', '20110227 - today', '20120806', '20120813', '20120820', '20120826', '23.7', '28.0 Alk', '3.2', '31.0', '40', '57', '6.7', '7.7', '8.1', '8/7/2012', '86.0', 'ALT (SGPT)', 'AST (SGOT)', 'Active', 'Albumin', 'Apr 2012', 'April 21, 2000', 'Aspirin', 'Blood Count', 'Bronchitis (32398004 SNOMED CT)', 'Chemistries and drug levels', 'Chest X-ray', 'Codeine', 'Colonoscopy', 'Community Health and Hospitals', 'Completed', 'Consultation with Dr George Potomac for Asthma', 'Current Everyday Smoker 2 packs per day', 'Dec 1998', 'Diabetes', 'Dr Henry Seven', 'EKG', 'ELECTROCARDIOGRAM (EKG) INFORMATION', 'Former Smoker (1 pack per day', 'GGT', 'Generic Substitition Allowed', 'Hematocrit', 'Hemoglobin', 'Inactive', 'LABORATORY INFORMATION', 'Liver Functions and Other Laboratory Values', 'May 2012', 'Myocardial Infarction (cause of death)', 'None', 'Nov 1999', 'Penicillin', 'Penicillin G benzathine', 'Phos', 'Platelets', 'Pneumonia (233604007 SNOMED CT)', 'Refused', 'Sinus rhythm without acute changes', 'Sputum Culture', 'Total Bili', 'White Count']"
+ClinicalDocument.documentationOf.serviceEvent.performer.assignedEntity.addr.state.@value,1,['OR']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.doseQuantity.value,1,['1']
+ClinicalDocument.component.structuredBody.component.section.entry.act.templateId.root,2,"['2.16.840.1.113883.10.20.22.4.12', '2.16.840.1.113883.10.20.22.4.3', '2.16.840.1.113883.10.20.22.4.30', '2.16.840.1.113883.10.20.22.4.35', '2.16.840.1.113883.10.20.22.4.39']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.performer.assignedEntity.addr.streetAddressLine.@value,2,"['1002 Healthcare Dr', '17 Daws Rd.']"
+ClinicalDocument.legalAuthenticator.assignedEntity.id.extension,2,"['999999999', 'KP00017']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.product.manufacturedProduct.manufacturedMaterial.code.translation.code,1,['896001']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.participant.participantRole.code.displayName,1,['General Acute Care Hospital']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.author.assignedAuthor.assignedPerson.name.given.@value,1,['Henry']
+ClinicalDocument.author.time.value,2,"['20050329224411+0500', '20050813000000+0500']"
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.code.codeSystemName,2,"['LOINC', 'SNOMED CT']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.precondition.typeCode,2,['PRCN']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.product.manufacturedProduct.manufacturedMaterial.code.code,1,['573621']
+ClinicalDocument.componentOf.encompassingEncounter.id.root,2,"['2.16.840.1.113883.19', '2.16.840.1.113883.4.6']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.entryRelationship.inversionInd,2,['true']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.performer.assignedEntity.telecom.nullFlavor,2,['UNK']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.performer.assignedEntity.representedOrganization.name.@value,1,['Community Health and Hospitals']
+ClinicalDocument.informant.relatedEntity.code.codeSystem,2,['2.16.840.1.113883.1.11.19563']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.code.code,2,"['409586006', '416098002', 'ASSERTION']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.author.assignedAuthor.assignedPerson.name.family.@value,2,"['Michaels', 'Seven']"
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.entryRelationship.observation.value.value,1,"['40', '57']"
+ClinicalDocument.component.structuredBody.component.section.entry.observation.performer.assignedEntity.addr.postalCode.@value,1,['02368']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.consumable.manufacturedProduct.manufacturedMaterial.code.code,1,['896001']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.participant.participantRole.playingEntity.name.@value,1,['Aerosol']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.value.type,2,['CD']
+ClinicalDocument.component.structuredBody.component.section.entry.act.code.codeSystemName,2,"['LOINC', 'SNOMED CT']"
+ClinicalDocument.custodian.assignedCustodian.representedCustodianOrganization.telecom.use,2,['WP']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.effectiveTime.value,1,['20120806']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.code.codeSystem,2,"['2.16.840.1.113883.5.4', '2.16.840.1.113883.6.1', '2.16.840.1.113883.6.96']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.performer.assignedEntity.addr.country.@value,1,['US']
+ClinicalDocument.component.structuredBody.component.section.text.paragraph.@value,2,"['Alert and in good spirits, no acute distress.\n\n       ', 'Colonoscopy due to rectal bleeding.', 'Dark stools.', 'Father (deceased)', 'Follow up with Dr George Potomac for Asthma', 'GI evaluation 12 September: Colonoscopy showed single red clot in .... .... ....', 'He presented to the ER today c/o a dark stool yesterday but a normal brown stool today. On exam he was hypotensive in the 80?s resolved after .... .... .... ', 'He was transfused with 6 units of packed red blood cells with .... .... ....', 'Lab at discharge: Glucose 112, BUN 16, creatinine 1.1, electrolytes normal. H. pylori antibody pending. Admission hematocrit 16%, discharge hematocrit 29%. WBC 7300, platelet count 256,000. Urinalysis normal. Urine culture: No growth. INR 1.1, PTT 40.', 'Patient denies recent history of fever or malaise. Positive for weakness and shortness of breath. One episode of melena. No recent headaches. Positive for osteoarthritis in hips, knees and hands. ', 'See History of Present Illness.', 'This patient was only recently discharged for a recurrent GI bleed as described below.']"
+ClinicalDocument.author.assignedAuthor.addr.city.@value,2,"['Burlington', 'Portland']"
+ClinicalDocument.componentOf.encompassingEncounter.code.codeSystem,2,"['2.16.840.1.113883.6.12', '2.16.840.1.113883.6.96']"
+ClinicalDocument.recordTarget.patientRole.patient.guardian.guardianPerson.name.family.@value,2,"['Jones', 'Relative']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.entryRelationship.observation.code.nullFlavor,2,['NA']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.entryRelationship.observation.code.codeSystem,2,"['2.16.840.1.113883.5.4', '2.16.840.1.113883.6.1', '2.16.840.1.113883.6.96']"
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.participant.participantRole.code.codeSystem,1,['2.16.840.1.113883.6.259']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.classCode,2,['OBS']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.performer.assignedEntity.addr.postalCode.@value,2,"['02368', '97266']"
+ClinicalDocument.component.structuredBody.component.section.title.@value,2,"['ALLERGIES, ADVERSE REACTIONS, ALERTS', 'ASSESSMENT', 'Allergies, Adverse Reactions, Alerts', 'CARE PLAN', 'ENCOUNTERS', 'FUNCTIONAL STATUS', 'Family history', 'GENERAL STATUS', 'HISTORY OF PRESENT ILLNESS', 'HOSPITAL DISCHARGE INSTRUCTIONS', 'HOSPITAL DISCHARGE MEDICATIONS', 'IMMUNIZATIONS', 'Immunizations', 'MEDICATIONS', 'Medications', 'PAST MEDICAL HISTORY', 'PHYSICAL EXAMINATION', 'PROBLEMS', 'PROCEDURES', 'Plan of Care', 'Procedures', 'REASON FOR REFERRAL', 'REASON FOR VISIT/CHIEF COMPLAINT', 'RESULTS', 'REVIEW OF SYSTEMS', 'Results', 'SOCIAL HISTORY', 'Social History', 'VITAL SIGNS', 'Vital Signs']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.performer.time.nullFlavor,2,['UNK']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.consumable.manufacturedProduct.manufacturedMaterial.code.translation.displayName,1,['120 ACTUAT Fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.product.manufacturedProduct.manufacturedMaterial.code.displayName,1,['120 ACTUAT Fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.act.templateId.root,2,['2.16.840.1.113883.10.20.22.4.20']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.entryRelationship.observation.statusCode.code,1,['completed']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.classCode,2,['ENC']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.id.extension,2,['123456789']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.entryRelationship.observation.value.value,2,"['57', '65']"
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.targetSiteCode.code,1,['82094008']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.effectiveTime.high.value,1,['20120806']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.subject.relatedSubject.code.translation.codeSystemName,1,['SNOMED']
+ClinicalDocument.component.structuredBody.component.section.entry.act.performer.assignedEntity.telecom.use,1,['WP']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.observation.value.type,2,"['CD', 'CE']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.observation.value.codeSystem,2,['2.16.840.1.113883.6.96']
+ClinicalDocument.effectiveTime.value,2,"['20050329171504+0500', '20120912000000-0000']"
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.act.effectiveTime.low.value,1,['20120806']
+ClinicalDocument.informant.assignedEntity.telecom.value,2,"['tel:(555)555-1003', 'tel:555-555-1002']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.participant.participantRole.playingEntity.classCode,1,['MMAT']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.entryRelationship.observation.value.unit,2,['a']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.author.assignedAuthor.id.root,1,['2a620155-9d11-439e-92b3-5d9815fe4de8']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.participant.typeCode,2,['LOC']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.priorityCode.codeSystemName,1,['ActPriority']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.participant.participantRole.playingEntity.code.code,1,['324049']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.statusCode.code,2,['completed']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.performer.assignedEntity.representedOrganization.telecom.nullFlavor,1,['UNK']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.id.root,2,"['4adc1020-7b14-11db-9fe1-0800200c9a66', 'ab1791b0-5c71-11db-b0de-0800200c9a66']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.administrationUnitCode.code,1,['C42944']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.performer.assignedEntity.representedOrganization.id.root,1,['2.16.840.1.113883.19.5.9999.1395']
+ClinicalDocument.participant.associatedEntity.addr.city.@value,2,"['Beaverton', 'Blue Bell']"
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.subject.relatedSubject.subject.administrativeGenderCode.code,1,['M']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.moodCode,1,['EVN']
+ClinicalDocument.participant.associatedEntity.code.displayName,1,"['Grand Parent', 'SPOUSE']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.precondition.criterion.value.type,2,['CE']
+ClinicalDocument.documentationOf.serviceEvent.code.codeSystem,1,['2.16.840.1.113883.6.96']
+ClinicalDocument.custodian.assignedCustodian.representedCustodianOrganization.addr.state.@value,2,"['MA', 'OR']"
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.entryRelationship.inversionInd,1,['true']
+ClinicalDocument.component.structuredBody.component.section.entry.act.effectiveTime.value,2,"['20060501', '20070501', '20080501', '20090909', '20110203']"
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.subject.relatedSubject.code.codeSystemName,1,['HL7 FamilyMember']
+ClinicalDocument.component.structuredBody.component.section.text.list.listType,2,['ordered']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.precondition.criterion.value.displayName,1,['Wheezing']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.performer.assignedEntity.id.nullFlavor,2,['NI']
+ClinicalDocument.component.structuredBody.component.section.entry.act.effectiveTime.center.value,1,['20000421']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.performer.assignedEntity.representedOrganization.telecom.nullFlavor,2,['UNK']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.consumable.manufacturedProduct.id.root,1,['2a620155-9d11-439e-92b3-5d9815ff4ee8']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.act.entryRelationship.observation.value.type,1,['CD']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.performer.assignedEntity.representedOrganization.id.root,2,"['2.16.840.1.113883.19.5', '2.16.840.1.113883.19.5.9999.1393']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.quantity.value,1,['75']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.referenceRange.observationRange.value.high.unit,2,['10+3/ul']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.observation.code.code,1,['404684003']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.specimen.specimenRole.classCode,1,['SPEC']
+ClinicalDocument.recordTarget.patientRole.patient.guardian.addr.use,2,['HP']
+ClinicalDocument.documentationOf.serviceEvent.performer.assignedEntity.representedOrganization.addr.postalCode.@value,1,['97266']
+ClinicalDocument.legalAuthenticator.assignedEntity.telecom.use,2,['WP']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.participant.participantRole.playingEntity.code.displayName,2,"['Aerosol', 'Diethylene Glycol']"
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.participant.participantRole.addr.country.@value,1,['US']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.routeCode.displayName,1,['RESPIRATORY (INHALATION)']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.priorityCode.displayName,1,['Callback results']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.statusCode.code,2,"['aborted', 'completed', 'new']"
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.performer.assignedEntity.addr.country.@value,2,['US']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.id.root,1,['1.2.3.4.56789.1']
+ClinicalDocument.component.structuredBody.component.section.text.list.item.content.@value,1,"['Asthma : Status - Active', 'Pneumonia : Status - Resolved']"
+ClinicalDocument.participant.associatedEntity.addr.postalCode.@value,2,"['02368', '97006']"
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.observation.id.extension,1,['45665']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.templateId.root,2,"['2.16.840.1.113883.10.20.22.4.13', '2.16.840.1.113883.10.20.22.4.38', '2.16.840.1.113883.10.20.22.4.44', '2.16.840.1.113883.10.20.22.4.68', '2.16.840.1.113883.10.20.22.4.73', '2.16.840.1.113883.10.22.4.78']"
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.act.entryRelationship.observation.code.code,1,['409586006']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.code.codeSystemName,2,"['SNOMED -CT', 'SNOMED CT']"
+ClinicalDocument.recordTarget.patientRole.patient.languageCommunication.modeCode.codeSystemName,2,['LanguageAbilityMode']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.effectiveTime.low.value,1,['20120813']
+ClinicalDocument.custodian.assignedCustodian.representedCustodianOrganization.name.@value,2,"['Community Health and Hospitals', 'Good Health Clinic']"
+ClinicalDocument.author.assignedAuthor.telecom.value,2,"['tel:(555)555-1003', 'tel:555-555-1002']"
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.performer.assignedEntity.representedOrganization.addr.country.@value,1,['US']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.participant.participantRole.addr.country.@value,1,['US']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.statusCode.code,2,['completed']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.performer.assignedEntity.addr.nullFlavor,2,['UNK']
+ClinicalDocument.typeId.extension,2,['POCD_HD000040']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.consumable.manufacturedProduct.manufacturerOrganization.name.@value,1,"['Health LS - Immuno Inc.', 'Medication Factory Inc.']"
+ClinicalDocument.author.assignedAuthor.telecom.use,2,['WP']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.act.code.code,2,['171044003']
+ClinicalDocument.documentationOf.serviceEvent.performer.functionCode.code,1,['PP']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.performer.assignedEntity.representedOrganization.id.root,1,['2.16.840.1.113883.19.5']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.entryRelationship.act.code.displayName,1,['instruction']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.value.type,2,"['CD', 'PQ']"
+ClinicalDocument.legalAuthenticator.assignedEntity.addr.state.@value,2,"['MA', 'OR']"
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.classCode,2,"['BATTERY', 'CLUSTER']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.entryRelationship.act.templateId.root,2,['2.16.840.1.113883.10.20.22.4.20']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.participant.participantRole.addr.state.@value,1,['MA']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.performer.assignedEntity.representedOrganization.name.@value,2,"['Community Health and Hospitals', 'Good Health Clinic']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.performer.assignedEntity.representedOrganization.name.@value,1,['Good Health Clinic']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.precondition.criterion.value.code,1,['56018004']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.code.displayName,2,"['Active', 'HGB', 'Height', 'Intermittent', 'Intravascular Systolic', 'PLT', 'Patient Body Weight - Measured', 'WBC']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.performer.assignedEntity.assignedPerson.name.prefix.@value,2,['Dr.']
+ClinicalDocument.component.structuredBody.component.section.entry.act.effectiveTime.low.value,2,"['199803', '20060501', '20070103', '20070501', '20080501', '20090902', '20120806', '20120813']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.precondition.templateId.root,2,['2.16.840.1.113883.10.20.22.4.25']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.templateId.root,1,['2.16.840.1.113883.10.20.22.4.16']
+ClinicalDocument.componentOf.encompassingEncounter.id.extension,2,"['1', '9937012']"
+ClinicalDocument.component.structuredBody.component.section.entry.observation.classCode,2,['OBS']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.consumable.manufacturedProduct.manufacturedMaterial.code.originalText.reference.value,1,['#Med1']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.entryRelationship.typeCode,2,"['MFST', 'REFR', 'SUBJ']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.priorityCode.codeSystem,1,['2.16.840.1.113883.5.7']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.templateId.root,2,"['2.16.840.1.113883.10.20.22.4.2', '2.16.840.1.113883.10.20.22.4.27', '2.16.840.1.113883.10.20.22.4.46']"
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.code.originalText.reference.value,1,['#Encounter1']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.maxDoseQuantity.denominator.nullFlavor,1,['UNK']
+ClinicalDocument.legalAuthenticator.signatureCode.code,2,['S']
+ClinicalDocument.authenticator.assignedEntity.addr.country.@value,2,"['US', 'USA']"
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.act.id.root,1,['5a784260-6856-4f38-9638-80c751aff2fb']
+ClinicalDocument.documentationOf.serviceEvent.performer.functionCode.codeSystemName,1,['Provider Role']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.entryRelationship.inversionInd,2,['true']
+ClinicalDocument.informant.assignedEntity.addr.city.@value,2,"['Burlington', 'Portland']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.rateQuantity.unit,2,['ml/min']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.author.assignedAuthor.addr.nullFlavor,2,['UNK']
+ClinicalDocument.recordTarget.patientRole.patient.ethnicGroupCode.displayName,2,['Not Hispanic or Latino']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.act.entryRelationship.observation.value.codeSystem,1,['2.16.840.1.113883.6.96']
+ClinicalDocument.legalAuthenticator.time.value,2,"['20050329224411+0500', '20120813']"
+ClinicalDocument.recordTarget.patientRole.patient.ethnicGroupCode.codeSystem,2,['2.16.840.1.113883.6.238']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.subject.relatedSubject.code.translation.displayName,1,['Biological father']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.participant.participantRole.classCode,2,['MANU']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.effectiveTime.high.value,2,"['1972', '20110227']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.product.manufacturedProduct.manufacturedMaterial.code.translation.codeSystemName,1,['RxNorm']
+ClinicalDocument.custodian.assignedCustodian.representedCustodianOrganization.addr.streetAddressLine.@value,2,"['1002 Healthcare Drive ', '17 Daws Rd.']"
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.act.entryRelationship.observation.code.codeSystem,1,['2.16.840.1.113883.6.96']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.performer.assignedEntity.representedOrganization.addr.nullFlavor,1,['UNK']
+ClinicalDocument.documentationOf.serviceEvent.performer.assignedEntity.addr.streetAddressLine.@value,1,['1002 Healthcare Dr']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.participant.participantRole.telecom.nullFlavor,1,['UNK']
+ClinicalDocument.author.assignedAuthor.addr.country.@value,2,"['US', 'USA']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.entryRelationship.act.classCode,1,['ACT']
+ClinicalDocument.participant.associatedEntity.code.code,2,"['GPARNT', 'MTH', 'SPS']"
+ClinicalDocument.documentationOf.serviceEvent.performer.assignedEntity.id.extension,1,"['PseudoMD-1', 'PseudoMD-3']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.performer.assignedEntity.id.nullFlavor,1,['NI']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.entryRelationship.act.text.reference.value,1,['#FillIns']
+ClinicalDocument.dataEnterer.assignedEntity.addr.country.@value,2,"['US', 'USA']"
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.subject.relatedSubject.classCode,1,['PRS']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.performer.assignedEntity.representedOrganization.addr.nullFlavor,1,['UNK']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.participant.participantRole.classCode,2,"['MANU', 'SDLOC']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.author.time.nullFlavor,1,['UNK']
+ClinicalDocument.inFulfillmentOf.order.id.extension,1,['12345-67890']
+ClinicalDocument.component.structuredBody.component.section.text.table.tbody.tr.td.content.@value,2,"['0.11 MG/ACTUAT Metered Dose Once Daily', '120 ACTUAT Fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler', '132/86 mmHg', '145/88 mmHg', '177 cm', '189 lbs', '194 lbs', '69 inches', '86 kg', '88 kg', 'Albuterol 0.09 MG/ACTUAT inhalant solution', 'Chest X-Ray', 'Colonic polypectomy', 'Dependence on cane', 'Generic Substitition Allowed', 'HGB (M 13-18 g/dl; F 12-16 g/dl)', 'Hives', 'Memory impairment', 'Mild to moderate', 'Moderate', 'Moderate to severe', 'Nausea', 'PLT (135-145 meq/l)', 'Proventil 0.09 MG/ACTUAT inhalant solution', 'Shortness of Breath', 'WBC (4.3-10.8 10+3/ul)', 'Wheezing']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.id.root,2,"['1.2.3.4.5.6.7.8', '36e3e930-7b14-11db-9fe1-0800200c9a66', '5a784260-6856-4f38-9638-80c751aff2fb', '9a6d1bac-17d3-4195-89a4-1121bc809a5c', 'ec8a6ff8-ed4b-4f7e-82c3-e98e58b45de7']"
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.id.root,2,"['2.16.840.1.113883.19', '9a6d1bac-17d3-4195-89c4-1121bc809b5a', 'd68b7e32-7810-4f5b-9cc2-acd54b0fd85d']"
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.value.displayName,1,"['Diabetes mellitus type 1', 'Myocardial infarction']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.product.manufacturedProduct.manufacturedMaterial.code.translation.codeSystemName,1,['RxNorm']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.code.displayName,1,"['InPatient Admission', 'Office consultation - 15 minutes']"
+ClinicalDocument.id.root,2,"['1.1.1.1.1.1.1.1.1', '2.16.840.1.113883.19']"
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.value.value,2,"['10.2', '12.3', '123', '13.2', '132', '145', '177', '189', '194', '6.7', '69', '86', '88']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.observation.code.codeSystem,1,['2.16.840.1.113883.6.96']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.templateId.root,2,"['2.16.840.1.113883.10.20.22.4.16', '2.16.840.1.113883.10.20.22.4.52']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.product.manufacturedProduct.manufacturedMaterial.code.originalText.reference.value,1,['#DM']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.entryRelationship.observation.value.displayName,1,['Dead']
+ClinicalDocument.component.structuredBody.component.section.entry.act.performer.assignedEntity.addr.state.@value,1,['MA']
+ClinicalDocument.component.structuredBody.component.section.entry.act.code.codeSystem,2,"['2.16.840.1.113883.5.6', '2.16.840.1.113883.6.1', '2.16.840.1.113883.6.96']"
+ClinicalDocument.componentOf.encompassingEncounter.encounterParticipant.assignedEntity.assignedPerson.name.prefix.@value,1,['Dr']
+ClinicalDocument.dataEnterer.assignedEntity.id.extension,2,"['43252', '999999943252']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.statusCode.code,2,['completed']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.act.text.reference.value,1,['#immunSect']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.act.code.displayName,1,"['ENCOUNTER DIAGNOSIS', 'instruction']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.entryRelationship.observation.code.codeSystemName,2,"['ActCode', 'LOINC']"
+ClinicalDocument.dataEnterer.assignedEntity.addr.city.@value,2,"['Burlington', 'Portland']"
+ClinicalDocument.documentationOf.serviceEvent.performer.functionCode.codeSystem,1,['2.16.840.1.113883.12.443']
+ClinicalDocument.component.structuredBody.component.section.entry.act.participant.participantRole.telecom.nullFlavor,1,['UNK']
+ClinicalDocument.component.structuredBody.component.section.text.table.tbody.tr.th.align,2,['left']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.performer.assignedEntity.representedOrganization.addr.nullFlavor,2,['UNK']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.entryRelationship.observation.code.type,1,['CE']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.performer.assignedEntity.telecom.use,1,['WP']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.consumable.manufacturedProduct.templateId.root,2,"['2.16.840.1.113883.10.20.22.4.23', '2.16.840.1.113883.10.20.22.4.54']"
+ClinicalDocument.documentationOf.serviceEvent.performer.assignedEntity.representedOrganization.addr.streetAddressLine.@value,1,['1002 Healthcare Drive ']
+ClinicalDocument.recordTarget.patientRole.patient.ethnicGroupCode.code,2,['2186-5']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.act.code.codeSystemName,1,['LOINC']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.text.reference.value,1,"['#problem1', '#problem2']"
+ClinicalDocument.recordTarget.patientRole.providerOrganization.addr.country.@value,2,"['US', 'USA']"
+ClinicalDocument.recordTarget.patientRole.patient.birthplace.place.addr.state.@value,2,"['MA', 'OR']"
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.targetSiteCode.codeSystemName,1,['SNOMED CT']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.observation.moodCode,1,['EVN']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.effectiveTime.type,2,['IVL_TS']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.referenceRange.observationRange.value.type,2,['IVL_PQ']
+ClinicalDocument.versionNumber.value,1,['1']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.entryRelationship.observation.effectiveTime.low.value,2,"['20060501', '20070501', '20080501', '20090711', '20120806']"
+ClinicalDocument.component.structuredBody.component.section.entry.observation.participant.participantRole.playingEntity.name.@value,1,['Good Health Clinic']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.participant.participantRole.playingEntity.classCode,1,['PLC']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.performer.assignedEntity.assignedPerson.name.given.@value,1,['Henry']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.act.text.@value,1,['Possible flu-like symptoms for three days.']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.product.manufacturedProduct.manufacturedMaterial.code.codeSystem,1,['2.16.840.1.113883.6.88']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.performer.assignedEntity.addr.streetAddressLine.@value,2,"['1002 Healthcare Dr', '17 Daws Rd.']"
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.participant.participantRole.addr.streetAddressLine.@value,1,['1002 Healthcare Dr']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.precondition.criterion.value.codeSystem,2,['2.16.840.1.113883.6.96']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.moodCode,2,"['EVN', 'INT']"
+ClinicalDocument.informant.relatedEntity.code.codeSystemName,2,['Personal Relationship Role Type Value Set']
+ClinicalDocument.documentationOf.serviceEvent.performer.assignedEntity.representedOrganization.telecom.value,1,['tel:+1-555-555-5000']
+ClinicalDocument.componentOf.encompassingEncounter.responsibleParty.assignedEntity.assignedPerson.name.prefix.@value,1,['Dr']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.observation.code.displayName,1,['Finding']
+ClinicalDocument.documentationOf.typeCode,1,['DOC']
+ClinicalDocument.recordTarget.patientRole.addr.state.@value,2,"['MA', 'OR']"
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.act.entryRelationship.observation.value.displayName,1,['Pneumonia']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.observation.effectiveTime.low.nullFlavor,1,['UNK']
+ClinicalDocument.informant.assignedEntity.addr.country.@value,2,"['US', 'USA']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.observation.id.root,1,['db734647-fc99-424c-a864-7e3cda82e703']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.performer.assignedEntity.code.codeSystem,1,['2.16.840.1.113883.6.96']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.product.manufacturedProduct.manufacturedMaterial.code.originalText.reference.value,1,['#Med1']
+ClinicalDocument.component.structuredBody.component.section.entry.act.participant.participantRole.code.codeSystem,1,['2.16.840.1.113883.5.111']
+ClinicalDocument.documentationOf.serviceEvent.performer.assignedEntity.telecom.value,1,['tel:+1-555-555-5000']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.effectiveTime.value,2,"['19991114', '20000407', '20111101', '20120806']"
+ClinicalDocument.recordTarget.patientRole.telecom.use,2,['HP']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.entryRelationship.observation.code.code,1,"['397659008', 'ASSERTION']"
+ClinicalDocument.component.structuredBody.component.section.text.table.thead.tr.th.@value,2,"['Age At Onset', 'April 7, 2000', 'August 6, 2012', 'Condition Status', 'Date', 'Date / Time: ', 'Description', 'Diagnosis', 'Directions', 'Effective Dates', 'Encounter', 'Fill Instructions', 'Functional Condition', 'Indications', 'Location', 'Medication', 'Nov 1, 2011', 'Nov 14, 1999', 'Performer', 'Planned Activity', 'Planned Date', 'Procedure', 'Reaction', 'Severity', 'Social History Element', 'Start Date', 'Status', 'Substance', 'Vaccine']"
+ClinicalDocument.component.structuredBody.component.section.text.table.thead.tr.th.align,2,['right']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.observation.value.code,2,"['233604007', '32398004']"
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.observation.value.codeSystem,1,['2.16.840.1.113883.6.96']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.precondition.criterion.code.code,2,['ASSERTION']
+ClinicalDocument.legalAuthenticator.assignedEntity.id.root,2,"['2.16.840.1.113883.19', '2.16.840.1.113883.4.6']"
+ClinicalDocument.authenticator.assignedEntity.assignedPerson.name.family.@value,2,['Seven']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.code.codeSystemName,1,['SNOMED-CT']
+ClinicalDocument.recordTarget.patientRole.id.root,2,"['2.16.840.1.113883.19', '2.16.840.1.113883.4.1', '2.16.840.1.113883.4.6']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.entryRelationship.observation.templateId.root,2,"['2.16.840.1.113883.10.20.22.4.28', '2.16.840.1.113883.10.20.22.4.31', '2.16.840.1.113883.10.20.22.4.5', '2.16.840.1.113883.10.20.22.4.6', '2.16.840.1.113883.10.20.22.4.68', '2.16.840.1.113883.10.20.22.4.8', '2.16.840.1.113883.10.20.22.4.9']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.observation.code.codeSystem,2,"['2.16.840.1.113883.11.19725', '2.16.840.1.113883.6.96']"
+ClinicalDocument.realmCode.code,2,['US']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.targetSiteCode.codeSystemName,1,['SNOMED CT']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.entryRelationship.act.classCode,2,['ACT']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.observation.effectiveTime.low.value,1,['20120806']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.routeCode.displayName,2,"['Intramuscular injection', 'RESPIRATORY (INHALATION)']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.moodCode,2,['EVN']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.participant.participantRole.playingEntity.code.codeSystemName,1,['RxNorm']
+ClinicalDocument.documentationOf.serviceEvent.code.code,1,['233604007']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.participant.participantRole.code.displayName,2,['drug vehicle']
+ClinicalDocument.setId.root,1,['2.16.840.1.113883.19']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.code.codeSystem,1,['2.16.840.1.113883.6.12']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.act.entryRelationship.observation.id.root,1,['ab1791b0-5c71-11db-b0de-0800200c9a66']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.product.manufacturedProduct.manufacturedMaterial.code.translation.displayName,1,['120 ACTUAT Fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.participant.participantRole.playingEntity.name.@value,1,['Community Health and Hospitals']
+ClinicalDocument.participant.associatedEntity.addr.use,1,['HP']
+ClinicalDocument.recordTarget.patientRole.patient.guardian.addr.state.@value,2,"['MA', 'OR']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.id.extension,1,['1234567']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.participant.participantRole.code.displayName,1,['Urgent Care Center']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.performer.assignedEntity.representedOrganization.name.@value,2,"['Community Health and Hospitals', 'Good Health Clinic']"
+ClinicalDocument.documentationOf.serviceEvent.performer.assignedEntity.assignedPerson.name.prefix.@value,1,['Dr.']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.observation.value.displayName,2,"['Bronchitis', 'Pneumonia']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.doseQuantity.value,2,"['0.09', '1', '50']"
+ClinicalDocument.author.assignedAuthor.id.extension,2,"['111111', 'KP00017']"
+ClinicalDocument.componentOf.encompassingEncounter.encounterParticipant.typeCode,1,['ATND']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.id.nullFlavor,2,['NI']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.participant.participantRole.addr.postalCode.@value,1,['97266']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.value.code,1,"['105504002', '386807006', '449868002', '48167000', '8517006']"
+ClinicalDocument.recordTarget.patientRole.addr.use,2,['HP']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.effectiveTime.center.value,2,"['20000421', '20120826']"
+ClinicalDocument.dataEnterer.assignedEntity.addr.postalCode.@value,2,"['02368', '97266']"
+ClinicalDocument.documentationOf.serviceEvent.performer.assignedEntity.addr.city.@value,1,['Portland']
+ClinicalDocument.component.structuredBody.component.section.text.content.@value,1,"['\n                     Ms. Jones, you have been seen by Dr. Henry Seven at Local Community Hospital from August 8th until August 13th 2012. You are currently being discharged from Local Community Hospital. Dr. Seven has provided the following instructions to you at this time; should you have any questions please contact a member of your healthcare team prior to discharge. If you have left the hospital and have questions, please contact Dr. Seven at 555-555-1002. \n                     Instructions:\n                  ']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.product.manufacturedProduct.manufacturedMaterial.code.translation.code,1,['573621']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.observation.value.displayName,1,['Pneumonia']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.id.root,2,"['107c2dc0-67a5-11db-bd13-0800200c9a66', '5bfe3ec0-5c8b-11db-b0de-0800200c9a66', 'c6f88321-67ad-11db-bd13-0800200c9a66', 'd42ebf70-5c89-11db-b0de-0800200c9a66']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.entryRelationship.inversionInd,1,['true']
+ClinicalDocument.informant.assignedEntity.assignedPerson.name.given.@value,2,['Henry']
+ClinicalDocument.recordTarget.patientRole.patient.religiousAffiliationCode.code,2,['1013']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.product.manufacturedProduct.id.root,1,['2a620155-9d11-439e-92b3-5d9815ff4ee8']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.consumable.manufacturedProduct.templateId.root,1,['2.16.840.1.113883.10.20.22.4.23']
+ClinicalDocument.documentationOf.serviceEvent.performer.assignedEntity.representedOrganization.name.@value,1,['Community Health and Hospitals']
+ClinicalDocument.component.structuredBody.component.section.entry.act.performer.assignedEntity.addr.city.@value,1,['Blue Bell']
+ClinicalDocument.author.assignedAuthor.addr.state.@value,2,"['MA', 'OR']"
+ClinicalDocument.component.structuredBody.component.section.entry.observation.targetSiteCode.code,1,['416949008']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.participant.participantRole.templateId.root,1,['2.16.840.1.113883.10.20.22.4.32']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.code.type,1,['CE']
+ClinicalDocument.component.structuredBody.component.section.entry.act.performer.assignedEntity.representedOrganization.addr.nullFlavor,1,['UNK']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.observation.code.displayName,1,['Finding']
+ClinicalDocument.recordTarget.patientRole.patient.guardian.code.codeSystem,2,['2.16.840.1.113883.5.111']
+ClinicalDocument.recordTarget.patientRole.providerOrganization.addr.state.@value,2,"['MA', 'OR']"
+ClinicalDocument.component.structuredBody.component.section.entry.observation.targetSiteCode.displayName,1,['Abdomen and pelvis']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.observation.effectiveTime.high.value,1,['20120813']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.act.entryRelationship.inversionInd,1,['false']
+ClinicalDocument.component.structuredBody.component.section.text.list.item.content.ID,1,"['problem1', 'problem2']"
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.participant.participantRole.addr.state.@value,1,['OR']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.observation.templateId.root,1,['2.16.840.1.113883.10.20.22.4.19']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.subject.relatedSubject.code.codeSystem,1,['2.16.840.1.113883.5.111']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.participant.participantRole.playingEntity.classCode,2,['MMAT']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.entryRelationship.observation.value.type,2,"['CD', 'CE', 'PQ']"
+ClinicalDocument.informationRecipient.intendedRecipient.receivedOrganization.name.@value,2,"['Community Health and Hospitals', 'Good Health Clinic']"
+ClinicalDocument.recordTarget.patientRole.patient.religiousAffiliationCode.codeSystemName,2,['HL7 Religious Affiliation ']
+ClinicalDocument.inFulfillmentOf.typeCode,1,['FLFS']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.entryRelationship.observation.value.type,1,"['CD', 'PQ']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.act.statusCode.code,2,['completed']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.product.manufacturedProduct.manufacturedMaterial.code.translation.codeSystem,1,['2.16.840.1.113883.6.88']
+ClinicalDocument.component.structuredBody.component.section.entry.act.participant.participantRole.code.code,1,['GACH']
+ClinicalDocument.dataEnterer.assignedEntity.addr.streetAddressLine.@value,2,"['1002 Healthcare Drive ', '21 North Ave.']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.maxDoseQuantity.denominator.nullFlavor,1,['UNK']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.specimen.specimenRole.specimenPlayingEntity.code.codeSystem,1,['2.16.840.1.113883.6.96']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.participant.participantRole.playingEntity.code.code,2,"['1191', '2670', '314422', '7982']"
+ClinicalDocument.component.structuredBody.component.section.entry.observation.performer.assignedEntity.addr.city.@value,1,['Blue Bell']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.templateId.root,1,"['2.16.840.1.113883.10.20.22.4.17', '2.16.840.1.113883.10.20.22.4.18']"
+ClinicalDocument.participant.associatedEntity.telecom.use,2,['WP']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.performer.assignedEntity.addr.nullFlavor,1,['UNK']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.priorityCode.codeSystem,1,['2.16.840.1.113883.5.7']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.participant.typeCode,1,['LOC']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.entryRelationship.act.statusCode.code,1,['completed']
+ClinicalDocument.title.@value,2,"['Community Health and Hospitals: Health Summary', 'Consultation Note']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.consumable.manufacturedProduct.manufacturedMaterial.code.originalText.reference.value,1,['#DM']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.performer.assignedEntity.code.code,1,['59058001']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.participant.participantRole.code.codeSystem,2,['2.16.840.1.113883.6.96']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.referenceRange.observationRange.text.@value,2,['M 13-18 g/dl; F 12-16 g/dl']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.observation.statusCode.code,2,['completed']
+ClinicalDocument.recordTarget.patientRole.patient.religiousAffiliationCode.codeSystem,2,"['2.16.840.1.113883.1.11.19185', '2.16.840.1.113883.5.1076']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.effectiveTime.type,2,"['IVL_TS', 'PIVL_TS']"
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.performer.assignedEntity.id.root,1,['2a620155-9d11-439e-92a3-5d9815ff4de8']
+ClinicalDocument.recordTarget.patientRole.patient.name.given.@value,2,"['Adam', 'Frankie', 'Myra']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.entryRelationship.act.code.code,1,['409073007']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.code.codeSystemVersion,1,['4']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.act.code.code,1,"['29308-4', '409073007']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.effectiveTime.type,1,"['IVL_TS', 'PIVL_TS']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.observation.id.extension,1,['45665']
+ClinicalDocument.dataEnterer.assignedEntity.telecom.value,2,"['tel:(555)555-1003', 'tel:555-555-1002']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.inversionInd,1,['true']
+ClinicalDocument.authenticator.assignedEntity.addr.streetAddressLine.@value,2,"['1002 Healthcare Drive ', '21 North Ave.']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.rateQuantity.unit,1,['ml/min']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.performer.assignedEntity.code.codeSystemName,1,['SNOMED CT']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.effectiveTime.value,2,"['1994', '19991114', '200003231430', '20000407', '20081101', '20111101', '20120806', '20120810']"
+ClinicalDocument.participant.associatedEntity.addr.country.@value,2,"['US', 'USA']"
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.performer.assignedEntity.representedOrganization.telecom.nullFlavor,1,['UNK']
+ClinicalDocument.legalAuthenticator.assignedEntity.addr.postalCode.@value,2,"['02368', '97266']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.value.displayName,2,"['Adverse reaction to substance', 'Asthma', 'Pneumonia', 'Propensity to adverse reaction to drug']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.consumable.manufacturedProduct.manufacturedMaterial.code.originalText.@value,2,"['Influenza virus vaccine', 'Tetanus and diphtheria toxoids - preservative free']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.entryRelationship.observation.classCode,2,['OBS']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.administrationUnitCode.codeSystem,2,['2.16.840.1.113883.3.26.1.1']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.participant.participantRole.addr.city.@value,1,['Portland']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.entryRelationship.observation.code.codeSystem,1,"['2.16.840.1.113883.5.4', '2.16.840.1.113883.6.96']"
+ClinicalDocument.typeId.root,2,['2.16.840.1.113883.1.3']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.performer.assignedEntity.representedOrganization.name.@value,1,['Community Health and Hospitals']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.participant.participantRole.classCode,1,['MANU']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.consumable.manufacturedProduct.manufacturedMaterial.code.translation.codeSystem,1,['2.16.840.1.113883.6.88']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.entryRelationship.typeCode,2,['SUBJ']
+ClinicalDocument.component.structuredBody.component.section.entry.act.priorityCode.codeSystemName,1,['ActPriority']
+ClinicalDocument.informant.assignedEntity.id.extension,2,['KP00017']
+ClinicalDocument.setId.extension,1,['111199021']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.product.manufacturedProduct.manufacturerOrganization.name.@value,1,['Medication Factory Inc.']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.effectiveTime.institutionSpecified,1,['true']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.subject.relatedSubject.code.translation.code,1,['9947008']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.effectiveTime.low.value,2,"['199803', '20060501', '20070103', '20080501', '20110215', '20120806']"
+ClinicalDocument.authenticator.assignedEntity.telecom.value,2,"['tel:(555)555-1003', 'tel:555-555-1002']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.product.manufacturedProduct.manufacturedMaterial.code.translation.displayName,1,['Albuterol 0.09 MG/ACTUAT inhalant solution']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.routeCode.code,2,"['C28161', 'C38216', 'IM']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.routeCode.codeSystem,2,"['2.16.840.1.113883.3.26.1.1', '2.16.840.1.113883.5.112']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.statusCode.code,1,['completed']
+ClinicalDocument.recordTarget.patientRole.patient.administrativeGenderCode.displayName,2,"['Female', 'Male']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.text.reference.value,1,['#DM1']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.product.manufacturedProduct.classCode,1,['MANU']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.participant.participantRole.playingEntity.code.codeSystem,2,"['2.16.840.1.113883.6.88', '2.16.840.1.113883.6.96']"
+ClinicalDocument.component.structuredBody.component.section.entry.observation.participant.participantRole.addr.postalCode.@value,1,['02368']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.participant.participantRole.playingEntity.code.codeSystem,2,['2.16.840.1.113883.6.88']
+ClinicalDocument.recordTarget.patientRole.patient.guardian.telecom.value,2,"['tel:(781)555-1212', 'tel:(816)276-6909']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.entryRelationship.observation.value.code,2,"['162467007', '195967001', '233604007', '247472004', '267036007', '371923003', '371924009', '413322009', '55561003', '56018004', '6736007', '73425007', '73879007']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.performer.assignedEntity.representedOrganization.id.root,2,"['2.16.840.1.113883.19.5', '2.16.840.1.113883.19.5.9999.1393']"
+ClinicalDocument.documentationOf.serviceEvent.performer.assignedEntity.representedOrganization.addr.country.@value,1,['US']
+ClinicalDocument.component.structuredBody.component.section.entry.act.participant.participantRole.playingEntity.name.@value,1,['Good Health Clinic']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.observation.code.code,1,['404684003']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.act.entryRelationship.observation.moodCode,1,['EVN']
+ClinicalDocument.dataEnterer.assignedEntity.assignedPerson.name.family.@value,2,"['McDonald', 'Seven']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.participant.participantRole.playingEntity.classCode,1,['PLC']
+ClinicalDocument.dataEnterer.assignedEntity.telecom.use,2,['WP']
+ClinicalDocument.documentationOf.serviceEvent.classCode,1,['PCPR']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.value.codeSystem,1,['2.16.840.1.113883.6.96']
+ClinicalDocument.recordTarget.patientRole.patient.maritalStatusCode.codeSystem,2,['2.16.840.1.113883.5.2']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.code.codeSystem,2,['2.16.840.1.113883.6.96']
+ClinicalDocument.custodian.assignedCustodian.representedCustodianOrganization.addr.city.@value,2,"['Blue Bell', 'Portland']"
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.value.unit,2,"['10+3/ul', 'cm', 'g/dl', 'in', 'kg', 'lbs', 'mm[Hg]']"
+ClinicalDocument.recordTarget.patientRole.patient.name.prefix.@value,1,['Mr.']
+ClinicalDocument.custodian.assignedCustodian.representedCustodianOrganization.addr.use,2,['WP']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.performer.assignedEntity.addr.streetAddressLine.@value,1,['17 Daws Rd.']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.participant.participantRole.playingDevice.code.displayName,1,['Colonoscope']
+ClinicalDocument.recordTarget.patientRole.patient.birthTime.value,2,"['19470501', '19541125']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.typeCode,1,"['REFR', 'RSON']"
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.statusCode.code,2,"['completed', 'new']"
+ClinicalDocument.recordTarget.patientRole.patient.raceCode.codeSystemName,2,"['Race & Ethnicity - CDC', 'Race and Ethnicity - CDC']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.participant.participantRole.code.codeSystemName,1,['HL7 RoleCode']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.precondition.criterion.value.type,1,['CE']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.moodCode,2,['EVN']
+ClinicalDocument.component.structuredBody.component.section.entry.act.participant.participantRole.templateId.root,1,['2.16.840.1.113883.10.20.22.4.32']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.effectiveTime.value,1,['20120813']
+ClinicalDocument.documentationOf.serviceEvent.performer.assignedEntity.representedOrganization.id.root,1,['2.16.840.1.113883.19.5.9999.1393']
+ClinicalDocument.author.assignedAuthor.assignedPerson.name.family.@value,2,['Seven']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.code.displayName,2,"['Complaint', 'drug allergy']"
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.priorityCode.codeSystemName,1,['ActPriority']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.author.assignedAuthor.telecom.nullFlavor,1,['UNK']
+ClinicalDocument.component.structuredBody.component.section.entry.typeCode,2,['DRIV']
+ClinicalDocument.documentationOf.serviceEvent.performer.functionCode.originalText.@value,1,['Primary Care Provider']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.value.codeSystemName,2,['SNOMED CT']
+ClinicalDocument.component.structuredBody.component.section.entry.act.effectiveTime.high.value,2,"['20100103', '20110103', '20120806', '20120813']"
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.text.reference.value,2,"['#result1', '#result2', '#result3', '#vit1', '#vit2', '#vit4', '#vit5', '#vit6']"
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.participant.participantRole.code.codeSystemName,1,['HealthcareServiceLocation']
+ClinicalDocument.participant.typeCode,2,['IND']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.code.code,2,"['26515-7', '30313-1', '3141-9', '33765-9', '55561003', '7087005', '8302-2', '8480-6']"
+ClinicalDocument.documentationOf.serviceEvent.performer.assignedEntity.addr.country.@value,1,['US']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.performer.assignedEntity.representedOrganization.telecom.nullFlavor,1,['UNK']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.code.codeSystem,2,"['2.16.840.1.113883.5.4', '2.16.840.1.113883.6.96']"
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.act.entryRelationship.observation.negationInd,1,['false']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.entryRelationship.act.text.reference.value,1,['#FillIns_DM']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.performer.assignedEntity.telecom.nullFlavor,2,['UNK']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.code.originalText.reference.value,2,"['#Proc1', '#Proc2']"
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.specimen.specimenRole.id.root,1,['c2ee9ee9-ae31-4628-a919-fec1cbb58683']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.effectiveTime.high.nullFlavor,1,['UNK']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.effectiveTime.institutionSpecified,2,['true']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.observation.value.displayName,1,['Bronchitis']
+ClinicalDocument.documentationOf.serviceEvent.performer.assignedEntity.representedOrganization.telecom.use,1,"['HP', 'WP']"
+ClinicalDocument.component.structuredBody.component.section.entry.observation.methodCode.nullFlavor,1,['UNK']
+ClinicalDocument.code.codeSystem,2,['2.16.840.1.113883.6.1']
+ClinicalDocument.documentationOf.serviceEvent.performer.assignedEntity.code.displayName,1,['General Practice']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.consumable.manufacturedProduct.manufacturedMaterial.code.code,2,"['103', '329498', '33', '573621', '88']"
+ClinicalDocument.recordTarget.patientRole.patient.birthplace.place.addr.country.@value,2,"['US', 'USA']"
+ClinicalDocument.participant.associatedEntity.addr.state.@value,2,"['MA', 'OR']"
+ClinicalDocument.recordTarget.patientRole.patient.name.given.qualifier,1,['CL']
+ClinicalDocument.informant.assignedEntity.telecom.use,1,['WP']
+ClinicalDocument.participant.associatedEntity.code.codeSystemName,1,['Personal Relationship Role Type Value Set']
+ClinicalDocument.recordTarget.patientRole.patient.birthplace.place.addr.city.@value,1,['Beaverton']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.consumable.manufacturedProduct.manufacturedMaterial.code.translation.code,1,['896001']
+ClinicalDocument.participant.associatedEntity.telecom.value,2,"['tel:(555)555-2006', 'tel:(999)555-1212']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.performer.assignedEntity.addr.country.@value,2,['US']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.performer.assignedEntity.id.extension,1,['2981825']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.observation.id.extension,2,['45665']
+ClinicalDocument.recordTarget.patientRole.addr.city.@value,2,"['Beaverton', 'Blue Bell']"
+ClinicalDocument.component.structuredBody.component.section.entry.observation.code.code,2,"['160573003', '230056004', '274025005', '310634005', '373930000', '409586006', '624-7', 'ASSERTION']"
+ClinicalDocument.documentationOf.serviceEvent.performer.time.low.value,1,['20120806']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.performer.assignedEntity.telecom.use,2,['WP']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.moodCode,2,"['EVN', 'INT']"
+ClinicalDocument.recordTarget.patientRole.addr.streetAddressLine.@value,2,"['1357 Amber Drive', '17 Daws Rd.']"
+ClinicalDocument.informant.assignedEntity.addr.state.@value,2,"['MA', 'OR']"
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.performer.assignedEntity.addr.state.@value,2,"['MA', 'OR']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.id.extension,2,['cb734647-fc99-424c-a864-7e3cda82e704']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.act.moodCode,2,['INT']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.code.originalText.@value,1,['Mild Fever']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.product.manufacturedProduct.templateId.root,1,['2.16.840.1.113883.10.20.22.4.23']
+ClinicalDocument.templateId.root,2,"['2.16.840.1.113883.10.20.22.1.1', '2.16.840.1.113883.10.20.22.1.2', '2.16.840.1.113883.10.20.22.1.4']"
+ClinicalDocument.recordTarget.patientRole.patient.guardian.addr.streetAddressLine.@value,2,"['1357 Amber Drive', '17 Daws Rd.']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.typeCode,2,['SUBJ']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.id.extension,1,['cb734647-fc99-424c-a864-7e3cda82e704']
+ClinicalDocument.informant.relatedEntity.relatedPerson.name.given.@value,2,"['Frank', 'Rose']"
+ClinicalDocument.documentationOf.serviceEvent.performer.time.high.value,1,['20120813']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.value.@value,2,"['1 pack per day', 'None']"
+ClinicalDocument.componentOf.encompassingEncounter.responsibleParty.assignedEntity.assignedPerson.name.given.@value,1,['Henry']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.act.moodCode,1,"['EVN', 'INT']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.administrationUnitCode.code,2,['C42944']
+ClinicalDocument.documentationOf.serviceEvent.performer.typeCode,1,['PRF']
+ClinicalDocument.component.structuredBody.component.section.entry.act.code.originalText.reference.value,1,['#Proc1']
+ClinicalDocument.documentationOf.serviceEvent.performer.assignedEntity.code.codeSystemName,1,['Provider Codes']
+ClinicalDocument.component.structuredBody.component.section.text.table.tbody.tr.th.@value,2,"['Blood Pressure', 'Height', 'Weight']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.performer.assignedEntity.id.root,1,['2.16.840.1.113883.19']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.participant.participantRole.playingEntity.classCode,2,['MMAT']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.code.type,1,['CE']
+ClinicalDocument.informant.assignedEntity.addr.postalCode.@value,2,"['02368', '97266']"
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.performer.assignedEntity.representedOrganization.addr.postalCode.@value,1,['02368']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.templateId.root,2,"['2.16.840.1.113883.10.20.22.4.1', '2.16.840.1.113883.10.20.22.4.26', '2.16.840.1.113883.10.20.22.4.45']"
+ClinicalDocument.component.structuredBody.component.section.entry.observation.participant.participantRole.code.codeSystemName,1,['HL7 RoleCode']
+ClinicalDocument.componentOf.encompassingEncounter.code.codeSystemName,2,"['CPT-4', 'SNOMED-CT']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.id.root,2,"['cdbd33f0-6cde-11db-9fe1-0800200c9a66', 'e6f1ba43-c0ed-4b9b-9f12-f435d8ad8f92']"
+ClinicalDocument.component.structuredBody.component.section.code.code,2,"['10157-6', '10160-0', '10164-2', '10183-2', '10187-3', '10210-3', '11348-0', '11369-6', '11450-4', '18776-5', '29545-1', '29762-2', '30954-2', '42349-1', '46239-0', '46240-8', '47420-5', '47519-4', '48765-2', '51848-0', '8653-8', '8716-3']"
+ClinicalDocument.recordTarget.patientRole.patient.birthplace.place.addr.postalCode.@value,2,"['02368', '97006']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.entryRelationship.act.code.type,1,['CE']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.performer.assignedEntity.representedOrganization.id.root,1,['2.16.840.1.113883.19.5.9999.1395']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.effectiveTime.value,2,"['20110215', '20120807']"
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.act.entryRelationship.typeCode,1,['SUBJ']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.performer.assignedEntity.addr.city.@value,2,"['Blue Bell', 'Portland']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.priorityCode.displayName,1,['Callback results']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.participant.participantRole.code.code,1,['1160-1']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.entryRelationship.observation.statusCode.code,2,['completed']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.participant.typeCode,2,['CSM']
+ClinicalDocument.author.assignedAuthor.assignedPerson.name.prefix.@value,1,['Dr']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.entryRelationship.act.text.@value,1,['label in spanish']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.effectiveTime.low.value,2,"['1947', '1973', '20050501', '20081101', '20110227']"
+ClinicalDocument.component.structuredBody.component.section.entry.observation.code.displayName,2,"['Alcohol consumption', 'Cigarette smoking', 'Cognitive Function Finding', 'Colonic polypectomy', 'Colonoscopy', 'Complaint', 'Sputum Culture']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.consumable.manufacturedProduct.manufacturerOrganization.name.@value,1,['Medication Factory Inc.']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.entryRelationship.act.moodCode,1,['INT']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.statusCode.code,2,['completed']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.participant.participantRole.templateId.root,2,['2.16.840.1.113883.10.20.22.4.24']
+ClinicalDocument.languageCode.code,2,['en-US']
+ClinicalDocument.informationRecipient.intendedRecipient.informationRecipient.name.family.@value,2,['Seven']
+ClinicalDocument.recordTarget.patientRole.patient.religiousAffiliationCode.displayName,2,"['Christian (non-Catholic, non-specific)']"
+ClinicalDocument.documentationOf.serviceEvent.performer.assignedEntity.code.code,1,['208D00000X']
+ClinicalDocument.component.structuredBody.component.section.entry.act.performer.assignedEntity.addr.country.@value,1,['US']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.templateId.root,2,"['2.16.840.1.113883.10.20.22.4.17', '2.16.840.1.113883.10.20.22.4.18']"
+ClinicalDocument.author.assignedAuthor.id.root,2,"['2.16.840.1.113883.19.5', '2.16.840.1.113883.4.6']"
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.act.entryRelationship.observation.templateId.root,1,['2.16.840.1.113883.10.20.22.4.4']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.entryRelationship.typeCode,1,['SUBJ']
+ClinicalDocument.authenticator.time.value,2,"['20050329224411+0500', '20120813']"
+ClinicalDocument.recordTarget.patientRole.patient.languageCommunication.modeCode.displayName,2,"['Expressed spoken', 'Recieve Written']"
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.observation.value.code,1,['233604007']
+ClinicalDocument.component.structuredBody.component.section.text.list.item.list.listType,1,['ordered']
+ClinicalDocument.authenticator.assignedEntity.assignedPerson.name.given.@value,2,['Henry']
+ClinicalDocument.documentationOf.serviceEvent.performer.assignedEntity.id.root,1,['2.16.840.1.113883.4.6']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.consumable.manufacturedProduct.manufacturedMaterial.code.translation.codeSystemName,2,"['CVX', 'RxNorm']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.value.code,2,"['195967001', '233604007', '282100009', '419511003']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.participant.participantRole.addr.country.@value,1,['US']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.participant.participantRole.code.displayName,1,['drug vehicle']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.effectiveTime.period.unit,1,['h']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.precondition.typeCode,1,['PRCN']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.interpretationCode.code,2,"['L', 'N']"
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.statusCode.code,2,['completed']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.participant.typeCode,2,['CSM']
+ClinicalDocument.componentOf.encompassingEncounter.encounterParticipant.assignedEntity.assignedPerson.name.family.@value,1,['Seven']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.precondition.criterion.value.code,2,['56018004']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.product.manufacturedProduct.classCode,1,['MANU']
+ClinicalDocument.recordTarget.patientRole.patient.ethnicGroupCode.codeSystemName,2,"['Race & Ethnicity - CDC', 'Race and Ethnicity - CDC']"
+ClinicalDocument.authenticator.assignedEntity.id.extension,2,"['999999999', 'KP00017']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.product.manufacturedProduct.id.root,1,['2a620155-9d11-439e-92b3-5d9815ff4ee8']
+ClinicalDocument.documentationOf.serviceEvent.effectiveTime.low.value,1,['20120806']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.code.originalText.reference.value,2,"['#Proc1', '#soc1', '#soc2', '#soc3']"
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.act.entryRelationship.observation.value.code,1,['233604007']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.performer.assignedEntity.representedOrganization.id.root,2,"['2.16.840.1.113883.19.5', 'c2ee9ee9-ae31-4628-a919-fec1cbb58686']"
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.participant.participantRole.code.displayName,1,['Urgent Care Center']
+ClinicalDocument.recordTarget.patientRole.patient.languageCommunication.modeCode.code,2,"['ESP', 'RWR']"
+ClinicalDocument.component.structuredBody.component.section.text.table.tbody.tr.td.colspan,2,['2']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.performer.assignedEntity.id.root,1,['2.16.840.1.113883.19.5.9999.456']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.participant.participantRole.playingEntity.code.codeSystemName,2,"['RxNorm', 'SNOMED CT']"
+ClinicalDocument.author.assignedAuthor.assignedPerson.name.given.@value,2,['Henry']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.effectiveTime.center.value,2,"['20000421', '20120820']"
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.performer.assignedEntity.code.displayName,1,['General Physician']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.administrationUnitCode.displayName,2,['INHALANT']
+ClinicalDocument.custodian.assignedCustodian.representedCustodianOrganization.telecom.value,2,"['tel: 555-555-1002', 'tel:(555)555-1212']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.observation.moodCode,2,['EVN']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.entryRelationship.observation.id.root,2,"['4adc1020-7b14-11db-9fe1-0800200c9a64', 'ab1791b0-5c71-11db-b0de-0800200c9a66']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.entryRelationship.observation.value.displayName,2,"['Active', 'Asthma', 'Hives', 'Inactive', 'Mild to moderate', 'Moderate', 'Moderate to severe', 'Nausea', 'Pneumonia', 'Resolved', 'Shortness of Breath', 'Symptom Free', 'Wheezing']"
+ClinicalDocument.component.structuredBody.component.section.entry.observation.performer.assignedEntity.addr.country.@value,1,['US']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.interpretationCode.codeSystem,2,['2.16.840.1.113883.5.83']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.participant.participantRole.playingEntity.name.@value,1,"['Aspirin', 'Penicillin']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.act.code.displayName,2,['immunization education']
+ClinicalDocument.component.structuredBody.component.section.entry.act.performer.assignedEntity.telecom.value,1,['(555)555-555-1234']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.specimen.specimenRole.specimenPlayingEntity.code.code,1,['309226005']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.participant.participantRole.playingDevice.code.codeSystem,1,['2.16.840.1.113883.6.96']
+ClinicalDocument.participant.associatedEntity.associatedPerson.name.prefix.@value,2,"['Mr.', 'Mrs.']"
+ClinicalDocument.component.structuredBody.component.section.entry.observation.value.codeSystem,1,['2.16.840.1.113883.6.96']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.performer.assignedEntity.representedOrganization.addr.nullFlavor,1,['UNK']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.effectiveTime.high.value,2,"['20120301', '20120813']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.consumable.manufacturedProduct.manufacturedMaterial.code.translation.codeSystem,2,"['2.16.840.1.113883.6.59', '2.16.840.1.113883.6.88']"
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.entryRelationship.observation.templateId.root,1,"['2.16.840.1.113883.10.20.22.4.31', '2.16.840.1.113883.10.20.22.4.47']"
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.entryRelationship.observation.value.unit,1,['a']
+ClinicalDocument.component.structuredBody.component.section.text.table.border,2,['1']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.code.codeSystem,2,"['2.16.840.1.113883.6.1', '2.16.840.1.113883.6.96']"
+ClinicalDocument.participant.associatedEntity.code.codeSystem,2,"['2.16.840.1.113883.1.11.19563', '2.16.840.1.113883.5.111']"
+ClinicalDocument.recordTarget.patientRole.patient.raceCode.code,2,['2106-3']
+ClinicalDocument.component.structuredBody.component.section.entry.act.classCode,2,['ACT']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.consumable.manufacturedProduct.classCode,1,['MANU']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.consumable.manufacturedProduct.manufacturedMaterial.code.translation.displayName,2,"['Pneumococcal NOS', 'Proventil 0.09 MG/ACTUAT inhalant solution', 'Tetanus and diphtheria toxoids - preservative free', 'influenza, live, intranasal']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.quantity.value,2,['75']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.participant.participantRole.playingEntity.code.displayName,1,['Aerosol']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.performer.assignedEntity.addr.state.@value,2,"['MA', 'OR']"
+ClinicalDocument.recordTarget.patientRole.providerOrganization.telecom.value,2,"['tel: 555-555-5000', 'tel:(781)555-1212']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.entryRelationship.observation.text.reference.value,2,"['#problem1', '#problem2', '#problems', '#reaction1', '#reaction2', '#reaction3', '#severity1', '#severity2', '#severity3']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.author.assignedAuthor.addr.nullFlavor,1,['UNK']
+ClinicalDocument.component.structuredBody.component.section.entry.act.statusCode.code,2,"['active', 'completed', 'new']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.product.manufacturedProduct.templateId.root,1,['2.16.840.1.113883.10.20.22.4.23']
+ClinicalDocument.custodian.assignedCustodian.representedCustodianOrganization.addr.country.@value,2,"['US', 'USA']"
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.subject.relatedSubject.subject.administrativeGenderCode.displayName,1,['Male']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.administrationUnitCode.codeSystemName,1,['NCI Thesaurus']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.act.code.type,1,['CE']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.routeCode.codeSystem,1,['2.16.840.1.113883.3.26.1.1']
+ClinicalDocument.dataEnterer.assignedEntity.id.root,2,"['2.16.840.1.113883.19.5', '2.16.840.1.113883.4.6']"
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.priorityCode.code,1,['CR']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.observation.value.code,1,['32398004']
+ClinicalDocument.recordTarget.patientRole.patient.guardian.addr.city.@value,2,"['Beaverton', 'Blue Bell']"
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.code.originalText.reference.value,1,"['#result1', '#result2', '#result3']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.observation.id.root,2,['db734647-fc99-424c-a864-7e3cda82e703']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.performer.assignedEntity.telecom.nullFlavor,1,['UNK']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.author.assignedAuthor.assignedPerson.name.family.@value,1,['Seven']
+ClinicalDocument.component.structuredBody.component.section.templateId.root,2,"['1.3.6.1.4.1.19376.1.5.3.1.3.1', '1.3.6.1.4.1.19376.1.5.3.1.3.18', '1.3.6.1.4.1.19376.1.5.3.1.3.4', '2.16.840.1.113883.10.20.2.10', '2.16.840.1.113883.10.20.2.5', '2.16.840.1.113883.10.20.22.2.1.1', '2.16.840.1.113883.10.20.22.2.10', '2.16.840.1.113883.10.20.22.2.11.1', '2.16.840.1.113883.10.20.22.2.13', '2.16.840.1.113883.10.20.22.2.14', '2.16.840.1.113883.10.20.22.2.15', '2.16.840.1.113883.10.20.22.2.17', '2.16.840.1.113883.10.20.22.2.2', '2.16.840.1.113883.10.20.22.2.2.1', '2.16.840.1.113883.10.20.22.2.20', '2.16.840.1.113883.10.20.22.2.22.1', '2.16.840.1.113883.10.20.22.2.3.1', '2.16.840.1.113883.10.20.22.2.4.1', '2.16.840.1.113883.10.20.22.2.41', '2.16.840.1.113883.10.20.22.2.5', '2.16.840.1.113883.10.20.22.2.5.1', '2.16.840.1.113883.10.20.22.2.6.1', '2.16.840.1.113883.10.20.22.2.7', '2.16.840.1.113883.10.20.22.2.7.1', '2.16.840.1.113883.10.20.22.2.8']"
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.observation.id.root,1,['db734647-fc99-424c-a864-7e3cda82e703']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.code.code,2,"['43789009', '46680005']"
+ClinicalDocument.authenticator.assignedEntity.telecom.use,2,['WP']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.participant.participantRole.playingEntity.code.code,2,"['324049', '5955009']"
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.participant.participantRole.templateId.root,2,"['2.16.840.1.113883.10.20.22.4.32', '2.16.840.1.113883.10.20.22.4.37']"
+ClinicalDocument.recordTarget.patientRole.patient.administrativeGenderCode.code,2,"['F', 'M']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.classCode,2,['SPLY']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.performer.assignedEntity.representedOrganization.addr.city.@value,1,['Blue Bell']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.product.manufacturedProduct.manufacturerOrganization.name.@value,1,['Medication Factory Inc.']
+ClinicalDocument.component.structuredBody.component.section.entry.act.performer.assignedEntity.addr.streetAddressLine.@value,1,['17 Daws Rd.']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.entryRelationship.observation.value.codeSystemName,2,['SNOMED CT']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.performer.assignedEntity.representedOrganization.addr.state.@value,1,['MA']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.code.codeSystemName,1,['SNOMED-CT']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.entryRelationship.observation.code.displayName,1,['Age']
+ClinicalDocument.recordTarget.patientRole.patient.maritalStatusCode.codeSystemName,2,['MaritalStatusCode']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.participant.participantRole.playingEntity.code.originalText.reference.value,2,"['#reaction1', '#reaction2', '#reaction3']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.classCode,1,['SBADM']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.participant.participantRole.playingEntity.name.@value,2,"['Aerosol', 'Diethylene Glycol']"
+ClinicalDocument.component.structuredBody.component.section.entry.observation.moodCode,2,"['EVN', 'RQO']"
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.participant.participantRole.code.codeSystemName,1,['HealthcareServiceLocation']
+ClinicalDocument.component.structuredBody.component.section.entry.act.performer.assignedEntity.id.extension,1,['1234']
+ClinicalDocument.component.structuredBody.component.section.text.list.item.@value,2,"['...', 'ABDOMEN: No distension, tenderness, or guarding, obese, pos bowel sounds.', 'Acute on chronic anemia secondary to #1.', 'Azotemia, acute renal failure with volume loss secondary to #1.', 'BACK: Normal to inspection and palpation, without tenderness; no presacral edema.', 'EXTREMITIES: Doughy edema bilaterally, chronic stasis changes, no asymmetrical swelling.', 'HEENT: All normal to examination.', 'Heart:  RRR, no murmur.', 'Hyperkalemia secondary to #3 and on ACE and K+ supplement.', 'If you experience any of the following symptoms, call my office immediately or return to the Emergency Room:\n                        ', 'Other chronic diagnoses as noted above, currently stable.', 'Please monitor your peak flows. If your peak flows drop to 50% of normal, call my office immediately or return to the Emergency Room.', 'Pneumonia: Resolved in March 1998', 'Recurrent GI bleed of unknown etiology; hypotension perhaps secondary to this but as likely secondary to polypharmacy.', 'THORAX & LUNGS:  Clear without rhonchi or wheeze.', 'Take all medications as prescribed.']"
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.act.classCode,1,['ACT']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.supply.author.assignedAuthor.assignedPerson.name.given.@value,2,"['Henry', 'Robert']"
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.act.entryRelationship.observation.code.displayName,1,['Complaint']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.participant.participantRole.code.codeSystem,1,['2.16.840.1.113883.5.111']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.typeCode,1,"['RSON', 'SUBJ']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.participant.participantRole.addr.streetAddressLine.@value,1,['17 Daws Rd.']
+ClinicalDocument.informant.assignedEntity.assignedPerson.name.family.@value,2,['Seven']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.negationInd,2,['false']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.participant.typeCode,1,['LOC']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.performer.assignedEntity.id.root,2,"['2.16.840.1.113883.19.5', 'c2ee9ee9-ae31-4628-a919-fec1cbb58687']"
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.specimen.specimenRole.specimenPlayingEntity.code.displayName,1,['colonic polyp sample']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.targetSiteCode.codeSystem,1,['2.16.840.1.113883.6.96']
+ClinicalDocument.informant.assignedEntity.id.root,2,['2.16.840.1.113883.19.5']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.typeCode,2,"['REFR', 'RSON', 'SUBJ']"
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.observation.code.displayName,2,"['Finding', 'Patient Objection']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.code.nullFlavor,1,['NA']
+ClinicalDocument.recordTarget.patientRole.providerOrganization.name.@value,2,"['Community Health and Hospitals', 'Good Health Clinic']"
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.participant.participantRole.playingDevice.code.code,1,['90412006']
+ClinicalDocument.recordTarget.patientRole.providerOrganization.addr.streetAddressLine.@value,2,"['1002 Healthcare Dr', '21 North Ave']"
+ClinicalDocument.componentOf.encompassingEncounter.responsibleParty.assignedEntity.id.root,1,['2.16.840.1.113883.4.6']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.performer.assignedEntity.representedOrganization.name.@value,1,['Good Health Clinic']
+ClinicalDocument.author.assignedAuthor.addr.streetAddressLine.@value,2,"['1002 Healthcare Drive ', '21 North Ave.']"
+ClinicalDocument.component.structuredBody.component.section.entry.observation.participant.participantRole.addr.city.@value,1,['Blue Bell']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.performer.assignedEntity.telecom.value,2,['(555)555-555-1234']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.observation.value.type,1,['CD']
+ClinicalDocument.authenticator.assignedEntity.addr.state.@value,2,"['MA', 'OR']"
+ClinicalDocument.component.structuredBody.component.section.entry.observation.priorityCode.code,1,['CR']
+ClinicalDocument.component.structuredBody.component.section.entry.observation.performer.assignedEntity.id.extension,1,['1234']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.observation.value.codeSystem,1,['2.16.840.1.113883.6.96']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.classCode,2,['OBS']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.effectiveTime.nullFlavor,1,['UNK']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.entryRelationship.observation.value.code,1,['419099009']
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.code.type,1,['CE']
+ClinicalDocument.component.structuredBody.component.section.entry.procedure.code.displayName,2,"['Chest X-Ray', 'Colonic polypectomy', 'Colonoscopy']"
+ClinicalDocument.component.structuredBody.component.section.text.list.item.list.item.@value,1,"['Any other unusual problem', 'Dizziness or Light-headedness', 'Fever, chills, or diffuse body aches', 'Pain or redness at the site of any previous intravenous catheter', 'Shortness of Breath']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.observation.entryRelationship.observation.code.displayName,2,"['Age', 'Age At Onset', 'Complaint', 'Health status', 'Severity Observation', 'Status']"
+ClinicalDocument.authenticator.assignedEntity.addr.postalCode.@value,2,"['02368', '97266']"
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.subject.relatedSubject.subject.administrativeGenderCode.codeSystem,1,['2.16.840.1.113883.5.1']
+ClinicalDocument.informant.assignedEntity.addr.streetAddressLine.@value,2,"['1002 Healthcare Drive ', '21 North Ave.']"
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.moodCode,2,['EVN']
+ClinicalDocument.legalAuthenticator.assignedEntity.addr.country.@value,2,"['US', 'USA']"
+ClinicalDocument.component.structuredBody.component.section.entry.organizer.component.observation.entryRelationship.typeCode,1,"['CAUS', 'SUBJ']"
+ClinicalDocument.component.structuredBody.component.section.entry.act.performer.assignedEntity.representedOrganization.telecom.nullFlavor,1,['UNK']
+ClinicalDocument.componentOf.encompassingEncounter.effectiveTime.low.value,2,"['20050329', '20120806']"
+ClinicalDocument.documentationOf.serviceEvent.performer.assignedEntity.code.codeSystem,1,['2.16.840.1.113883.6.101']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.participant.participantRole.addr.country.@value,1,['US']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.entryRelationship.act.code.codeSystem,2,['2.16.840.1.113883.6.96']
+ClinicalDocument.code.codeSystemName,2,['LOINC']
+ClinicalDocument.component.structuredBody.component.section.entry.act.entryRelationship.substanceAdministration.entryRelationship.supply.performer.time.nullFlavor,1,['UNK']
+ClinicalDocument.component.structuredBody.component.section.entry.encounter.entryRelationship.act.entryRelationship.observation.effectiveTime.low.value,1,['20120806']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.participant.participantRole.code.code,2,['412307009']
+ClinicalDocument.recordTarget.patientRole.patient.raceCode.codeSystem,2,['2.16.840.1.113883.6.238']
+ClinicalDocument.component.structuredBody.component.section.entry.substanceAdministration.maxDoseQuantity.nullFlavor,1,['UNK']

@@ -1,0 +1,20 @@
+,count,values
+olac.format.@value,1,"['hardcover, 837 pages']"
+olac.description.@value,1,['Kayardild Grammar (ISBN 3110127954)']
+olac.contributor.code,1,['author']
+olac.language.type,1,['olac:language']
+olac.type.@value,1,['Text']
+olac.title.@value,1,['A grammar of Kayardild. With comparative notes on Tangkic.']
+olac.contributor.type,1,['olac:role']
+olac.subject.@value,1,"['Kayardild', 'Kayardild grammar']"
+olac.subject.code,1,['gyd']
+olac.language.code,1,['en']
+olac.language.@value,1,['English']
+olac.creator.@value,1,"['Evans, Nicholas D.']"
+olac.publisher.@value,1,['Berlin - Mouton de Gruyter']
+olac.subject.type,1,['olac:language']
+olac.relation.@value,1,['related to ISBN 0646119966']
+olac.coverage.@value,1,['Australia']
+olac.contributor.@value,1,['Nicholas Evans']
+olac.type.code,1,['language_description']
+olac.type.type,1,"['dcterms:DCMIType', 'olac:linguistic-type']"

@@ -1,0 +1,24 @@
+,count,values
+TEI.fsdDecl.fsDecl.fDecl.vDefault.if.fs.f.name,1,"['SUBJ', 'VFORM']"
+TEI.fsdDecl.fsDecl.fsConstraints.cond.fs.f.binary.value,1,"['false', 'true']"
+TEI.fsdDecl.fsDecl.fDecl.name,1,"['AGR', 'COMP', 'CONJ', 'INV', 'NUM', 'PERS', 'PFORM']"
+TEI.fsdDecl.fsDecl.type,1,"['Agreement', 'GPSG']"
+TEI.fsdDecl.fsDecl.fDecl.vRange.fs.type,1,['Agreement']
+TEI.fsdDecl.fsDecl.fsConstraints.bicond.fs.f.name,1,"['BAR', 'N', 'SUBCAT', 'V']"
+TEI.teiHeader.fileDesc.titleStmt.respStmt.name.@value,1,['Gary F. Simons']
+TEI.fsdDecl.fsDecl.fsDescr.@value,1,"['Encodes a feature structure for the GPSG analysis\n       of English (after Gazdar, Klein, Pullum, and Sag)', 'This type of feature structure encodes the features\n       for subject-verb agreement in English']"
+TEI.fsdDecl.fsDecl.fDecl.fDescr.@value,1,"['agreement for person and number', 'inverted sentence', 'number (singular or plural)', 'person (first, second, or third)', 'surface form of the complementizer', 'surface form of the conjunction', 'word form of a preposition']"
+TEI.teiHeader.fileDesc.publicationStmt.p.@value,1,"['This sample was first encoded by Gary F. Simons (Summer\n         Institute of Linguistics, Dallas, TX) on January 28, 1991.\n         Revised April 8, 1993 to match the specification of FSDs\n         in version P2 of the TEI Guidelines. Revised again December 2004 to\n         be consistent with the feature structure representation standard\n         jointly developed with ISO TC37/SC4.\n    ']"
+TEI.fsdDecl.fsDecl.fsConstraints.cond.fs.f.name,1,"['AUX', 'BAR', 'INV', 'SUBCAT', 'VFORM']"
+TEI.teiHeader.fileDesc.titleStmt.title.@value,1,"[""A sample FSD based on an extract from Gazdar\n         et al.'s GPSG feature system for English""]"
+TEI.fsdDecl.fsDecl.fDecl.vDefault.if.fs.f.binary.value,1,['true']
+TEI.fsdDecl.fsDecl.fDecl.vDefault.if.fs.f.symbol.value,1,['INF']
+TEI.fsdDecl.fsDecl.fDecl.vRange.vAlt.binary.value,1,"['false', 'true']"
+TEI.fsdDecl.fsDecl.fDecl.vRange.vAlt.symbol.value,1,"['1', '2', '3', 'NIL', 'and', 'both', 'but', 'either', 'for', 'if', 'neither', 'nor', 'or', 'pl', 'sg', 'that', 'whether']"
+TEI.fsdDecl.fsDecl.fsConstraints.cond.fs.f.symbol.value,1,"['1', 'FIN']"
+TEI.fsdDecl.fsDecl.fsConstraints.bicond.fs.f.symbol.value,1,['0']
+TEI.teiHeader.fileDesc.sourceDesc.p.@value,1,"['This sample FSD does not describe a complete feature\n         system. It is based on extracts from the feature system\n         for English presented in the appendix (pages 245–247) of\n         Generalized Phrase Structure Grammar, by Gazdar, Klein,\n         Pullum, and Sag (Harvard University Press, 1985).']"
+TEI.fsdDecl.fsDecl.fDecl.vDefault.binary.value,1,['false']
+TEI.teiHeader.fileDesc.titleStmt.respStmt.resp.@value,1,['encoded by']
+TEI.fsdDecl.fsDecl.fsConstraints.bicond.fs.f.binary.value,1,['true']
+TEI.fsdDecl.fsDecl.fDecl.vDefault.if.symbol.value,1,['for']

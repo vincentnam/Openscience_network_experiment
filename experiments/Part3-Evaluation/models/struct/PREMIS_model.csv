@@ -1,0 +1,124 @@
+,count,values
+premis.object.relationship.relatedEnvironmentPurpose.authority,1,['environmentPurpose']
+premis.rights.rightsStatement.rightsBasis.authority,1,['rightsBasis']
+premis.object.objectCharacteristics.fixity.messageDigestAlgorithm.valueURI,1,['http://id.loc.gov/vocabulary/preservation/cryptographicHashFunctions/sha256']
+premis.object.preservationLevel.preservationLevelRationale.@value,1,['institutional policy']
+premis.rights.rightsStatement.rightsStatementIdentifier.rightsStatementIdentifierValue.@value,1,['1234']
+premis.object.objectCharacteristics.format.formatRegistry.formatRegistryRole.authority,1,['http://id.loc.gov/vocabulary/preservation/formatRegistryRole']
+premis.rights.rightsStatement.copyrightInformation.copyrightApplicableDates.endDate.@value,1,['OPEN']
+premis.object.objectCharacteristics.size.@value,1,"['4859385', '5826']"
+premis.object.environmentRegistry.environmentRegistryRole.authorityURI,1,['http://id.loc.gov/vocabulary/preservation/environmentRegistryRole']
+premis.rights.rightsStatement.linkingObjectIdentifier.linkingObjectIdentifierType.@value,1,['local']
+premis.object.objectCharacteristics.format.formatRegistry.formatRegistryName.@value,1,['PRONOM']
+premis.object.environmentRegistry.environmentRegistryRole.@value,1,['specification']
+premis.object.environmentDesignation.environmentDesignationNote.@value,1,['64-bit']
+premis.rights.rightsStatement.copyrightInformation.copyrightNote.@value,1,['Copyright held by the donor']
+premis.object.objectCharacteristics.format.formatDesignation.formatName.@value,1,"['WordPerfect for DOS', 'WordPerfect for DOS macro']"
+premis.event.eventType.@value,1,['format identification']
+premis.object.objectCharacteristics.compositionLevel.@value,1,['0']
+premis.event.linkingAgentIdentifier.linkingAgentRole.@value,1,"['executing program', 'implementer']"
+premis.object.objectCharacteristics.fixity.messageDigestAlgorithm.authorityURI,1,['http://id.loc.gov/vocabulary/preservation/cryptographicHashFunctions']
+premis.object.objectCharacteristics.format.formatDesignation.formatVersion.@value,1,['5.1']
+premis.object.objectCharacteristics.format.formatRegistry.formatRegistryRole.@value,1,['specification']
+premis.agent.agentIdentifier.agentIdentifierValue.@value,1,"['FIDO', 'McLellan, Evelyn', 'NRI']"
+premis.object.objectCharacteristics.format.formatRegistry.formatRegistryKey.@value,1,['x-fmt/394']
+premis.object.environmentDesignation.environmentVersion.@value,1,"['1.7', '5.1', '7']"
+premis.object.relationship.relationshipType.@value,1,"['dependency', 'replacement', 'structural']"
+premis.object.relationship.relatedEnvironmentPurpose.valueURI,1,['http://id.loc.gov/vocabulary/preservation/environmentPurpose/ren']
+premis.object.environmentRegistry.environmentRegistryRole.valueURI,1,['http://id.loc.gov/vocabulary/preservation/environmentRegistryRole/spe']
+premis.object.environmentRegistry.environmentRegistryName.@value,1,['sourceforge ']
+premis.agent.agentType.valueURI,1,"['http://id.loc.gov/vocabulary/preservation/agentType/org', 'http://id.loc.gov/vocabulary/preservation/agentType/per']"
+premis.object.environmentFunction.environmentFunctionType.authorityURI,1,['http://id.loc.gov/vocabulary/preservation/environmentFunctionType']
+premis.rights.rightsStatement.copyrightInformation.copyrightStatus.@value,1,['Copyrighted']
+premis.object.storage.contentLocation.contentLocationType.authorityURI,1,['http://id.loc.gov/vocabulary/preservation/contentLocationType']
+premis.object.relationship.relationshipSubType.authorityURI,1,['http://id.loc.gov/vocabulary/preservation/relationshipSubType']
+premis.event.linkingObjectIdentifier.linkingObjectIdentifierType.@value,1,['local']
+premis.object.objectCharacteristics.inhibitors.inhibitorTarget.valueURI,1,['http://id.loc.gov/vocabulary/preservation/inhibitorTarget/all']
+premis.event.linkingAgentIdentifier.linkingAgentIdentifierValue.@value,1,"['FIDO', 'NRI']"
+premis.object.preservationLevel.preservationLevelRole.authorityURI,1,['http://id.loc.gov/vocabulary/preservation/preservationLevelRole']
+premis.rights.rightsStatement.linkingAgentIdentifier.linkingAgentRole.@value,1,['rightsholder']
+premis.object.objectCharacteristics.inhibitors.inhibitorKey.@value,1,['password']
+premis.event.eventOutcomeInformation.eventOutcomeDetail.eventOutcomeDetailNote.@value,1,['positive identification']
+premis.rights.rightsStatement.rightsGranted.termOfGrant.endDate.@value,1,['OPEN']
+premis.object.relationship.relatedObjectIdentifier.relatedObjectIdentifierValue.@value,1,"['001', '002', '003', '004', '005', '007']"
+premis.object.relationship.relatedObjectIdentifier.relatedObjectIdentifierType.@value,1,['local']
+premis.object.type,1,"['premis:bitstream', 'premis:file', 'premis:intellectualEntity', 'premis:representation']"
+premis.object.preservationLevel.preservationLevelValue.@value,1,"['Medium', 'emulation']"
+premis.object.objectCharacteristics.fixity.messageDigestOriginator.@value,1,['NRI']
+premis.event.eventDateTime.@value,1,['2014-04-16T22:22:22']
+premis.object.relationship.relationshipType.valueURI,1,"['http://id.loc.gov/vocabulary/preservation/relationshipType/dep', 'http://id.loc.gov/vocabulary/preservation/relationshipType/rep', 'http://id.loc.gov/vocabulary/preservation/relationshipType/str']"
+premis.object.environmentFunction.environmentFunctionLevel.@value,1,"['1', '2']"
+premis.agent.agentType.@value,1,"['organization', 'person', 'software']"
+premis.object.storage.contentLocation.contentLocationType.valueURI,1,['http://id.loc.gov/vocabulary/preservation/contentLocationType/ext']
+premis.rights.rightsStatement.rightsGranted.act.@value,1,['Replicate']
+premis.object.environmentFunction.environmentFunctionType.valueURI,1,"['http://id.loc.gov/vocabulary/preservation/environmentFunctionType/ops', 'http://id.loc.gov/vocabulary/preservation/environmentFunctionType/soa', 'http://id.loc.gov/vocabulary/preservation/environmentFunctionType/sof']"
+premis.object.objectCharacteristics.inhibitors.inhibitorTarget.@value,1,['All content']
+premis.object.preservationLevel.preservationLevelDateAssigned.@value,1,['2015-02-23']
+premis.object.objectCharacteristics.fixity.messageDigest.@value,1,"['12ab90f3467ce32a34a575ce6e035f1ab0e5bea996c514deafed4c6bedcbd1cd', 'd2bed92b73c7090bb30a0b30016882e7069c437488e1513e9deaacbe29d38d92']"
+premis.object.relationship.relatedObjectIdentifier.relatedObjectSequence.@value,1,['0']
+premis.object.environmentFunction.environmentFunctionType.authority,1,['environmentFunctionType']
+premis.agent.agentName.@value,1,"['Evelyn McLellan', 'Format Identification for Digital Objects', 'Not a Real Institution']"
+premis.object.objectCharacteristics.format.formatRegistry.formatRegistryRole.valueURI,1,['http://id.loc.gov/vocabulary/preservation/formatRegistryRole/spe']
+premis.object.significantProperties.significantPropertiesValue.@value,1,"['33', '4063', '712', '9', 'macro']"
+premis.object.relationship.relatedEnvironmentPurpose.authorityURI,1,['http://id.loc.gov/vocabulary/preservation/environmentPurpose']
+premis.event.eventIdentifier.eventIdentifierValue.@value,1,['1de1f888-fbf7-47e5-987e-5e5bc72ac2c5']
+premis.object.storage.contentLocation.contentLocationType.authority,1,['contentLocationType']
+premis.event.linkingAgentIdentifier.linkingAgentRole.authority,1,['eventRelatedAgentRole']
+premis.object.storage.contentLocation.contentLocationType.@value,1,"['Byte offset', 'EXT3', 'XFS']"
+premis.rights.rightsStatement.linkingAgentIdentifier.linkingAgentIdentifierValue.@value,1,"['McLellan, Evelyn']"
+premis.object.storage.contentLocation.contentLocationValue.@value,1,"['/var/sharedDirectory/www/AIPsStore/3jf8/a138/505b/4a00/abb7/2bec/dnv8/vDos.exe', '/var/sharedDirectory/www/AIPsStore/ebdc/a138/505b/4a00/abb7/2bec/afde/LETTER.wpd', '128']"
+premis.object.preservationLevel.preservationLevelRole.@value,1,"['capability', 'intention']"
+premis.object.preservationLevel.preservationLevelRole.authority,1,['preservationLevelRole']
+premis.object.objectIdentifier.objectIdentifierType.@value,1,['local']
+premis.rights.rightsStatement.copyrightInformation.copyrightJurisdiction.@value,1,['CA']
+premis.object.storage.storageMedium.@value,1,['Hard disk']
+premis.object.relationship.relationshipType.authority,1,['relationshipType']
+premis.agent.agentType.authority,1,['agentType']
+premis.object.preservationLevel.preservationLevelRole.valueURI,1,"['http://id.loc.gov/vocabulary/preservation/preservationLevelRole/cap', 'http://id.loc.gov/vocabulary/preservation/preservationLevelRole/int']"
+premis.rights.rightsStatement.rightsBasis.valueURI,1,['http://id.loc.gov/vocabulary/preservation/rightsBasis/cop']
+premis.rights.rightsStatement.rightsGranted.rightsGrantedNote.@value,1,['Replication for preservation purposes only']
+premis.rights.rightsStatement.copyrightInformation.copyrightStatusDeterminationDate.@value,1,['2012-04-16']
+premis.agent.agentIdentifier.agentIdentifierType.@value,1,['local']
+premis.object.objectCharacteristics.inhibitors.inhibitorTarget.authority,1,['inhibitorTarget']
+premis.object.preservationLevel.preservationLevelType.@value,1,"['Bit preservation', 'logical preservation']"
+premis.event.eventIdentifier.eventIdentifierType.@value,1,['UUID']
+premis.object.objectCharacteristics.inhibitors.inhibitorType.@value,1,['Password protection']
+premis.object.environmentDesignation.environmentOrigin.@value,1,"['Jos Schaars', 'Microsoft Corporation', 'WordPerfect Corporation']"
+premis.agent.agentVersion.@value,1,['1.3.2-81']
+premis.event.linkingAgentIdentifier.linkingAgentRole.valueURI,1,"['http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/exe', 'http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp']"
+premis.object.relationship.relationshipSubType.authority,1,['relationshipSubType']
+premis.object.objectCharacteristics.inhibitors.inhibitorType.authorityURI,1,['http://id.loc.gov/vocabulary/preservation/inhibitorType']
+premis.object.environmentRegistry.environmentRegistryKey.@value,1,['http://sourceforge.net/projects/vdos/']
+premis.object.relationship.relationshipSubType.@value,1,"['has part', 'is part of', 'isEmulatedBy', 'represents', 'requires']"
+premis.rights.rightsStatement.rightsBasis.authorityURI,1,['http://id.loc.gov/vocabulary/preservation/rightsBasis']
+premis.rights.rightsStatement.linkingObjectIdentifier.linkingObjectIdentifierValue.@value,1,['001']
+premis.rights.rightsStatement.copyrightInformation.copyrightApplicableDates.startDate.@value,1,['1991-07-19']
+premis.object.storage.storageMedium.authorityURI,1,['http://id.loc.gov/vocabulary/preservation/storageMedium']
+premis.rights.rightsStatement.rightsGranted.restriction.@value,1,['Allow']
+premis.object.objectCharacteristics.fixity.messageDigestAlgorithm.authority,1,['cryptographicHashFunctions']
+premis.event.eventOutcomeInformation.eventOutcome.@value,1,['00']
+premis.event.linkingAgentIdentifier.linkingAgentRole.authorityURI,1,['http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole']
+premis.agent.agentNote.@value,1,['PRONOM signature files v81']
+premis.rights.rightsStatement.linkingAgentIdentifier.linkingAgentIdentifierType.@value,1,['local']
+premis.object.environmentRegistry.environmentRegistryRole.authority,1,['environmentRegistryRole']
+premis.object.originalName.@value,1,"['%transferDirectory%objects/LETTER.wpd', '%transferDirectory%objects/vDos.exe']"
+premis.rights.rightsStatement.rightsStatementIdentifier.rightsStatementIdentifierType.@value,1,['local']
+premis.object.environmentDesignation.environmentName.@value,1,"['Disk Operating System', 'Windows', 'WordPerfect for DOS', 'vDos']"
+premis.rights.rightsStatement.rightsBasis.@value,1,['Copyright']
+premis.event.linkingAgentIdentifier.linkingAgentIdentifierType.@value,1,['local']
+premis.object.objectIdentifier.objectIdentifierValue.@value,1,"['001', '002', '003', '004', '005', '006', '007']"
+premis.object.relationship.relationshipType.authorityURI,1,['http://id.loc.gov/vocabulary/preservation/relationshipType']
+premis.object.objectCharacteristics.inhibitors.inhibitorType.valueURI,1,['http://id.loc.gov/vocabulary/preservation/inhibitorType/pas']
+premis.event.linkingObjectIdentifier.linkingObjectIdentifierValue.@value,1,['001']
+premis.object.storage.storageMedium.authority,1,['storageMedium']
+premis.object.relationship.relationshipSubType.valueURI,1,"['http://id.loc.gov/vocabulary/preservation/relationshipSubType/hsp', 'http://id.loc.gov/vocabulary/preservation/relationshipSubType/iem', 'http://id.loc.gov/vocabulary/preservation/relationshipSubType/isp', 'http://id.loc.gov/vocabulary/preservation/relationshipSubType/rep', 'http://id.loc.gov/vocabulary/preservation/relationshipSubType/req']"
+premis.agent.agentType.authorityURI,1,['http://id.loc.gov/vocabulary/preservation/agentType']
+premis.object.objectCharacteristics.inhibitors.inhibitorType.authority,1,['inhibitorType']
+premis.object.relationship.relatedEnvironmentPurpose.@value,1,['render']
+premis.rights.rightsStatement.rightsGranted.termOfGrant.startDate.@value,1,['2014-04-16']
+premis.object.objectCharacteristics.fixity.messageDigestAlgorithm.@value,1,['SHA-256']
+premis.object.environmentFunction.environmentFunctionType.@value,1,"['operating system', 'software', 'software application']"
+premis.event.eventDetailInformation.eventDetail.@value,1,"['program=""fido""']"
+premis.object.storage.storageMedium.valueURI,1,['http://id.loc.gov/vocabulary/preservation/storageMedium/har']
+premis.object.objectCharacteristics.inhibitors.inhibitorTarget.authorityURI,1,['http://id.loc.gov/vocabulary/preservation/inhibitorTarget']
+premis.object.significantProperties.significantPropertiesType.@value,1,"['behavior', 'character count', 'line count', 'paragraph count', 'word count']"

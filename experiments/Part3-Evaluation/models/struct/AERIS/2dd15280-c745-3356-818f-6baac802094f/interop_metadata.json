@@ -1,0 +1,180 @@
+{
+  "resourceTitle": {
+    "en": "01kmCLay_Exp",
+    "fr": "01kmCLay_Exp"
+  },
+  "resourceAbstract": {
+    "en": "CALIOP Expedited 1km-Resolution Cloud Layers - Level 2",
+    "fr": "CALIOP Expedited 1km-Resolution Cloud Layers - Level 2"
+  },
+  "id": "2dd15280-c745-3356-818f-6baac802094f",
+  "lastModification": {
+    "value": "2018-11-15T10:28:23"
+  },
+  "aerisDataCenter": "ICARE",
+  "dataCenter": "",
+  "spatialExtents": [
+    {
+      "area": {
+        "type": "RECTANGLE_AREA",
+        "northLatitude": 90.0,
+        "southLatitude": -90.0,
+        "eastLongitude": 180.0,
+        "westLongitude": -180.0
+      },
+      "name": "",
+      "description": "",
+      "comment": "",
+      "projection": "EPSG 4326"
+    }
+  ],
+  "links": [
+    {
+      "type": "HTTP_DOWNLOAD_LINK",
+      "url": "http://www.icare.univ-lille1.fr/archive/?dir\u003dCALIOP/01kmCLay_Exp",
+      "name": "",
+      "description": {
+        "en": "HTTP download through AERIS/ICARE data pool interface",
+        "fr": "Téléchargement HTTP sur le site web AERIS/ICARE"
+      }
+    },
+    {
+      "type": "FTP_DOWNLOAD_LINK",
+      "url": "ftp://ftp.icare.univ-lille1.fr/SPACEBORNE/CALIOP/01kmCLay_Exp",
+      "name": "",
+      "description": {
+        "en": "FTP download from AERIS/ICARE",
+        "fr": "Téléchargement FTP depuis le site AERIS/ICARE"
+      }
+    },
+    {
+      "type": "INFORMATION_LINK",
+      "url": "http://www-calipso.larc.nasa.gov/products",
+      "name": "",
+      "description": {
+        "en": "NASA LaRC ASDC CALIPSO product documentation",
+        "fr": "Documentation des produits CALIPSO au ASDC du LaRC de la NASA"
+      }
+    },
+    {
+      "type": "INFORMATION_LINK",
+      "url": "http://www.icare.univ-lille1.fr/calipso/products",
+      "name": "",
+      "description": {
+        "en": "AERIS/ICARE CALIPSO product documentation",
+        "fr": "Documentation des produits CALIPSO à AERIS/ICARE"
+      }
+    }
+  ],
+  "status": "Public",
+  "distributionInformation": {
+    "dataPolicyName": "",
+    "dataPolicyVersion": "",
+    "dataPolicyUrl": "",
+    "dataPolicyReminder": false,
+    "embargoStartDate": "",
+    "embargoDuration": 0,
+    "registrationNeeded": true,
+    "authenticationNeeded": false,
+    "description": {},
+    "licenceName": "",
+    "licenceVersion": "",
+    "licencePolicyUrl": ""
+  },
+  "language": "en",
+  "contacts": [
+    {
+      "firstName": "",
+      "lastName": "",
+      "name": "NASA/LaRC ASDC Helpdesk",
+      "nameType": "",
+      "email": "support-asdc@earthdata.nasa.gov",
+      "organisation": "NASA Langley Research Center",
+      "comment": {
+        "en": "Production, archive, and distribution of CALIPSO products",
+        "fr": "Production, archive, and distribution of CALIPSO products"
+      },
+      "roles": [
+        "pointofcontact",
+        "originator",
+        "processor",
+        "owner",
+        "distributor",
+        "custodian"
+      ],
+      "orcId": "",
+      "ror": "",
+      "webSiteUrl": ""
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "name": "AERIS/ICARE Helpdesk",
+      "nameType": "",
+      "email": "contact@icare.univ-lille1.fr",
+      "organisation": "AERIS/ICARE Data and Services Center",
+      "comment": {
+        "en": "Mirror archive",
+        "fr": "Mirror archive"
+      },
+      "roles": [
+        "pointofcontact",
+        "custodian",
+        "distributor"
+      ],
+      "orcId": "",
+      "ror": "",
+      "webSiteUrl": ""
+    }
+  ],
+  "editInformations": {
+    "histories": []
+  },
+  "resourceType": "Dataset",
+  "formats": [
+    {
+      "name": "HDF4",
+      "version": ""
+    }
+  ],
+  "dataLevel": "L2",
+  "sites": [],
+  "programName": "",
+  "collectionName": "",
+  "clientTemplateName": "",
+  "interoperabilityInformation": {},
+  "platformSet": [
+    {
+      "thesaurusCode": "https://vocab.aeris-data.fr/platform/fcf94d8e-3e4c-f97e-59b5-2d978354534c",
+      "name": "",
+      "label": "Earth Observation Satellites.NASA Earth System Science Pathfinder.CALIPSO"
+    }
+  ],
+  "instrumentSet": [
+    {
+      "thesaurusCode": "https://vocab.aeris-data.fr/instrument/1b960522-27a4-f74b-21b7-2a26ea8e08f7",
+      "name": "",
+      "manufacturer": "",
+      "model": "",
+      "serialNumber": "",
+      "calibration": "",
+      "label": "Altimeters.Lidar/Laser Altimeters.CALIOP"
+    }
+  ],
+  "projectSet": [
+    {
+      "thesaurusCode": "SPATIAL.CALIPSO",
+      "label": "Space missions.CALIPSO",
+      "shortName": "CALIPSO"
+    }
+  ],
+  "documentRating": 0,
+  "note": 20,
+  "metadataLevel": "Collection",
+  "identifier": "2dd15280-c745-3356-818f-6baac802094f",
+  "type": "COLLECTION",
+  "technicalInformation": {
+    "catalogueName": "aeris",
+    "catalogueMode": "prod"
+  }
+}

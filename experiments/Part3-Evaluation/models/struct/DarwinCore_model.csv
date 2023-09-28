@@ -1,0 +1,163 @@
+,count,values
+county,9,"['Ardennes', 'Cantal', 'Essonne', 'Hautes-Alpes', 'LIVERPOOL PLAINS', 'Southern Tablelands', 'Woods Co']"
+verbatimEventDate,3,"['10 Jan 1899', '11 Jan 1899', '16 Jan 1899']"
+http://unknown.org/northing,0,[]
+iucnRedListCategory,19,"['LC', 'NE']"
+locationID,2,"['4f61e5e3-27f4-4a6e-a7a9-fbf84cdbc29b', 'NSW595687']"
+gadm.level3.name,13,"['Aurillac', 'Baltschieder', 'Charleville-Mézières', 'Durham', 'Gap', 'Newcastle upon Tyne', 'Saint Albans', 'Saint-Flour', 'Watford', 'West Lancashire', 'Évry']"
+lastParsed,20,"['2023-08-26T03:46:06.909+00:00', '2023-08-26T03:47:06.737+00:00', '2023-08-26T06:34:07.085+00:00', '2023-08-26T06:34:07.833+00:00', '2023-08-26T06:34:35.208+00:00', '2023-08-26T21:52:00.782+00:00', '2023-09-05T22:26:28.680+00:00', '2023-09-06T21:57:03.471+00:00', '2023-09-07T02:02:57.187+00:00', '2023-09-07T06:12:24.725+00:00', '2023-09-07T10:49:01.313+00:00', '2023-09-07T11:06:36.609+00:00', '2023-09-07T11:06:38.184+00:00', '2023-09-07T11:06:45.020+00:00', '2023-09-12T18:48:24.621+00:00', '2023-09-12T18:48:29.451+00:00', '2023-09-12T18:48:57.003+00:00', '2023-09-12T18:49:01.129+00:00', '2023-09-12T18:49:07.913+00:00', '2023-09-14T07:12:53.573+00:00']"
+occurrenceID,20,"['001117b9-9612-4053-9db8-39aa82f72fd4', '00207a9a-62ed-431c-8816-5b16375432fa', '0027ede0-82c2-4fa9-8495-c0f3d78840dc', '002a76b7-0933-4037-b555-9f32d20a0763', '00356339-d411-4cbd-829a-733b948b0365', '003af389-2da6-4b0c-820f-3d80add3d512', '004265b0-b90d-11ed-82b5-005056be20a7', '00584c6f-059a-4f5e-8a29-04bd128a8985', '00663240-668c-4e72-9862-c80ac73c9727', '008036de-7afa-41b2-8166-5412d06d8327', '0086b1e7-a6af-4fa6-9122-51e200b5bfc2', '0088dc94-6dbf-4256-92ea-2ee8b93889a2', '0091515f-d8ee-438b-b1ad-af2fcf95c562', '009c00ec-5369-4b1e-a787-5492fb0859bf', 'DSS005640001ZTBF', 'LC000334000ZDD5J', 'LC000334000ZDIDD', 'LC00033400189M1T', 'LC000334001BXDN0', 'LC000334001C3EAP']"
+identificationVerificationStatus,12,"['Accepted', 'Accepted - correct', 'Non réalisable', 'Probable']"
+gadm.level3.gid,13,"['CHE.23.13.1_1', 'FRA.1.4.1_1', 'FRA.1.4.3_1', 'FRA.13.4.2_1', 'FRA.6.1.1_1', 'FRA.8.1.2_1', 'GBR.1.30.1_1', 'GBR.1.41.6_1', 'GBR.1.41.9_1', 'GBR.1.48.11_1', 'GBR.1.58.1_1']"
+infraspecificEpithet,1,['breviauritus']
+disposition,1,['in collection']
+kingdom,20,"['Animalia', 'Plantae']"
+extensions.http://rs.gbif.org/terms/1.0/Multimedia,0,[]
+elevation,1,[648.0]
+networkKeys,2,['99d66b6c-9087-452f-a9d4-f15f2c2d0e7e']
+taxonomicStatus,20,"['ACCEPTED', 'SYNONYM']"
+verbatimTaxonRank,1,['species']
+preparations,5,"['sheet', 'skin,skull']"
+publishingOrgKey,20,"['0cbfea81-f7f6-43a7-a5bc-9b38898b505d', '0d72dd7f-6f05-46af-85c2-8b6e77ce5534', '1928bdf0-f5d2-11dc-8c12-b8a03c50a862', '1ed074ff-5644-461a-90db-5da4d7656f3f', '605e7170-1123-11d9-8433-b8a03c50a862', '7b8aff00-a9f8-11d8-944b-b8a03c50a862', 'ae447c50-b8a8-11d8-92a4-b8a03c50a862', 'ef66652d-3cc3-4140-b268-a07d1e53441b']"
+georeferenceSources,3,['Google Earth']
+otherCatalogNumbers,1,"['Royal Botanic Gardens & National Herbarium of NSW, Sydney NSW595687']"
+extensions.http://rs.tdwg.org/ac/terms/Multimedia.http://purl.org/dc/terms/rights,0,[]
+isInCluster,20,"[False, True]"
+lastInterpreted,20,"['2023-08-26T03:46:06.909+00:00', '2023-08-26T03:47:06.737+00:00', '2023-08-26T06:34:07.085+00:00', '2023-08-26T06:34:07.833+00:00', '2023-08-26T06:34:35.208+00:00', '2023-08-26T21:52:00.782+00:00', '2023-09-05T22:26:28.680+00:00', '2023-09-06T21:57:03.471+00:00', '2023-09-07T02:02:57.187+00:00', '2023-09-07T06:12:24.725+00:00', '2023-09-07T10:49:01.313+00:00', '2023-09-07T11:06:36.609+00:00', '2023-09-07T11:06:38.184+00:00', '2023-09-07T11:06:45.020+00:00', '2023-09-12T18:48:24.621+00:00', '2023-09-12T18:48:29.451+00:00', '2023-09-12T18:48:57.003+00:00', '2023-09-12T18:49:01.129+00:00', '2023-09-12T18:49:07.913+00:00', '2023-09-14T07:12:53.573+00:00']"
+decimalLatitude,20,"[-37.05, -31.648426, 18.357355, 18.448144, 18.44883, 18.459359, 36.805031, 44.63077, 45.00457, 45.05107, 46.301055, 48.43717, 49.57273, 50.09148, 51.660831, 51.696383, 53.484827, 54.691962, 54.996852]"
+identifiedByIDs,20,[]
+issues,20,"['COLLECTION_MATCH_FUZZY', 'COLLECTION_MATCH_NONE', 'CONTINENT_DERIVED_FROM_COORDINATES', 'COORDINATE_ROUNDED', 'GEODETIC_DATUM_ASSUMED_WGS84', 'INSTITUTION_MATCH_FUZZY', 'INSTITUTION_MATCH_NONE', 'OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT', 'OCCURRENCE_STATUS_UNPARSABLE', 'RECORDED_DATE_INVALID']"
+datasetKey,20,"['064508e2-255e-4d82-9f13-05d73476cc03', '0645ccdb-e001-4ab0-9729-51f1755e007e', '07a54454-87c7-4e1e-b2ba-88a9d98d534b', '1f127865-0ff5-4008-95e7-508a6e77f53d', '41fc5c40-5e81-496f-9733-6b5681b3b7a5', '8cec13a3-9f7f-435f-b750-bf79ce5368ae', 'a86201a4-fa20-44e5-ade2-68ea3563cfa8', 'afc30a94-6107-488a-b9c0-ba9c4fa68b7c', 'c3c56ab1-706c-4e7f-85f8-f6f860e203f2', 'd415c253-4d61-4459-9d25-4015b9084fb0', 'dd238f50-f594-4e51-82af-033227ccab55']"
+extensions.http://rs.tdwg.org/ac/terms/Multimedia.http://rs.tdwg.org/ac/terms/accessURI,0,[]
+higherGeography,2,"['Atlantic, North America, Puerto Rico: San Antonio Bridge, San Juan. [LL]', 'North America, USA, Oklahoma, Woods Co, Nearctic: Alva']"
+extensions.http://rs.tdwg.org/ac/terms/Multimedia.http://purl.org/dc/terms/format,0,[]
+accessRights,2,"['http://fieldmuseum.org/about/copyright-information', 'https://www.fieldmuseum.org/field-museum-natural-history-conditions-and-suggested-norms-use-collections-data-and-images']"
+orderKey,20,"[381, 392, 408, 412, 414, 587, 643, 797, 934, 954, 1369, 1370, 1459]"
+http://unknown.org/rightsHolder,0,[]
+scientificNameID,1,['6384']
+institutionKey,7,"['49cd8cc2-5b90-4e61-bc3b-72d5071cf3d8', 'ab83e5ab-f4f7-4c9b-a1d5-eb779dfb9377', 'bbd52eff-157b-4c0c-908c-1da4095d7c17', 'e71f36f1-e271-4720-a604-3c5a1418e7aa']"
+municipality,3,"['Chagny', 'Ham-sur-Meuse', 'Moigny-sur-École']"
+class,19,"['Insecta', 'Jungermanniopsida', 'Liliopsida', 'Magnoliopsida', 'Malacostraca', 'Mammalia', 'Polypodiopsida']"
+higherClassification,3,"['(R.Br.) B.G.Briggs & Ehrend.', 'Animalia Chordata Actinopterygii Perciformes Acanthuridae', 'Animalia Chordata Mammalia Rodentia Cricetidae']"
+key,20,"[665774751, 666731301, 1451649107, 1927771191, 1927774972, 1927775783, 2830062856, 2957108323, 3486400308, 3486408371, 3487693354, 3788507547, 3791637478, 3791651548, 3791702463, 3791775533, 3937623654, 3937948413, 4041513301, 4081856621]"
+genericName,20,"['Acanthurus', 'Acronicta', 'Armadillidium', 'Aspidium', 'Callistege', 'Canavalia', 'Diarsia', 'Diplophyllum', 'Ennomos', 'Equisetum', 'Eriophorum', 'Euclidia', 'Gentiana', 'Hippobroma', 'Luperina', 'Onychomys', 'Santalum', 'Scapania', 'Senna', 'Veronica']"
+year,20,[1899]
+identifier,20,"['001117b9-9612-4053-9db8-39aa82f72fd4', '00207a9a-62ed-431c-8816-5b16375432fa', '0027ede0-82c2-4fa9-8495-c0f3d78840dc', '002a76b7-0933-4037-b555-9f32d20a0763', '0030e3f1-18ca-4ecf-a0b4-7f46230aa645', '00356339-d411-4cbd-829a-733b948b0365', '003af389-2da6-4b0c-820f-3d80add3d512', '004265b0-b90d-11ed-82b5-005056be20a7', '00584c6f-059a-4f5e-8a29-04bd128a8985', '005aeeed-ec5e-48e1-97be-35835e7353eb', '00663240-668c-4e72-9862-c80ac73c9727', '0075ac96-f638-4d3c-9c87-ad25641a342f', '008036de-7afa-41b2-8166-5412d06d8327', '0086b1e7-a6af-4fa6-9122-51e200b5bfc2', '0088dc94-6dbf-4256-92ea-2ee8b93889a2', '0091515f-d8ee-438b-b1ad-af2fcf95c562', '0091e425-ec80-482c-8b87-9bc7a24f4085', '009b395f-28e9-4a99-845f-0c3b034d6bac', '009c00ec-5369-4b1e-a787-5492fb0859bf', '00a0494f-302c-421e-ab1e-4bcdd004a999']"
+taxonKey,20,"[1761111, 1770307, 1782672, 1798408, 1957845, 2203639, 2687932, 2689220, 2730210, 2957966, 2962021, 3168943, 4533431, 5209181, 5710147, 7270598, 7592136, 7921902, 8158000, 8965147]"
+bibliographicCitation,1,['BioNet Atlas of NSW Wildlife 11/05/2022 1:00 AM +10:00']
+recordedBy,14,"['A. A. Heller', 'Baeuerlen, W.', 'C. F. Millspaugh', 'Freeman, R.', 'Gorneau Jules (Non connu)', 'Gustav Müller', 'HERIBAUD Joseph (Indépendant)', 'MNHN Observateur non mentionné', 'NSWOBS-06163', 'T. Surber', ""U.S. Fish Commission Steamer 'Fish Hawk'"", 'non connu  (Non connu)']"
+genus,20,"['Acanthurus', 'Acronicta', 'Armadillidium', 'Callistege', 'Canavalia', 'Diarsia', 'Diplophyllum', 'Ennomos', 'Equisetum', 'Eriophorum', 'Euclidia', 'Gentiana', 'Hippobroma', 'Luperina', 'Onychomys', 'Polystichum', 'Santalum', 'Scapania', 'Senna', 'Veronica']"
+startDayOfYear,5,"['10', '11', '14', '16', '24']"
+eventID,7,"['001117b9-9612-4053-9db8-39aa82f72fd4', '002a76b7-0933-4037-b555-9f32d20a0763', '00584c6f-059a-4f5e-8a29-04bd128a8985', '00663240-668c-4e72-9862-c80ac73c9727', '008036de-7afa-41b2-8166-5412d06d8327', '0088dc94-6dbf-4256-92ea-2ee8b93889a2', 'DSS005640000EN4J']"
+speciesKey,20,"[1761111, 1770307, 1782672, 1798408, 1957845, 2203639, 2438517, 2687932, 2689220, 2730210, 2957966, 2962021, 3168943, 4533431, 5209181, 5710147, 7270598, 7319269, 7592136, 8158000]"
+identificationRemarks,1,"['[Cited as Senna occidentalis (L.) Link, by Barneby & Irwin, Mem. NYBG 35. 1982.]']"
+originalNameUsage,6,"['Armadillidium opacum (Koch, 1844)', 'Aspidium lobatum Smith.', 'Diplophyllum obtusifolium (Hook.) Dum.', 'Eriophorum latifolium Hoppe', 'Gentiana pneumonanthe L.', 'Scapania nemorosa Dum. Form. gemmipara (Hook.)']"
+coordinatePrecision,1,[1e-09]
+individualCount,1,[3]
+extensions.http://rs.tdwg.org/ac/terms/Multimedia.http://ns.adobe.com/xap/1.0/rights/Owner,0,[]
+species,20,"['Acanthurus bahianus', 'Acronicta rumicis', 'Armadillidium opacum', 'Callistege mi', 'Canavalia rosea', 'Diarsia brunnea', 'Diplophyllum obtusifolium', 'Ennomos alniaria', 'Equisetum palustre', 'Eriophorum latifolium', 'Euclidia glyphica', 'Gentiana pneumonanthe', 'Hippobroma longiflora', 'Luperina testacea', 'Onychomys leucogaster', 'Polystichum aculeatum', 'Santalum lanceolatum', 'Scapania nemorea', 'Senna occidentalis', 'Veronica perfoliata']"
+http://unknown.org/taxonRankID,0,[]
+gadm.level1.gid,20,"['AUS.5_1', 'CHE.23_1', 'FRA.13_1', 'FRA.1_1', 'FRA.6_1', 'FRA.8_1', 'GBR.1_1', 'PRI.11_1', 'PRI.65_1', 'USA.37_1']"
+georeferenceProtocol,1,['not recorded']
+fieldNumber,2,"['63250', 'FH1899-7']"
+media.creator,4,"['Picturae', 'The New York Botanical Garden']"
+institutionCode,14,"['BC', 'FMNH', 'MBB', 'NSW', 'NSW Dept of Planning, Industry and Environment', 'NY', 'ZT']"
+nameAccordingTo,6,"['Gargominy O (2021). TAXREF. Version 4.7. UMS PatriNat (OFB-CNRS-MNHN), Paris. Checklist dataset https://doi.org/10.15468/vqueam accessed via GBIF.org on 2021-06-28.']"
+geodeticDatum,20,['WGS84']
+acceptedScientificName,20,"['Acanthurus bahianus Castelnau, 1855', 'Acronicta rumicis Linnaeus, 1758', 'Armadillidium opacum (C.Koch, 1841)', 'Callistege mi (Clerck, 1759)', 'Canavalia rosea (Sw.) DC.', 'Diarsia brunnea (Denis & Schiffermüller), 1775', 'Diplophyllum obtusifolium (Hook.) Dumort.', 'Ennomos alniaria (Linnaeus, 1758)', 'Equisetum palustre L.', 'Eriophorum latifolium Hoppe', 'Euclidia glyphica Linnaeus, 1758', 'Gentiana pneumonanthe L.', 'Hippobroma longiflora (L.) G.Don', 'Luperina testacea (Denis & Schiffermüller), 1775', 'Onychomys leucogaster (Wied-Neuwied, 1841)', 'Polystichum aculeatum (L.) Roth', 'Santalum lanceolatum R.Br.', 'Scapania nemorea (L.) Grolle', 'Senna occidentalis (L.) Link', 'Veronica perfoliata R.Br.']"
+facts,20,[]
+http://unknown.org/license,0,[]
+extensions.http://rs.tdwg.org/ac/terms/Multimedia.http://purl.org/dc/elements/1.1/creator,0,[]
+media.license,4,['http://creativecommons.org/licenses/by/4.0/']
+collectionKey,6,"['6999cd7a-b2a3-4f56-b5c4-0b0f1b70adba', '7ed978ec-5f70-4b0f-a1dd-9a53270dbccc', '8115adac-2a60-4792-b67b-411865f3a16a', 'b2190553-4505-4fdd-8fff-065c8ca26f72']"
+habitat,3,"['90667', 'Sand dunes.', 'Waste ground.']"
+taxonConceptID,8,"['MM0001Z100DH5JN1', 'NBNSYS0000006004', 'NBNSYS0000006384', 'NBNSYS0000006567', 'NHMSYS0021144621', 'NHMSYS0021144907', 'https://id.biodiversity.org.au/node/apni/2889519', 'https://id.biodiversity.org.au/node/apni/2908232']"
+informationWithheld,9,"['Géographie soumise à floutage à la demande du producteur|Geographic information generalized during aggregation at the request of the producer', 'OSGB Grid Reference NZ03W', 'OSGB Grid Reference NZ26T', 'OSGB Grid Reference SJ49P', 'OSGB Grid Reference TL10F', 'OSGB Grid Reference TQ19D']"
+extensions.http://rs.gbif.org/terms/1.0/Multimedia.http://purl.org/dc/terms/creator,0,[]
+order,20,"['Asterales', 'Equisetales', 'Fabales', 'Gentianales', 'Isopoda', 'Jungermanniales', 'Lamiales', 'Lepidoptera', 'Perciformes', 'Poales', 'Polypodiales', 'Rodentia', 'Santalales']"
+license,20,"['http://creativecommons.org/licenses/by-nc/4.0/legalcode', 'http://creativecommons.org/licenses/by/4.0/legalcode', 'http://creativecommons.org/publicdomain/zero/1.0/legalcode']"
+verbatimCoordinateSystem,1,['Degrees Minutes']
+protocol,20,"['DWC_ARCHIVE', 'EML']"
+genusKey,20,"[1761094, 1770274, 1782659, 1798083, 1798377, 1957829, 2200393, 2379647, 2438514, 2651085, 2687913, 2689188, 2689215, 2730118, 2889778, 2956904, 3168942, 3170037, 3172047, 8285917]"
+eventDate,20,"['1899-01-01T00:00:00', '1899-01-03T00:00:00', '1899-01-06T00:00:00', '1899-01-10T00:00:00', '1899-01-11T00:00:00', '1899-01-14T00:00:00', '1899-01-16T00:00:00', '1899-01-24T00:00:00']"
+day,19,"[1, 3, 6, 10, 11, 14, 16, 24]"
+media.type,5,['StillImage']
+reproductiveCondition,1,['fruits']
+hostingOrganizationKey,20,"['07f617d0-c688-11d8-bf62-b8a03c50a862', '1928bdf0-f5d2-11dc-8c12-b8a03c50a862', '3c5e4331-7f2f-4a8d-aa56-81ece7014fc8', '605e7170-1123-11d9-8433-b8a03c50a862', '7b8aff00-a9f8-11d8-944b-b8a03c50a862', 'ae447c50-b8a8-11d8-92a4-b8a03c50a862']"
+phylumKey,20,"[9, 44, 54, 7707728]"
+basisOfRecord,20,"['HUMAN_OBSERVATION', 'PRESERVED_SPECIMEN']"
+http://unknown.org/species,0,[]
+countryCode,20,"['AU', 'CH', 'FR', 'GB', 'PR', 'US']"
+scientificName,20,"['Acanthurus bahianus Castelnau, 1855', 'Acronicta rumicis Linnaeus, 1758', 'Armadillidium opacum (C.Koch, 1841)', 'Aspidium lobatum (Huds.) Sw.', 'Callistege mi (Clerck, 1759)', 'Canavalia rosea (Sw.) DC.', 'Diarsia brunnea (Denis & Schiffermüller), 1775', 'Diplophyllum obtusifolium (Hook.) Dumort.', 'Ennomos alniaria (Linnaeus, 1758)', 'Equisetum palustre L.', 'Eriophorum latifolium Hoppe', 'Euclidia glyphica Linnaeus, 1758', 'Gentiana pneumonanthe L.', 'Hippobroma longiflora (L.) G.Don', 'Luperina testacea (Denis & Schiffermüller), 1775', 'Onychomys leucogaster breviauritus Hollister, 1913', 'Santalum lanceolatum R.Br.', 'Scapania nemorea (L.) Grolle', 'Senna occidentalis (L.) Link', 'Veronica perfoliata R.Br.']"
+recordNumber,6,"['148', '27', '308', '52', 'NSW595687', 's.n.']"
+catalogNumber,8,"['00993858', '1361607', '52079', '6715', '988461', 'NSW595687', 'NSW6113', 'ZT-00243843']"
+http://unknown.org/easting,0,[]
+gadm.level0.gid,20,"['AUS', 'CHE', 'FRA', 'GBR', 'PRI', 'USA']"
+organismID,2,"['2506050', '631291']"
+extensions.http://rs.gbif.org/terms/1.0/Multimedia.http://rs.tdwg.org/dwc/terms/occurrenceID,0,[]
+establishmentMeans,1,['Native']
+media.format,5,['image/jpeg']
+gadm.level1.name,20,"['Auvergne-Rhône-Alpes', 'Bayamón', 'England', 'Grand Est', 'New South Wales', 'Oklahoma', ""Provence-Alpes-Côte d'Azur"", 'San Juan', 'Valais', 'Île-de-France']"
+ownerInstitutionCode,4,"['FMNH', 'NSW Dept of Planning and Environment', 'ZT']"
+language,6,['en']
+installationKey,20,"['17017c2c-036b-45d9-b045-606d21b00771', '19893c10-381e-4534-9bb8-6c37d03ad29e', '3b84ff5b-79ce-427c-acb7-b4004e160f66', '7e9670e7-b45c-4f66-9300-fa8f98c9c79d', '99552c70-f762-11e1-a439-00145eb45e9a', 'e44d0fd7-0edf-477f-aa82-50a81836ab46']"
+associatedReferences,4,"[""2e sér., XIV - 1899 - Les muscinées d'Auvergne"", ""Catalogue critique des hépatiques (Anthocerotophyta et Marchantiophyta) de l'Auvergne (Cantal et Puy-de-Dôme, France)"", ""MAILFAIT P., CADIX L., 1899. Catalogue de la flore du département des Ardennes (4), Bulletin de la Société d'Histoire Naturelle des Ardennes. tome 6 : 113-168.""]"
+extensions.http://rs.tdwg.org/ac/terms/Multimedia.http://rs.tdwg.org/ac/terms/metadataLanguage,0,[]
+locationRemarks,2,"['decimal degrees', 'locationRemarks withheld']"
+collectionID,4,"['Mammals', 'http://biocol.org/urn:lsid:biocol.org:col:15556']"
+rightsHolder,7,"['NSW Dept of Planning and Environment', 'The Field Museum of Natural History', 'The New York Botanical Garden', 'United Herbaria of the University and ETH Zurich']"
+gadm.level2.gid,16,"['AUS.5.17_1', 'AUS.5.85_1', 'CHE.23.13_1', 'FRA.1.4_1', 'FRA.13.4_1', 'FRA.6.1_1', 'FRA.8.1_1', 'GBR.1.30_1', 'GBR.1.41_1', 'GBR.1.48_1', 'GBR.1.58_1', 'USA.37.76_1']"
+month,20,[1]
+taxonID,12,"['237022', '6507', '6529', '84417', '96852', '99922', 'MM0001Z100DH5JN1', 'NBNSYS0000006004', 'NBNSYS0000006384', 'NHMSYS0021144454', 'NHMSYS0021144621', 'NHMSYS0021144907']"
+media.rightsHolder,3,['The New York Botanical Garden']
+classKey,19,"[126, 196, 216, 220, 229, 359, 7228684]"
+crawlId,20,"[1, 22, 155, 176, 267, 273, 284, 288, 340, 353, 1102]"
+phylum,20,"['Arthropoda', 'Chordata', 'Marchantiophyta', 'Tracheophyta']"
+extensions.http://rs.tdwg.org/ac/terms/Multimedia,0,[]
+references,3,"['http://sweetgum.nybg.org/science/vh/specimen_details.php?irn=1064297', 'http://sweetgum.nybg.org/science/vh/specimen_details.php?irn=1088875', 'http://sweetgum.nybg.org/science/vh/specimen_details.php?irn=1585744']"
+georeferencedDate,3,"['2008-06-17', '2008-11-21', '2009-09-25']"
+extensions.http://rs.gbif.org/terms/1.0/Multimedia.http://purl.org/dc/terms/identifier,0,[]
+identifiers.identifier,20,"['001117b9-9612-4053-9db8-39aa82f72fd4', '00207a9a-62ed-431c-8816-5b16375432fa', '0027ede0-82c2-4fa9-8495-c0f3d78840dc', '002a76b7-0933-4037-b555-9f32d20a0763', '0030e3f1-18ca-4ecf-a0b4-7f46230aa645', '00356339-d411-4cbd-829a-733b948b0365', '003af389-2da6-4b0c-820f-3d80add3d512', '004265b0-b90d-11ed-82b5-005056be20a7', '00584c6f-059a-4f5e-8a29-04bd128a8985', '005aeeed-ec5e-48e1-97be-35835e7353eb', '00663240-668c-4e72-9862-c80ac73c9727', '0075ac96-f638-4d3c-9c87-ad25641a342f', '008036de-7afa-41b2-8166-5412d06d8327', '0086b1e7-a6af-4fa6-9122-51e200b5bfc2', '0088dc94-6dbf-4256-92ea-2ee8b93889a2', '0091515f-d8ee-438b-b1ad-af2fcf95c562', '0091e425-ec80-482c-8b87-9bc7a24f4085', '009b395f-28e9-4a99-845f-0c3b034d6bac', '009c00ec-5369-4b1e-a787-5492fb0859bf', '00a0494f-302c-421e-ab1e-4bcdd004a999']"
+vernacularName,8,"['Burnet Companion', 'Canary-shouldered Thorn', 'Flounced Rustic', 'Knot Grass', 'Mother Shipton', 'Northern Sandalwood', 'Perfoliate Speedwell', 'Purple Clay']"
+decimalLongitude,20,"[-98.666367, -66.165662, -66.086796, -66.06798, -66.064197, -2.830312, -1.861897, -1.579495, -0.396612, -0.366417, 2.43983, 2.66864, 3.22409, 4.70013, 4.78235, 6.18422, 7.862583, 148.95, 150.667806]"
+extensions.http://rs.tdwg.org/ac/terms/Multimedia.http://purl.org/dc/terms/identifier,0,[]
+endDayOfYear,4,"['10', '11', '14', '16']"
+stateProvince,12,"['England', 'New South Wales', 'Oklahoma', 'San Juan', 'Wallis']"
+relations,20,[]
+country,20,"['Australia', 'France', 'Puerto Rico', 'Switzerland', 'United Kingdom of Great Britain and Northern Ireland', 'United States of America']"
+taxonRank,20,"['SPECIES', 'SUBSPECIES']"
+institutionID,4,"['FMNH', 'http://biocol.org/urn:lsid:biocol.org:col:15556']"
+recordedByIDs,20,[]
+extensions.http://rs.tdwg.org/ac/terms/Multimedia.http://purl.org/dc/elements/1.1/type,0,[]
+extensions.http://rs.gbif.org/terms/1.0/Multimedia.http://purl.org/dc/terms/license,0,[]
+http://unknown.org/language,0,[]
+continent,20,"['EUROPE', 'NORTH_AMERICA', 'OCEANIA']"
+media.identifier,5,"['http://sweetgum.nybg.org/images3/214/318/v-152-00988461.jpg', 'http://sweetgum.nybg.org/images3/217/696/v-150-00993858.jpg', 'http://sweetgum.nybg.org/images3/392/109/v-307-01361607.jpg', 'https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=93e2cca7-7f47-426d-aa83-23ceb53f8d78', 'https://www.digitalis.uzh.ch/media/specimen/243/ZT-00243843.jpg']"
+nomenclaturalCode,6,"['ICBN', 'ICN', 'ICZN']"
+occurrenceStatus,20,['PRESENT']
+gadm.level0.name,20,"['Australia', 'France', 'Puerto Rico', 'Switzerland', 'United Kingdom', 'United States']"
+identifiedBy,3,"['Briggs, B.G.', 'Freeman Rev R.', 'Ms. Janeen M. Jones : Field Museum of Natural History - Technology Department']"
+footprintWKT,9,"['POINT(3.22409 45.00457)', 'POINT(7.862583159701899 46.30105530987532)', 'POLYGON((-0.3812 51.6876,-0.3812 51.70517,-0.35163 51.70517,-0.35163 51.6876,-0.3812 51.6876))', 'POLYGON((-0.41138 51.65204,-0.41138 51.66962,-0.38184 51.66962,-0.38184 51.65204,-0.41138 51.65204))', 'POLYGON((-1.59522 54.98792,-1.59522 55.00578,-1.56377 55.00578,-1.56377 54.98792,-1.59522 54.98792))', 'POLYGON((-1.87744 54.68299,-1.87744 54.70093,-1.84635 54.70093,-1.84635 54.68299,-1.87744 54.68299))', 'POLYGON((-2.8452 53.47573,-2.8452 53.49392,-2.81542 53.49392,-2.81542 53.47573,-2.8452 53.47573))', 'POLYGON((6.151470000000001 44.60918,6.15399 44.654160000000005,6.217 44.652350000000006,6.21443 44.60737,6.151470000000001 44.60918))']"
+rights,1,['CC-BY 4.0']
+datasetID,10,"['10', '2942baaf-9192-48b2-9cd6-b6054f9a8b11', '630EA612-B3CF-42E2-E053-2614A8C0CF63', 'ZT-00243843', 'cb0bf536-3af8-41b3-8fe4-2c0ce5a88aff', 'fishes-21-dec-2022', 'mammals-24-sep-2020']"
+type,8,['PhysicalObject']
+locality,8,"['Alva', 'Bayamon', 'Delegate.', 'Ruynes-en-Margeride (A 900 m.)', 'San Antonio Bridge, San Juan', 'Santurce.', 'locality withheld']"
+gadm.level2.name,16,"['Ardennes', 'Bombala', 'Cantal', 'County Durham', 'Essonne', 'Hautes-Alpes', 'Hertfordshire', 'Lancashire', 'Liverpool Plains', 'North Tyneside', 'Visp', 'Woods']"
+gbifID,20,"['1451649107', '1927771191', '1927774972', '1927775783', '2830062856', '2957108323', '3486400308', '3486408371', '3487693354', '3788507547', '3791637478', '3791651548', '3791702463', '3791775533', '3937623654', '3937948413', '4041513301', '4081856621', '665774751', '666731301']"
+specificEpithet,20,"['alniaria', 'bahianus', 'brunnea', 'glyphica', 'lanceolatum', 'latifolium', 'leucogaster', 'lobatum', 'longiflora', 'mi', 'nemorea', 'obtusifolium', 'occidentalis', 'opacum', 'palustre', 'perfoliata', 'pneumonanthe', 'rosea', 'rumicis', 'testacea']"
+kingdomKey,20,"[1, 6]"
+sex,1,['MALE']
+familyKey,20,"[2373, 2420, 2503, 3105, 4233, 4572, 5386, 6129, 6661, 6950, 7015, 7708, 8801, 3240723, 4532185]"
+coordinateUncertaintyInMeters,13,"[25.0, 1414.2, 2331.0, 2654.0, 3074.0, 3759.0, 10000.0, 51572.0]"
+lastCrawled,20,"['2023-01-05T15:43:18.817+00:00', '2023-01-08T01:50:18.898+00:00', '2023-03-07T15:13:25.710+00:00', '2023-03-07T18:38:31.889+00:00', '2023-07-17T08:52:54.364+00:00', '2023-07-17T09:30:50.884+00:00', '2023-07-26T16:42:15.248+00:00', '2023-08-25T05:51:32.380+00:00', '2023-09-05T22:17:00.098+00:00', '2023-09-12T18:12:40.299+00:00', '2023-09-14T07:01:37.412+00:00']"
+family,20,"['Acanthuridae', 'Armadillidiidae', 'Campanulaceae', 'Cricetidae', 'Cyperaceae', 'Dryopteridaceae', 'Equisetaceae', 'Erebidae', 'Fabaceae', 'Gentianaceae', 'Geometridae', 'Noctuidae', 'Plantaginaceae', 'Santalaceae', 'Scapaniaceae']"
+dateIdentified,5,"['1968-07-01T00:00:00', '2010-10-26T00:00:00', '2011-05-12T00:00:00', '2014-01-01T00:00:00', '2017-02-27T00:00:00']"
+datasetName,4,"['Royal Botanic Gardens Herbarium Specimen Register', 'Vascular plants']"
+publishingCountry,19,"['AU', 'CH', 'FR', 'GB', 'US']"
+modified,4,"['2015-03-07T07:51:00.000+00:00', '2021-12-24T06:26:33.000+00:00', '2022-04-21T04:19:30.280+00:00', '2023-06-29T17:11:02.000+00:00']"
+collectionCode,8,"['BioNet Atlas of NSW Wildlife', 'DSS00564000000KH', 'Fishes', 'Mammals', 'NSW', 'NY']"
+http://unknown.org/zone,0,[]
+acceptedTaxonKey,20,"[1761111, 1770307, 1782672, 1798408, 1957845, 2203639, 2438517, 2687932, 2689220, 2730210, 2957966, 2962021, 3168943, 4533431, 5209181, 5710147, 7270598, 7319269, 7592136, 8158000]"
+extensions.http://rs.gbif.org/terms/1.0/Multimedia.http://purl.org/dc/terms/format,0,[]
+occurrenceRemarks,3,"['2015-03-07T01:51-0600', 'Field record / observation', 'occurrenceRemarks withheld']"
+dynamicProperties,1,"['{mechanicalHazardReductionDescription:N/A,geogExtent:N/A,mapSheetNumber:9034 - MURRURUNDI,botanicalDivision:North Western Slopes,floraReserve:N/A,speciesFireDescription:N/A,vulnerability:N/A,protectedInNSW:false,bfmcs:N/A,potentialImpact:N/A,observationType:Flora Record,profileID:N/A,reserve:N/A,sourceDatasetName:Royal Botanic Gardens Herbarium Specimen Register,ibra:Brigalow Belt South (NSW),stateForest:N/A,status:Valid and accepted without modification}']"

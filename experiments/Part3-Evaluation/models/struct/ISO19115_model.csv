@@ -1,0 +1,73 @@
+,count,values
+MD_Metadata.distributionInfo.MD_Distribution.transferOptions.MD_DigitalTransferOptions.onLine.CI_OnlineResource.protocol.CharacterString.@value,1,['WWW:LINK']
+MD_Metadata.identificationInfo.MD_DataIdentification.pointOfContact.CI_ResponsibleParty.contactInfo.CI_Contact.address.CI_Address.country.CharacterString.@value,1,['France']
+MD_Metadata.identificationInfo.MD_DataIdentification.descriptiveKeywords.MD_Keywords.thesaurusName.CI_Citation.date.CI_Date.date.Date.@value,1,"['2017-10-02', '2018-10-23', '2018-11-19', '2018-12-14']"
+MD_Metadata.identificationInfo.MD_DataIdentification.pointOfContact.CI_ResponsibleParty.contactInfo.CI_Contact.address.CI_Address.city.CharacterString.@value,1,['Brest']
+MD_Metadata.identificationInfo.MD_DataIdentification.pointOfContact.CI_ResponsibleParty.contactInfo.CI_Contact.phone.CI_Telephone.voice.CharacterString.@value,1,['02 98 22 46 91']
+MD_Metadata.identificationInfo.MD_DataIdentification.citation.CI_Citation.date.CI_Date.dateType.CI_DateTypeCode.codeList,1,['http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode']
+MD_Metadata.distributionInfo.MD_Distribution.distributionFormat.MD_Format.version.nilReason,1,['unknown']
+MD_Metadata.identificationInfo.MD_DataIdentification.resourceConstraints.MD_LegalConstraints.useLimitation.CharacterString.@value,1,['Aucune condition ne s’applique']
+MD_Metadata.identificationInfo.MD_DataIdentification.spatialRepresentationType.MD_SpatialRepresentationTypeCode.codeList,1,['http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_SpatialRepresentationTypeCode']
+MD_Metadata.identificationInfo.MD_DataIdentification.descriptiveKeywords.MD_Keywords.thesaurusName.CI_Citation.identifier.MD_Identifier.code.Anchor.@value,1,"['geonetwork.thesaurus.local.theme.odatis_centre_donnees', 'geonetwork.thesaurus.local.theme.odatis_thematiques', 'geonetwork.thesaurus.local.theme.odatis_variables', 'geonetwork.thesaurus.local.theme.type_jeux_donnee']"
+MD_Metadata.metadataStandardName.CharacterString.@value,1,['ISO 19115:2003/19139 - SEXTANT']
+MD_Metadata.identificationInfo.MD_DataIdentification.extent.EX_Extent.geographicElement.EX_GeographicBoundingBox.northBoundLatitude.Decimal.@value,1,['90']
+MD_Metadata.dataQualityInfo.DQ_DataQuality.scope.DQ_Scope.level.MD_ScopeCode.codeListValue,1,['dataset']
+MD_Metadata.characterSet.MD_CharacterSetCode.codeListValue,1,['utf8']
+MD_Metadata.distributionInfo.MD_Distribution.transferOptions.MD_DigitalTransferOptions.onLine.CI_OnlineResource.function.CI_OnLineFunctionCode.codeList,1,['http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode']
+MD_Metadata.identificationInfo.MD_DataIdentification.resourceConstraints.MD_LegalConstraints.useConstraints.MD_RestrictionCode.codeList,1,['http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode']
+MD_Metadata.identificationInfo.MD_DataIdentification.characterSet.MD_CharacterSetCode.codeListValue,1,['utf8']
+MD_Metadata.dataQualityInfo.DQ_DataQuality.scope.DQ_Scope.level.MD_ScopeCode.codeList,1,['http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode']
+MD_Metadata.identificationInfo.MD_DataIdentification.pointOfContact.CI_ResponsibleParty.organisationName.CharacterString.@value,1,['IFREMER']
+MD_Metadata.language.LanguageCode.codeListValue,1,['fre']
+MD_Metadata.distributionInfo.MD_Distribution.transferOptions.MD_DigitalTransferOptions.onLine.CI_OnlineResource.function.CI_OnLineFunctionCode.codeListValue,1,['information']
+MD_Metadata.identificationInfo.MD_DataIdentification.descriptiveKeywords.MD_Keywords.thesaurusName.CI_Citation.title.CharacterString.@value,1,"['Centre de données ODATIS', 'Thèmatiques ODATIS', 'Type de jeux de donnée ODATIS', 'Variables ODATIS']"
+MD_Metadata.identificationInfo.MD_DataIdentification.extent.EX_Extent.geographicElement.EX_GeographicBoundingBox.eastBoundLongitude.Decimal.@value,1,['180']
+MD_Metadata.identificationInfo.MD_DataIdentification.abstract.CharacterString.@value,1,['This products provides the sea-ice drift calculated over a three day rolling window during winter time (October to April) over Arctic ocean from AMSR-E microwave radiometer onboard AQUA']
+MD_Metadata.dataQualityInfo.DQ_DataQuality.lineage.LI_Lineage.statement.CharacterString.@value,1,"['This product provides users with a continuous winter (Oct-April) time series of drift vectors over Arctic. These drift vectors are provided on a polar stereographic grid every 31.25 km, over  a 3-days overlapping time period. It is a merging of the sea-ice drift vectors retrieved separately using respectively the H and V AMSR-E polarizations channels (from winter 2002-2003) observations. The estimation of sea-ice drift for each one relies on a basic correlation technique applied to the field of the second spatial derivative (Laplacian) of 6.25km resolution composite maps separated by a few days (brightness temperature).']"
+MD_Metadata.identificationInfo.MD_DataIdentification.pointOfContact.CI_ResponsibleParty.contactInfo.CI_Contact.address.CI_Address.deliveryPoint.CharacterString.@value,1,['Centre Bretagne - ZI de la Pointe du Diable - CS 10070 - 29280 Plouzané']
+MD_Metadata.identificationInfo.MD_DataIdentification.topicCategory.MD_TopicCategoryCode.@value,1,['oceans']
+MD_Metadata.identificationInfo.MD_DataIdentification.characterSet.MD_CharacterSetCode.codeList,1,['http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode']
+MD_Metadata.distributionInfo.MD_Distribution.transferOptions.MD_DigitalTransferOptions.onLine.CI_OnlineResource.name.CharacterString.@value,1,"['CERSAT Catalogue', 'User Manual']"
+MD_Metadata.identificationInfo.MD_DataIdentification.extent.EX_Extent.temporalElement.EX_TemporalExtent.extent.TimePeriod.endPosition.@value,1,['2011-04-30']
+MD_Metadata.identificationInfo.MD_DataIdentification.spatialRepresentationType.MD_SpatialRepresentationTypeCode.codeListValue,1,['grid']
+MD_Metadata.hierarchyLevel.MD_ScopeCode.codeList,1,['http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode']
+MD_Metadata.identificationInfo.MD_DataIdentification.pointOfContact.CI_ResponsibleParty.contactInfo.CI_Contact.address.CI_Address.electronicMailAddress.CharacterString.@value,1,"['Fanny.Ardhuin@ifremer.fr', 'Jean.Francois.Piolle@ifremer.fr']"
+MD_Metadata.spatialRepresentationInfo.MD_VectorSpatialRepresentation.geometricObjects.MD_GeometricObjects.geometricObjectType.MD_GeometricObjectTypeCode.codeListValue,1,['surface']
+MD_Metadata.identificationInfo.MD_DataIdentification.extent.EX_Extent.geographicElement.EX_GeographicBoundingBox.westBoundLongitude.Decimal.@value,1,['-180']
+MD_Metadata.characterSet.MD_CharacterSetCode.codeList,1,['http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode']
+MD_Metadata.identificationInfo.MD_DataIdentification.resourceConstraints.MD_LegalConstraints.useConstraints.MD_RestrictionCode.codeListValue,1,['copyright']
+MD_Metadata.identificationInfo.MD_DataIdentification.descriptiveKeywords.MD_Keywords.type.MD_KeywordTypeCode.codeList,1,['http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode']
+MD_Metadata.hierarchyLevel.MD_ScopeCode.codeListValue,1,['dataset']
+MD_Metadata.identificationInfo.MD_DataIdentification.citation.CI_Citation.date.CI_Date.dateType.CI_DateTypeCode.codeListValue,1,['publication']
+MD_Metadata.identificationInfo.MD_DataIdentification.language.LanguageCode.codeList,1,['http://www.loc.gov/standards/iso639-2/']
+MD_Metadata.identificationInfo.MD_DataIdentification.resourceConstraints.MD_LegalConstraints.otherConstraints.nilReason,1,['missing']
+MD_Metadata.identificationInfo.MD_DataIdentification.descriptiveKeywords.MD_Keywords.keyword.CharacterString.@value,1,"[""/Physique de l'Océan/Glace de mer"", '/Télédétection', 'CDS-SAT-CERSAT', 'Sea Ice', 'Télédétection']"
+MD_Metadata.identificationInfo.MD_DataIdentification.descriptiveKeywords.MD_Keywords.type.MD_KeywordTypeCode.codeListValue,1,"['', 'theme']"
+MD_Metadata.language.LanguageCode.codeList,1,['http://www.loc.gov/standards/iso639-2/']
+MD_Metadata.identificationInfo.MD_DataIdentification.resourceConstraints.MD_LegalConstraints.accessConstraints.MD_RestrictionCode.codeList,1,['http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode']
+MD_Metadata.identificationInfo.MD_DataIdentification.citation.CI_Citation.title.CharacterString.@value,1,['3-Daily Sea-Ice Drift Vectors from ASMR-E onboard AQUA over Arctic on a 31.25 km Polar Grid']
+MD_Metadata.spatialRepresentationInfo.MD_VectorSpatialRepresentation.geometricObjects.MD_GeometricObjects.geometricObjectType.MD_GeometricObjectTypeCode.codeList,1,['http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_GeometricObjectTypeCode']
+MD_Metadata.identificationInfo.MD_DataIdentification.spatialResolution.MD_Resolution.distance.Distance.uom,1,['km']
+MD_Metadata.identificationInfo.MD_DataIdentification.pointOfContact.CI_ResponsibleParty.role.CI_RoleCode.codeListValue,1,"['author', 'custodian']"
+MD_Metadata.identificationInfo.MD_DataIdentification.descriptiveKeywords.MD_Keywords.keyword.nilReason,1,['missing']
+MD_Metadata.dateStamp.DateTime.@value,1,['2019-03-21T09:40:20']
+MD_Metadata.identificationInfo.MD_DataIdentification.citation.CI_Citation.date.CI_Date.date.Date.@value,1,['2007-02-02']
+MD_Metadata.identificationInfo.MD_DataIdentification.descriptiveKeywords.MD_Keywords.thesaurusName.CI_Citation.identifier.MD_Identifier.code.Anchor.href,1,"['https://sextant.ifremer.fr/geonetwork/srv/eng/thesaurus.download?ref=local.theme.odatis_centre_donnees', 'https://sextant.ifremer.fr/geonetwork/srv/eng/thesaurus.download?ref=local.theme.odatis_thematiques', 'https://sextant.ifremer.fr/geonetwork/srv/eng/thesaurus.download?ref=local.theme.odatis_variables', 'https://sextant.ifremer.fr/geonetwork/srv/eng/thesaurus.download?ref=local.theme.type_jeux_donnee']"
+MD_Metadata.identificationInfo.MD_DataIdentification.pointOfContact.CI_ResponsibleParty.role.CI_RoleCode.codeList,1,['http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode']
+MD_Metadata.identificationInfo.MD_DataIdentification.pointOfContact.CI_ResponsibleParty.individualName.CharacterString.@value,1,"['Ardhuin Fanny', 'Piolle Jean-Francois']"
+MD_Metadata.identificationInfo.MD_DataIdentification.graphicOverview.MD_BrowseGraphic.fileName.CharacterString.@value,1,['https://sextant.ifremer.fr/geonetwork/srv/api/records/04315e23-027b-4abe-a154-b0c4d17fed7a/attachments/20110405-20110408.png']
+MD_Metadata.identificationInfo.MD_DataIdentification.extent.EX_Extent.temporalElement.EX_TemporalExtent.extent.TimePeriod.beginPosition.@value,1,['2002-10-01']
+MD_Metadata.identificationInfo.MD_DataIdentification.descriptiveKeywords.MD_Keywords.thesaurusName.CI_Citation.date.CI_Date.dateType.CI_DateTypeCode.codeListValue,1,['publication']
+MD_Metadata.distributionInfo.MD_Distribution.transferOptions.MD_DigitalTransferOptions.onLine.CI_OnlineResource.linkage.URL.@value,1,"['ftp://ftp.ifremer.fr/ifremer/cersat/products/gridded/psi-drift/documentation/amsr.pdf', 'http://cersat.ifremer.fr/data/products/catalogue']"
+MD_Metadata.identificationInfo.MD_DataIdentification.descriptiveKeywords.MD_Keywords.thesaurusName.CI_Citation.date.CI_Date.dateType.CI_DateTypeCode.codeList,1,['http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode']
+MD_Metadata.identificationInfo.MD_DataIdentification.citation.CI_Citation.identifier.MD_Identifier.code.CharacterString.@value,1,['CER_PSI_ARC_3D_031_DFT_AMS']
+MD_Metadata.identificationInfo.MD_DataIdentification.pointOfContact.CI_ResponsibleParty.uuid,1,"['https://annuaire.ifremer.fr/cv/16502/', 'https://annuaire.ifremer.fr/cv/16881/']"
+MD_Metadata.identificationInfo.MD_DataIdentification.credit.CharacterString.@value,1,"['CERSAT, Ifremer']"
+MD_Metadata.identificationInfo.MD_DataIdentification.pointOfContact.CI_ResponsibleParty.contactInfo.CI_Contact.phone.CI_Telephone.facsimile.CharacterString.@value,1,['02 98 22 45 33']
+MD_Metadata.identificationInfo.MD_DataIdentification.resourceConstraints.MD_LegalConstraints.accessConstraints.MD_RestrictionCode.codeListValue,1,['otherRestrictions']
+MD_Metadata.identificationInfo.MD_DataIdentification.extent.EX_Extent.geographicElement.EX_GeographicBoundingBox.southBoundLatitude.Decimal.@value,1,['60']
+MD_Metadata.distributionInfo.MD_Distribution.distributionFormat.MD_Format.name.nilReason,1,['missing']
+MD_Metadata.metadataStandardVersion.CharacterString.@value,1,['1.0']
+MD_Metadata.identificationInfo.MD_DataIdentification.language.LanguageCode.codeListValue,1,['fre']
+MD_Metadata.identificationInfo.MD_DataIdentification.extent.EX_Extent.temporalElement.EX_TemporalExtent.extent.TimePeriod.id,1,['d29477073e393a1052958']
+MD_Metadata.fileIdentifier.CharacterString.@value,1,['04315e23-027b-4abe-a154-b0c4d17fed7a']

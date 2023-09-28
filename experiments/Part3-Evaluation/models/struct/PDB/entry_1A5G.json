@@ -1,0 +1,606 @@
+{
+  "audit_author": [
+    {
+      "name": "St Charles, R.",
+      "pdbx_ordinal": 1
+    },
+    {
+      "name": "Tulinsky, A.",
+      "pdbx_ordinal": 2
+    },
+    {
+      "name": "Kahn, M.",
+      "pdbx_ordinal": 3
+    }
+  ],
+  "cell": {
+    "angle_alpha": 90.0,
+    "angle_beta": 100.8,
+    "angle_gamma": 90.0,
+    "length_a": 70.81,
+    "length_b": 72.25,
+    "length_c": 72.79,
+    "zpdb": 4
+  },
+  "citation": [
+    {
+      "country": "US",
+      "id": "primary",
+      "journal_abbrev": "J.Med.Chem.",
+      "journal_id_astm": "JMCMAR",
+      "journal_id_csd": "0151",
+      "journal_id_issn": "0022-2623",
+      "journal_volume": "42",
+      "page_first": "1376",
+      "page_last": "1383",
+      "pdbx_database_id_doi": "10.1021/jm980052n",
+      "pdbx_database_id_pub_med": 10212123,
+      "rcsb_authors": [
+        "St Charles, R.",
+        "Matthews, J.H.",
+        "Zhang, E.",
+        "Tulinsky, A."
+      ],
+      "rcsb_is_primary": "Y",
+      "rcsb_journal_abbrev": "J Med Chem",
+      "title": "Bound structures of novel P3-P1' beta-strand mimetic inhibitors of thrombin.",
+      "year": 1999
+    },
+    {
+      "country": "UK",
+      "id": "1",
+      "journal_abbrev": "Protein Eng.",
+      "journal_id_astm": "PRENE9",
+      "journal_id_csd": "0859",
+      "journal_id_issn": "0269-2139",
+      "journal_volume": "6",
+      "page_first": "471",
+      "rcsb_authors": [
+        "Wu, T.P.",
+        "Yee, V.",
+        "Tulinsky, A.",
+        "Chrusciel, R.A.",
+        "Nakanishi, H.",
+        "Shen, R.",
+        "Priebe, C.",
+        "Kahn, M."
+      ],
+      "rcsb_is_primary": "N",
+      "rcsb_journal_abbrev": "Protein Eng",
+      "title": "The Structure of a Designed Peptidomimetic Inhibitor Complex of Alpha-Thrombin",
+      "year": 1993
+    },
+    {
+      "country": "UK",
+      "id": "2",
+      "journal_abbrev": "Blood Coagulation Fibrinolysis",
+      "journal_id_astm": "BLFIE7",
+      "journal_id_csd": "0796",
+      "journal_id_issn": "0957-5235",
+      "journal_volume": "4",
+      "page_first": "305",
+      "rcsb_authors": [
+        "Tulinsky, A.",
+        "Qiu, X."
+      ],
+      "rcsb_is_primary": "N",
+      "rcsb_journal_abbrev": "Blood Coagul Fibrinolysis",
+      "title": "Active Site and Exosite Binding of Alpha-Thrombin",
+      "year": 1993
+    }
+  ],
+  "diffrn": [
+    {
+      "ambient_temp": 273.0,
+      "crystal_id": "1",
+      "id": "1"
+    }
+  ],
+  "diffrn_detector": [
+    {
+      "detector": "IMAGE PLATE",
+      "diffrn_id": "1",
+      "pdbx_collection_date": "1996-10-15T00:00:00+0000",
+      "type": "RIGAKU"
+    }
+  ],
+  "diffrn_radiation": [
+    {
+      "diffrn_id": "1",
+      "monochromator": "NI FILTER",
+      "pdbx_monochromatic_or_laue_ml": "M",
+      "pdbx_scattering_type": "x-ray",
+      "wavelength_id": "1"
+    }
+  ],
+  "diffrn_source": [
+    {
+      "diffrn_id": "1",
+      "pdbx_wavelength": "1.5418",
+      "source": "ROTATING ANODE",
+      "type": "RIGAKU RUH2R"
+    }
+  ],
+  "entry": {
+    "id": "1A5G"
+  },
+  "exptl": [
+    {
+      "crystals_number": 1,
+      "method": "X-RAY DIFFRACTION"
+    }
+  ],
+  "exptl_crystal": [
+    {
+      "density_matthews": 2.6,
+      "density_percent_sol": 49.0,
+      "id": "1"
+    }
+  ],
+  "exptl_crystal_grow": [
+    {
+      "crystal_id": "1",
+      "p_h": 7.3,
+      "pdbx_details": "PROTEIN WAS CRYSTALLIZED FROM 15% PEG 8000, 75 MM NAPO4, PH 7.3, 187 MM NACL, 1 MM NAN3; THEN SOAKED IN 7 MM INHIBITOR."
+    }
+  ],
+  "pdbx_audit_revision_details": [
+    {
+      "data_content_type": "Structure model",
+      "ordinal": 1,
+      "provider": "repository",
+      "revision_ordinal": 1,
+      "type": "Initial release"
+    }
+  ],
+  "pdbx_audit_revision_group": [
+    {
+      "data_content_type": "Structure model",
+      "group": "Version format compliance",
+      "ordinal": 1,
+      "revision_ordinal": 2
+    },
+    {
+      "data_content_type": "Structure model",
+      "group": "Atomic model",
+      "ordinal": 2,
+      "revision_ordinal": 3
+    },
+    {
+      "data_content_type": "Structure model",
+      "group": "Database references",
+      "ordinal": 3,
+      "revision_ordinal": 3
+    },
+    {
+      "data_content_type": "Structure model",
+      "group": "Derived calculations",
+      "ordinal": 4,
+      "revision_ordinal": 3
+    },
+    {
+      "data_content_type": "Structure model",
+      "group": "Non-polymer description",
+      "ordinal": 5,
+      "revision_ordinal": 3
+    },
+    {
+      "data_content_type": "Structure model",
+      "group": "Structure summary",
+      "ordinal": 6,
+      "revision_ordinal": 3
+    },
+    {
+      "data_content_type": "Structure model",
+      "group": "Version format compliance",
+      "ordinal": 7,
+      "revision_ordinal": 3
+    },
+    {
+      "data_content_type": "Structure model",
+      "group": "Other",
+      "ordinal": 8,
+      "revision_ordinal": 4
+    }
+  ],
+  "pdbx_audit_revision_history": [
+    {
+      "data_content_type": "Structure model",
+      "major_revision": 1,
+      "minor_revision": 0,
+      "ordinal": 1,
+      "revision_date": "1998-05-27T00:00:00+0000"
+    },
+    {
+      "data_content_type": "Structure model",
+      "major_revision": 1,
+      "minor_revision": 1,
+      "ordinal": 2,
+      "revision_date": "2008-03-24T00:00:00+0000"
+    },
+    {
+      "data_content_type": "Structure model",
+      "major_revision": 1,
+      "minor_revision": 2,
+      "ordinal": 3,
+      "revision_date": "2011-07-13T00:00:00+0000"
+    },
+    {
+      "data_content_type": "Structure model",
+      "major_revision": 1,
+      "minor_revision": 3,
+      "ordinal": 4,
+      "revision_date": "2012-12-12T00:00:00+0000"
+    }
+  ],
+  "pdbx_database_status": {
+    "pdb_format_compatible": "Y",
+    "recvd_initial_deposition_date": "1998-02-16T00:00:00+0000",
+    "status_code": "REL"
+  },
+  "pdbx_molecule_features": [
+    {
+      "name": "MOL-126",
+      "prd_id": "PRD_000618",
+      "type": "Peptide-like",
+      "class_": "Thrombin inhibitor"
+    }
+  ],
+  "pdbx_vrpt_summary": {
+    "pdb_r": 0.16,
+    "absolute_percentile_clashscore": 5.0,
+    "absolute_percentile_percent_ramachandran_outliers": 6.3,
+    "absolute_percentile_percent_rotamer_outliers": 10.6,
+    "angles_rmsz": 2.01,
+    "attempted_validation_steps": "molprobity,validation-pack,mogul,buster-report,percentiles,writexml",
+    "bonds_rmsz": 1.09,
+    "clashscore": 26.96,
+    "high_resol_relative_percentile_clashscore": 2.04,
+    "high_resol_relative_percentile_percent_ramachandran_outliers": 2.04,
+    "high_resol_relative_percentile_percent_rotamer_outliers": 2.04,
+    "ligands_for_buster_report": "yes",
+    "low_resol_relative_percentile_clashscore": 2.08,
+    "low_resol_relative_percentile_percent_ramachandran_outliers": 2.08,
+    "low_resol_relative_percentile_percent_rotamer_outliers": 2.08,
+    "num_hreduce": 2332.0,
+    "num_pdbids_absolute_percentile_clashscore": 141614,
+    "num_pdbids_absolute_percentile_percent_ramachandran_outliers": 138981,
+    "num_pdbids_absolute_percentile_percent_rotamer_outliers": 138945,
+    "num_pdbids_relative_percentile_clashscore": 2801,
+    "num_pdbids_relative_percentile_percent_ramachandran_outliers": 2768,
+    "num_pdbids_relative_percentile_percent_rotamer_outliers": 2768,
+    "num_angles_rmsz": 3195,
+    "num_bonds_rmsz": 2372,
+    "percent_ramachandran_outliers": 2.16,
+    "percent_rotamer_outliers": 8.37,
+    "percentilebins": [
+      "all",
+      "2.06",
+      "xray"
+    ],
+    "protein_dnarnaentities": "1,2,3",
+    "relative_percentile_clashscore": 0.9,
+    "relative_percentile_percent_ramachandran_outliers": 1.1,
+    "relative_percentile_percent_rotamer_outliers": 4.4,
+    "report_creation_date": "May 29, 2020 -- 07:30 pm BST",
+    "restypes_notchecked_for_bond_angle_geometry": [
+      "NA",
+      "00L",
+      "TYS"
+    ],
+    "pdbdeposition_date": "1998-02-16T00:00:00+0000",
+    "pdbresolution": 2.06,
+    "pdbresolution_low": 7.0,
+    "pdbrevision_date": "2012-12-12T00:00:00+0000",
+    "pdbrevision_number": 4.0
+  },
+  "rcsb_accession_info": {
+    "deposit_date": "1998-02-16T00:00:00+0000",
+    "has_released_experimental_data": "N",
+    "initial_release_date": "1998-05-27T00:00:00+0000",
+    "major_revision": 1,
+    "minor_revision": 3,
+    "revision_date": "2012-12-12T00:00:00+0000",
+    "status_code": "REL"
+  },
+  "rcsb_entry_container_identifiers": {
+    "assembly_ids": [
+      "1"
+    ],
+    "entity_ids": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "entry_id": "1A5G",
+    "model_ids": [
+      1
+    ],
+    "non_polymer_entity_ids": [
+      "4",
+      "5"
+    ],
+    "polymer_entity_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "rcsb_id": "1A5G",
+    "pubmed_id": 10212123
+  },
+  "rcsb_entry_info": {
+    "assembly_count": 1,
+    "branched_entity_count": 0,
+    "cis_peptide_count": 1,
+    "deposited_atom_count": 2513,
+    "deposited_hydrogen_atom_count": 0,
+    "deposited_model_count": 1,
+    "deposited_modeled_polymer_monomer_count": 287,
+    "deposited_nonpolymer_entity_instance_count": 3,
+    "deposited_polymer_entity_instance_count": 3,
+    "deposited_polymer_monomer_count": 307,
+    "deposited_solvent_atom_count": 135,
+    "deposited_unmodeled_polymer_monomer_count": 20,
+    "diffrn_radiation_wavelength_maximum": 1.5418,
+    "diffrn_radiation_wavelength_minimum": 1.5418,
+    "disulfide_bond_count": 4,
+    "entity_count": 6,
+    "experimental_method": "X-ray",
+    "experimental_method_count": 1,
+    "inter_mol_covalent_bond_count": 3,
+    "inter_mol_metalic_bond_count": 12,
+    "molecular_weight": 36.04,
+    "na_polymer_entity_types": "Other",
+    "nonpolymer_bound_components": [
+      "00L",
+      "NA"
+    ],
+    "nonpolymer_entity_count": 2,
+    "nonpolymer_molecular_weight_maximum": 0.58,
+    "nonpolymer_molecular_weight_minimum": 0.02,
+    "polymer_composition": "heteromeric protein",
+    "polymer_entity_count": 3,
+    "polymer_entity_count_dna": 0,
+    "polymer_entity_count_rna": 0,
+    "polymer_entity_count_nucleic_acid": 0,
+    "polymer_entity_count_nucleic_acid_hybrid": 0,
+    "polymer_entity_count_protein": 3,
+    "polymer_entity_taxonomy_count": 3,
+    "polymer_molecular_weight_maximum": 29.78,
+    "polymer_molecular_weight_minimum": 1.53,
+    "polymer_monomer_count_maximum": 259,
+    "polymer_monomer_count_minimum": 12,
+    "resolution_combined": [
+      2.06
+    ],
+    "selected_polymer_entity_types": "Protein (only)",
+    "software_programs_combined": [
+      "PROFFT",
+      "R-AXIS"
+    ],
+    "solvent_entity_count": 1,
+    "structure_determination_methodology": "experimental",
+    "structure_determination_methodology_priority": 10,
+    "diffrn_resolution_high": {
+      "provenance_source": "Depositor assigned",
+      "value": 2.1
+    }
+  },
+  "rcsb_primary_citation": {
+    "country": "US",
+    "id": "primary",
+    "journal_abbrev": "J.Med.Chem.",
+    "journal_id_astm": "JMCMAR",
+    "journal_id_csd": "0151",
+    "journal_id_issn": "0022-2623",
+    "journal_volume": "42",
+    "page_first": "1376",
+    "page_last": "1383",
+    "pdbx_database_id_doi": "10.1021/jm980052n",
+    "pdbx_database_id_pub_med": 10212123,
+    "rcsb_authors": [
+      "St Charles, R.",
+      "Matthews, J.H.",
+      "Zhang, E.",
+      "Tulinsky, A."
+    ],
+    "rcsb_journal_abbrev": "J Med Chem",
+    "title": "Bound structures of novel P3-P1' beta-strand mimetic inhibitors of thrombin.",
+    "year": 1999
+  },
+  "refine": [
+    {
+      "ls_rfactor_rwork": 0.158,
+      "ls_dres_high": 2.06,
+      "ls_dres_low": 7.0,
+      "ls_number_reflns_obs": 14977,
+      "ls_percent_reflns_obs": 81.0,
+      "pdbx_diffrn_id": [
+        "1"
+      ],
+      "pdbx_ls_sigma_f": 4.0,
+      "pdbx_refine_id": "X-RAY DIFFRACTION",
+      "biso_mean": 30.0
+    }
+  ],
+  "refine_hist": [
+    {
+      "cycle_id": "LAST",
+      "d_res_high": 2.06,
+      "d_res_low": 7.0,
+      "number_atoms_solvent": 135,
+      "number_atoms_total": 2513,
+      "pdbx_number_atoms_ligand": 44,
+      "pdbx_number_atoms_nucleic_acid": 0,
+      "pdbx_number_atoms_protein": 2334,
+      "pdbx_refine_id": "X-RAY DIFFRACTION"
+    }
+  ],
+  "refine_ls_restr": [
+    {
+      "dev_ideal": 0.019,
+      "dev_ideal_target": 0.02,
+      "pdbx_refine_id": "X-RAY DIFFRACTION",
+      "type": "p_bond_d"
+    },
+    {
+      "dev_ideal": 0.043,
+      "dev_ideal_target": 0.03,
+      "pdbx_refine_id": "X-RAY DIFFRACTION",
+      "type": "p_angle_d"
+    },
+    {
+      "pdbx_refine_id": "X-RAY DIFFRACTION",
+      "type": "p_angle_deg"
+    },
+    {
+      "dev_ideal": 0.053,
+      "dev_ideal_target": 0.05,
+      "pdbx_refine_id": "X-RAY DIFFRACTION",
+      "type": "p_planar_d"
+    },
+    {
+      "pdbx_refine_id": "X-RAY DIFFRACTION",
+      "type": "p_hb_or_metal_coord"
+    },
+    {
+      "dev_ideal": 0.9,
+      "dev_ideal_target": 1.0,
+      "pdbx_refine_id": "X-RAY DIFFRACTION",
+      "type": "p_mcbond_it"
+    },
+    {
+      "dev_ideal": 1.6,
+      "dev_ideal_target": 1.5,
+      "pdbx_refine_id": "X-RAY DIFFRACTION",
+      "type": "p_mcangle_it"
+    },
+    {
+      "dev_ideal": 2.0,
+      "dev_ideal_target": 2.0,
+      "pdbx_refine_id": "X-RAY DIFFRACTION",
+      "type": "p_scbond_it"
+    },
+    {
+      "dev_ideal": 2.8,
+      "dev_ideal_target": 2.0,
+      "pdbx_refine_id": "X-RAY DIFFRACTION",
+      "type": "p_scangle_it"
+    },
+    {
+      "dev_ideal": 0.021,
+      "dev_ideal_target": 0.025,
+      "pdbx_refine_id": "X-RAY DIFFRACTION",
+      "type": "p_plane_restr"
+    },
+    {
+      "dev_ideal": 0.2,
+      "dev_ideal_target": 0.15,
+      "pdbx_refine_id": "X-RAY DIFFRACTION",
+      "type": "p_chiral_restr"
+    },
+    {
+      "dev_ideal": 0.22,
+      "dev_ideal_target": 0.6,
+      "pdbx_refine_id": "X-RAY DIFFRACTION",
+      "type": "p_singtor_nbd"
+    },
+    {
+      "dev_ideal": 0.26,
+      "dev_ideal_target": 0.6,
+      "pdbx_refine_id": "X-RAY DIFFRACTION",
+      "type": "p_multtor_nbd"
+    },
+    {
+      "pdbx_refine_id": "X-RAY DIFFRACTION",
+      "type": "p_xhyhbond_nbd"
+    },
+    {
+      "dev_ideal": 0.27,
+      "dev_ideal_target": 0.6,
+      "pdbx_refine_id": "X-RAY DIFFRACTION",
+      "type": "p_xyhbond_nbd"
+    },
+    {
+      "dev_ideal": 4.0,
+      "dev_ideal_target": 3.0,
+      "pdbx_refine_id": "X-RAY DIFFRACTION",
+      "type": "p_planar_tor"
+    },
+    {
+      "dev_ideal": 21.0,
+      "dev_ideal_target": 15.0,
+      "pdbx_refine_id": "X-RAY DIFFRACTION",
+      "type": "p_staggered_tor"
+    },
+    {
+      "pdbx_refine_id": "X-RAY DIFFRACTION",
+      "type": "p_orthonormal_tor"
+    },
+    {
+      "dev_ideal": 31.0,
+      "dev_ideal_target": 20.0,
+      "pdbx_refine_id": "X-RAY DIFFRACTION",
+      "type": "p_transverse_tor"
+    },
+    {
+      "pdbx_refine_id": "X-RAY DIFFRACTION",
+      "type": "p_special_tor"
+    }
+  ],
+  "reflns": [
+    {
+      "d_resolution_high": 2.1,
+      "number_obs": 18339,
+      "observed_criterion_sigma_i": 2.0,
+      "pdbx_rmerge_iobs": 0.072,
+      "pdbx_diffrn_id": [
+        "1"
+      ],
+      "pdbx_ordinal": 1,
+      "pdbx_redundancy": 2.1,
+      "percent_possible_obs": 81.0
+    }
+  ],
+  "software": [
+    {
+      "classification": "data collection",
+      "name": "R-AXIS",
+      "pdbx_ordinal": 1,
+      "version": "II"
+    },
+    {
+      "classification": "data reduction",
+      "name": "R-AXIS",
+      "pdbx_ordinal": 2,
+      "version": "II"
+    },
+    {
+      "classification": "refinement",
+      "name": "PROFFT",
+      "pdbx_ordinal": 3
+    },
+    {
+      "classification": "data scaling",
+      "name": "R-AXIS",
+      "pdbx_ordinal": 4,
+      "version": "II"
+    }
+  ],
+  "struct": {
+    "pdbx_descriptor": "ALPHA-THROMBIN, HIRUGEN, MOL126, N-PHENETHYL-FORMAMIDE",
+    "title": "HUMAN THROMBIN COMPLEXED WITH NOVEL SYNTHETIC PEPTIDE MIMETIC INHIBITOR AND HIRUGEN"
+  },
+  "struct_keywords": {
+    "pdbx_keywords": "HYDROLASE/HYDROLASE INHIBITOR",
+    "text": "COMPLEX (SERINE PROTEASE-INHIBITOR), HYDROLASE-HYDROLASE INHIBITOR COMPLEX"
+  },
+  "symmetry": {
+    "int_tables_number": 5,
+    "space_group_name_hm": "C 1 2 1"
+  },
+  "rcsb_id": "1A5G"
+}

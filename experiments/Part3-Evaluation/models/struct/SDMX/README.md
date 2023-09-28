@@ -1,0 +1,1 @@
+see : https://github.com/sdmx-twg/sdmx-json/tree/master/metadata-message/samples

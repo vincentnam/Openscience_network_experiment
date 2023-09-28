@@ -1,0 +1,96 @@
+{
+  "acceptedScientificName": "Scapania nemorea (L.) Grolle",
+  "acceptedTaxonKey": 2689220,
+  "associatedReferences": "2e s\u00e9r., XIV - 1899 - Les muscin\u00e9es d'Auvergne",
+  "basisOfRecord": "HUMAN_OBSERVATION",
+  "class": "Jungermanniopsida",
+  "classKey": 126,
+  "continent": "EUROPE",
+  "coordinateUncertaintyInMeters": 51572.0,
+  "country": "France",
+  "countryCode": "FR",
+  "county": "Cantal",
+  "crawlId": 22,
+  "datasetID": "2942baaf-9192-48b2-9cd6-b6054f9a8b11",
+  "datasetKey": "8cec13a3-9f7f-435f-b750-bf79ce5368ae",
+  "dateIdentified": "2010-10-26T00:00:00",
+  "day": 1,
+  "decimalLatitude": 45.05107,
+  "decimalLongitude": 2.66864,
+  "eventDate": "1899-01-01T00:00:00",
+  "eventID": "002a76b7-0933-4037-b555-9f32d20a0763",
+  "extensions": {},
+  "facts": [],
+  "family": "Scapaniaceae",
+  "familyKey": 6129,
+  "gadm": {
+    "level0": {
+      "gid": "FRA",
+      "name": "France"
+    },
+    "level1": {
+      "gid": "FRA.1_1",
+      "name": "Auvergne-Rh\u00f4ne-Alpes"
+    },
+    "level2": {
+      "gid": "FRA.1.4_1",
+      "name": "Cantal"
+    },
+    "level3": {
+      "gid": "FRA.1.4.1_1",
+      "name": "Aurillac"
+    }
+  },
+  "gbifID": "3937948413",
+  "genericName": "Scapania",
+  "genus": "Scapania",
+  "genusKey": 2689215,
+  "geodeticDatum": "WGS84",
+  "hostingOrganizationKey": "1928bdf0-f5d2-11dc-8c12-b8a03c50a862",
+  "http://unknown.org/language": "fr | en",
+  "identificationVerificationStatus": "Non r\u00e9alisable",
+  "identifiedByIDs": [],
+  "identifier": "002a76b7-0933-4037-b555-9f32d20a0763",
+  "identifiers": [
+    {
+      "identifier": "002a76b7-0933-4037-b555-9f32d20a0763"
+    }
+  ],
+  "installationKey": "e44d0fd7-0edf-477f-aa82-50a81836ab46",
+  "isInCluster": false,
+  "issues": [
+    "CONTINENT_DERIVED_FROM_COORDINATES"
+  ],
+  "iucnRedListCategory": "NE",
+  "key": 3937948413,
+  "kingdom": "Plantae",
+  "kingdomKey": 6,
+  "lastCrawled": "2023-03-07T18:38:31.889+00:00",
+  "lastInterpreted": "2023-08-26T03:46:06.909+00:00",
+  "lastParsed": "2023-08-26T03:46:06.909+00:00",
+  "license": "http://creativecommons.org/licenses/by/4.0/legalcode",
+  "media": [],
+  "month": 1,
+  "nameAccordingTo": "Gargominy O (2021). TAXREF. Version 4.7. UMS PatriNat (OFB-CNRS-MNHN), Paris. Checklist dataset https://doi.org/10.15468/vqueam accessed via GBIF.org on 2021-06-28.",
+  "occurrenceID": "002a76b7-0933-4037-b555-9f32d20a0763",
+  "occurrenceStatus": "PRESENT",
+  "order": "Jungermanniales",
+  "orderKey": 381,
+  "originalNameUsage": "Scapania nemorosa Dum. Form. gemmipara (Hook.)",
+  "phylum": "Marchantiophyta",
+  "phylumKey": 9,
+  "protocol": "DWC_ARCHIVE",
+  "publishingCountry": "FR",
+  "publishingOrgKey": "1928bdf0-f5d2-11dc-8c12-b8a03c50a862",
+  "recordedByIDs": [],
+  "relations": [],
+  "scientificName": "Scapania nemorea (L.) Grolle",
+  "species": "Scapania nemorea",
+  "speciesKey": 2689220,
+  "specificEpithet": "nemorea",
+  "taxonID": "6529",
+  "taxonKey": 2689220,
+  "taxonRank": "SPECIES",
+  "taxonomicStatus": "ACCEPTED",
+  "year": 1899
+}

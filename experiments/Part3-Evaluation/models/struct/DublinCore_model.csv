@@ -1,0 +1,17 @@
+,count,values
+metadata.subject.@value,1,"['\n    061(410)\n  ', '\n    062\n  ', '\n    national centre, network information support, library\n    community, awareness, research, information services,public\n    library networking, bibliographic management, distributed\n    library systems, metadata, resource discovery,\n    conferences,lectures, workshops\n  ']"
+metadata.alternative.@value,1,['\n    UK Office for Library and Information Networking\n  ']
+metadata.publisher.@value,1,"['\n    UKOLN, University of Bath\n  ']"
+metadata.format.@value,1,['\n    text/html\n  ']
+metadata.isPartOf.type,1,['dcterms:URI']
+metadata.identifier.@value,1,['\n    http://www.ukoln.ac.uk/\n  ']
+metadata.identifier.type,1,['dcterms:URI']
+metadata.description.lang,1,['fr']
+metadata.isPartOf.@value,1,['\n    http://www.bath.ac.uk/\n  ']
+metadata.description.@value,1,"[""\n    UKOLN est un centre national d'expertise dans la gestion de l'information\n    digitale.\n  "", '\n    UKOLN is a national focus of expertise in digital information\n    management. It provides policy, research and awareness services\n    to the UK library, information and cultural heritage communities.\n    UKOLN is based at the University of Bath.\n  ']"
+metadata.extent.@value,1,['\n    14 Kbytes\n  ']
+metadata.modified.@value,1,['\n    2001-07-18\n  ']
+metadata.subject.type,1,"['dcterms:DDC', 'dcterms:UDC']"
+metadata.title.@value,1,['\n    UKOLN\n  ']
+metadata.format.type,1,['dcterms:IMT']
+metadata.modified.type,1,['dcterms:W3CDTF']

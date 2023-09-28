@@ -1,0 +1,27 @@
+,count,values
+SimpleProcess.parameters.ParameterList.parameter.DataRecord.field.name,1,"['positionOrientationState', 'radialDistortion']"
+SimpleProcess.parameters.ParameterList.parameter.DataRecord.field.DataRecord.field.DataArray.elementType.DataRecord.field.Quantity.label.@value,1,"['k0', 'k1', 'k2', 'k3', 'k4']"
+SimpleProcess.name.@value,1,['Sensor Model Test']
+SimpleProcess.parameters.ParameterList.parameter.DataRecord.field.DataRecord.label.@value,1,"['Radial Distortion', 'Sensor Position Orientation State']"
+SimpleProcess.parameters.ParameterList.parameter.DataRecord.field.DataRecord.field.DataArray.elementType.Vector.description.@value,1,"['\n\t\t\t\t\t\t\t\t\t\t\t\tSensor Perspective Center.\n\t\t\t\t\t\t\t\t        \t\tSensor perspective lens (L) center coordinate (X,Y,Z)(L)\n\t\t\t\t\t\t\t\t        \t\tat image collection time, in geocentric CS\n                                                Format: 3 comma-separated numbers X,Y,Z\n\t\t\t\t\t\t\t\t        \t']"
+SimpleProcess.parameters.ParameterList.parameter.DataRecord.field.DataRecord.field.name,1,"['coefficients', 'perspectiveCenter']"
+SimpleProcess.parameters.ParameterList.parameter.DataRecord.field.DataRecord.field.DataArray.elementType.DataRecord.field.name,1,"['k0', 'k1', 'k2', 'k3', 'k4']"
+SimpleProcess.parameters.ParameterList.parameter.DataRecord.label.@value,1,"['FSMMG Parameters Valid For Current Image', 'FSMMG Parameters Valid Over Current Imaging Session']"
+SimpleProcess.parameters.ParameterList.parameter.DataRecord.field.DataRecord.field.DataArray.encoding.TextEncoding.blockSeparator,1,['\n']
+SimpleProcess.parameters.ParameterList.parameter.DataRecord.field.DataRecord.field.DataArray.encoding.TextEncoding.decimalSeparator,1,['.']
+SimpleProcess.parameters.ParameterList.parameter.DataRecord.field.DataRecord.field.DataArray.elementType.Vector.referenceFrame,1,['urn:ogc:def:crs:EPSG::4978']
+SimpleProcess.parameters.ParameterList.parameter.DataRecord.field.DataRecord.field.DataArray.elementType.name,1,"['geocentricLocation', 'radialDistortionCoefficients']"
+SimpleProcess.parameters.ParameterList.parameter.DataRecord.field.DataRecord.field.DataArray.elementType.Vector.coordinate.Quantity.label.@value,1,"['Perspective Lens Center X', 'Perspective Lens Center Y', 'Perspective Lens Center Z']"
+SimpleProcess.parameters.ParameterList.parameter.DataRecord.field.DataRecord.field.DataArray.elementType.Vector.coordinate.name,1,"['x', 'y', 'z']"
+SimpleProcess.parameters.ParameterList.parameter.DataRecord.field.DataRecord.field.DataArray.description.@value,1,['\n\t\t\t\t\t\t\t    \t\tRadial lens distortion coefficients.\n\t\t\t\t\t\t\t    \t']
+SimpleProcess.parameters.ParameterList.parameter.DataRecord.field.DataRecord.field.DataArray.elementType.Vector.coordinate.Quantity.uom.code,1,['m']
+SimpleProcess.parameters.ParameterList.parameter.DataRecord.field.DataRecord.field.DataArray.elementCount.Count.value.@value,1,"['3', '5']"
+SimpleProcess.parameters.ParameterList.parameter.DataRecord.field.DataRecord.field.DataArray.encoding.TextEncoding.tokenSeparator,1,"[',']"
+SimpleProcess.parameters.ParameterList.parameter.name,1,"['fsmmgSensorImage', 'fsmmgSensorSession']"
+SimpleProcess.parameters.ParameterList.parameter.DataRecord.definition,1,"['http://gmljp2.aeroptic.com/def/property/OGC/0/fsmmgSensorImage', 'http://gmljp2.aeroptic.com/def/property/OGC/0/fsmmgSensorSession']"
+SimpleProcess.parameters.ParameterList.parameter.DataRecord.field.DataRecord.field.DataArray.elementType.DataRecord.field.Quantity.definition,1,['http://gmljp2.aeroptic.com/def/property/OGC/0/RadialDistortionCoefficient']
+SimpleProcess.parameters.ParameterList.parameter.DataRecord.field.DataRecord.field.DataArray.elementType.DataRecord.field.Quantity.uom.code,1,"['1', 'mm-2', 'mm-4', 'mm-6', 'mm-8']"
+SimpleProcess.description.@value,1,['\n        Test of placing text encoding in a swe:DataArray\n    ']
+SimpleProcess.method.href,1,['http://gmljp2.aeroptic.com/def/method/CSM_FSMMG_v2102']
+SimpleProcess.parameters.ParameterList.parameter.DataRecord.field.DataRecord.field.DataArray.elementType.Vector.coordinate.Quantity.definition,1,['http://gmljp2.aeroptic.com/def/property/OGC/0/GeocentricCoordinate']
+SimpleProcess.parameters.ParameterList.parameter.DataRecord.field.DataRecord.field.DataArray.definition,1,"['http://gmljp2.aeroptic.com/def/property/OGC/0/RadialDistortion', 'http://www.opengis.net/def/property/OGC/0/PerspectiveCenter']"

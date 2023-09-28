@@ -1,0 +1,99 @@
+{
+  "acceptedScientificName": "Eriophorum latifolium Hoppe",
+  "acceptedTaxonKey": 2730210,
+  "associatedReferences": "MAILFAIT P., CADIX L., 1899. Catalogue de la flore du d\u00e9partement des Ardennes (4), Bulletin de la Soci\u00e9t\u00e9 d'Histoire Naturelle des Ardennes. tome 6 : 113-168.",
+  "basisOfRecord": "HUMAN_OBSERVATION",
+  "class": "Liliopsida",
+  "classKey": 196,
+  "continent": "EUROPE",
+  "coordinateUncertaintyInMeters": 2654.0,
+  "country": "France",
+  "countryCode": "FR",
+  "county": "Ardennes",
+  "crawlId": 155,
+  "datasetID": "630EA612-B3CF-42E2-E053-2614A8C0CF63",
+  "datasetKey": "dd238f50-f594-4e51-82af-033227ccab55",
+  "day": 1,
+  "decimalLatitude": 49.57273,
+  "decimalLongitude": 4.70013,
+  "eventDate": "1899-01-01T00:00:00",
+  "eventID": "001117b9-9612-4053-9db8-39aa82f72fd4",
+  "extensions": {},
+  "facts": [],
+  "family": "Cyperaceae",
+  "familyKey": 7708,
+  "gadm": {
+    "level0": {
+      "gid": "FRA",
+      "name": "France"
+    },
+    "level1": {
+      "gid": "FRA.6_1",
+      "name": "Grand Est"
+    },
+    "level2": {
+      "gid": "FRA.6.1_1",
+      "name": "Ardennes"
+    },
+    "level3": {
+      "gid": "FRA.6.1.1_1",
+      "name": "Charleville-M\u00e9zi\u00e8res"
+    }
+  },
+  "gbifID": "3486400308",
+  "genericName": "Eriophorum",
+  "genus": "Eriophorum",
+  "genusKey": 2730118,
+  "geodeticDatum": "WGS84",
+  "hostingOrganizationKey": "1928bdf0-f5d2-11dc-8c12-b8a03c50a862",
+  "http://unknown.org/language": "fr | en",
+  "identificationVerificationStatus": "Non r\u00e9alisable",
+  "identifiedByIDs": [],
+  "identifier": "001117b9-9612-4053-9db8-39aa82f72fd4",
+  "identifiers": [
+    {
+      "identifier": "001117b9-9612-4053-9db8-39aa82f72fd4"
+    }
+  ],
+  "informationWithheld": "G\u00e9ographie soumise \u00e0 floutage \u00e0 la demande du producteur|Geographic information generalized during aggregation at the request of the producer",
+  "installationKey": "e44d0fd7-0edf-477f-aa82-50a81836ab46",
+  "isInCluster": false,
+  "issues": [
+    "CONTINENT_DERIVED_FROM_COORDINATES",
+    "OCCURRENCE_STATUS_UNPARSABLE"
+  ],
+  "iucnRedListCategory": "LC",
+  "key": 3486400308,
+  "kingdom": "Plantae",
+  "kingdomKey": 6,
+  "lastCrawled": "2023-03-07T15:13:25.710+00:00",
+  "lastInterpreted": "2023-08-26T06:34:07.085+00:00",
+  "lastParsed": "2023-08-26T06:34:07.085+00:00",
+  "license": "http://creativecommons.org/licenses/by/4.0/legalcode",
+  "media": [],
+  "month": 1,
+  "municipality": "Chagny",
+  "nameAccordingTo": "Gargominy O (2021). TAXREF. Version 4.7. UMS PatriNat (OFB-CNRS-MNHN), Paris. Checklist dataset https://doi.org/10.15468/vqueam accessed via GBIF.org on 2021-06-28.",
+  "occurrenceID": "001117b9-9612-4053-9db8-39aa82f72fd4",
+  "occurrenceStatus": "PRESENT",
+  "order": "Poales",
+  "orderKey": 1369,
+  "originalNameUsage": "Eriophorum latifolium Hoppe",
+  "phylum": "Tracheophyta",
+  "phylumKey": 7707728,
+  "protocol": "DWC_ARCHIVE",
+  "publishingCountry": "FR",
+  "publishingOrgKey": "1928bdf0-f5d2-11dc-8c12-b8a03c50a862",
+  "recordedBy": "non connu  (Non connu)",
+  "recordedByIDs": [],
+  "relations": [],
+  "scientificName": "Eriophorum latifolium Hoppe",
+  "species": "Eriophorum latifolium",
+  "speciesKey": 2730210,
+  "specificEpithet": "latifolium",
+  "taxonID": "96852",
+  "taxonKey": 2730210,
+  "taxonRank": "SPECIES",
+  "taxonomicStatus": "ACCEPTED",
+  "year": 1899
+}
