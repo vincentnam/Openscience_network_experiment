@@ -38,10 +38,10 @@ sleep 2
 ### Get the list of platform to link to (based on power law distribution with gamma = 2.5 (see paper)
 echo "Adding of a new platform (number with ID '4') : get the list of platform to link to based on wanted distribution."
 
-
+#curl -X GET 193.168.1.10:5000/inscription -H 'platform-id:3'  -H 'Content-Type:application/json' -H 'existing-model-id:2' -d '{"platforms":{"4":{"name":"AERIS2","URL":["http://193.168.1.13:5000"], "links":["2"]}}}'
 curl -X GET 193.168.1.10:5000/inscription -H 'platform-id:4'  -H 'Content-Type:application/json' -H 'existing-model-id:2' -d '{"platforms":{"4":{"name":"AERIS2","URL":["http://193.168.1.13:5000"], "links":["2"]}}}'
 # Return ["2","3"], the list of platforms id that minimize the Kullback-Leibner divergence from power law distribution
-
+#curl -X GET 193.168.1.10:5000/inscription  -H 'Content-Type:application/json'
 
 sleep 2
 # Simulate the requesting from AERIS 2 to ODATIS platforms

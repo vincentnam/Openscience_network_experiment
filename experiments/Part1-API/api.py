@@ -261,7 +261,7 @@ def get_node_nearest_from_distribution():
             #     If the already connected node is the node to connect the most suited, take the second most suited
             if part_one + part_two < value_divkb:
                 aux = copy.deepcopy(app.config["registry"]["network"]["degrees_distribution"][degree - 2])
-                for node in app.config["registry"]["network"]["degrees_distribution"][node_degree - 2][app.config["PLATFORM-ID"]]:
+                for node in app.config["registry"]["network"]["degrees_distribution"][node_degree - 2]:
                     try:
                         aux.remove(node)
                     except:
@@ -287,14 +287,14 @@ def get_node_to_link_to():
     # -d '{"platforms":{"4":{"name":"DATAVERSE","URL":["http://193.168.1.13:5000"], "links":["2"]}}}'
 
     aux_registry = deepcopy(app.config["registry"])
-    data = request.get_json()
+    # data = request.get_json()
     if "platform-id" not in request.headers:
         return "No platform-id"
-    if "existing-model-id" not in request.headers:
-        if "models" not in data:
-            return "No model defined"
-        if "matchs" not in data:
-            return "No matches defined"
+    # if "existing-model-id" not in request.headers:
+    #     if "models" not in data:
+    #         return "No model defined"
+    #     if "matchs" not in data:
+    #         return "No matches defined"
     # Simulate the adding of the platform in the registry to have to list of platform to connect to
     platform_toadd_id = request.headers["platform-id"]
     aux_registry["network"]["node_number"] += 1
